@@ -64,7 +64,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:148
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:152
     old "Opendyslexic"
