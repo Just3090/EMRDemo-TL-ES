@@ -436,7 +436,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
-    new ""
+    new "Transición:"
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
