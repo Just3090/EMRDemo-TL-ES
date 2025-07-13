@@ -560,7 +560,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:354
     old "skip"
-    new ""
+    new "saltar"
 
     # renpy/common/00preferences.rpy:357
     old "skip unseen [text]"
