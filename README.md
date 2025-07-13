@@ -13,7 +13,9 @@ Este proyecto es una traducción sin fines de lucro. Respeta los términos del m
 
 ## Estado del proyecto
 En desarrollo
-\n<!-- PROGRESO_TRADUCCION_START -->
+
+## Progreso
+<!-- PROGRESO_TRADUCCION_START -->
 **403 de 2656 líneas traducidas**
 
 **Progreso:** 15.17%
