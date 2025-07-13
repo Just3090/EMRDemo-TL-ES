@@ -13,3 +13,4 @@ Este proyecto es una traducción sin fines de lucro. Respeta los términos del m
 
 ## Estado del proyecto
 En desarrollo
+\n<!-- PROGRESO_TRADUCCION_START -->\n \n<!-- PROGRESO_TRADUCCION_END -->
