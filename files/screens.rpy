@@ -170,3 +170,11 @@ translate spanish strings:
     old "Skipping"
     new ""
 
+# TODO: Translation updated at 2025-07-13 18:03
+
+translate spanish strings:
+
+    # game/screens.rpy:441
+    old "Please enter your name"
+    new ""
+
