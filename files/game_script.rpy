@@ -346,157 +346,157 @@ translate spanish game_script_691045a1:
 translate spanish game_script_b34ab636:
 
     # s "I just..."
-    s ""
+    s "He estado..."
 
 # game/game_script.rpy:114
 translate spanish game_script_78ce1890:
 
     # "There is a short pause."
-    ""
+    "Se para un momento."
 
 # game/game_script.rpy:115
 translate spanish game_script_94a1ff1e:
 
     # "All is silent, aside from Sayori's sobbing."
-    ""
+    "Todo está en silencio, obviando el leve llanto de Sayori."
 
 # game/game_script.rpy:118
 translate spanish game_script_d74d064a:
 
     # s "I...I was about to do it, [player]..."
-    s ""
+    s "He... He estado a punto de hacerlo, [player]..."
 
 # game/game_script.rpy:119
 translate spanish game_script_dab8e8ba:
 
     # s "I was...so close. I could feel it."
-    s ""
+    s "He estado tan cerca... que casi podía sentirlo."
 
 # game/game_script.rpy:121
 translate spanish game_script_c7bb117c:
 
     # s "I'd have never seen you again."
-    s ""
+    s "No hubiese podido verte otra vez."
 
 # game/game_script.rpy:124
 translate spanish game_script_5e006e6a:
 
     # "I finally pull myself together enough to speak."
-    ""
+    "Aúno todas las fuerzas posibles para poder articular palabras coherentes."
 
 # game/game_script.rpy:126
 translate spanish game_script_7e85b45d:
 
     # mc "Sayori...{w}could you imagine if I'd found you like that?"
-    mc ""
+    mc "Sayori...,{w} ¿puedes imaginarte lo que pasaría si te hubiese encontrado así?"
 
 # game/game_script.rpy:127
 translate spanish game_script_a2b4f5c1:
 
     # mc "My last memory of you, my best friend?"
-    mc ""
+    mc "¿Sabes que 'ese' hubiera sido el último recuerdo que tenga de mi mejor amiga?"
 
 # game/game_script.rpy:130
 translate spanish game_script_31cd6374:
 
     # s "I-I-I..."
-    s ""
+    s "S-S-S..."
 
 # game/game_script.rpy:132
 translate spanish game_script_c74f3dca:
 
     # s "I'm such a failure, [player]."
-    s ""
+    s "Soy un fracaso, [player]..."
 
 # game/game_script.rpy:133
 translate spanish game_script_8f12eec9:
 
     # s "I've only ever been selfish."
-    s ""
+    s "He sido una egoísta."
 
 # game/game_script.rpy:134
 translate spanish game_script_6a29f8fb:
 
     # s "I can't even think about the only person that cares about me for one second."
-    s ""
+    s "Tan egoísta como para no pensar ni un segundo en la única persona que cuida de mí."
 
 # game/game_script.rpy:136
 translate spanish game_script_94fd5938:
 
     # mc "Sayori, please listen."
-    mc ""
+    mc "Sayori, haz el favor de escucharme."
 
 # game/game_script.rpy:137
 translate spanish game_script_b72e96d2:
 
     # mc "There are so many people who care about you."
-    mc ""
+    mc "Hay gente que se preocupa por ti, no soy yo el único."
 
 # game/game_script.rpy:138
 translate spanish game_script_fe052d85:
 
     # mc "Monika, Yuri, Natsuki..."
-    mc ""
+    mc "Monika, yuri, Natsuki..."
 
 # game/game_script.rpy:139
 translate spanish game_script_35850bd4:
 
     # mc "Your parents."
-    mc ""
+    mc "Incluso tus padres."
 
 # game/game_script.rpy:140
 translate spanish game_script_852b9563:
 
     # mc "I want-..."
-    mc ""
+    mc "Quiero qu..."
 
 # game/game_script.rpy:142
 translate spanish game_script_e2026954:
 
     # "I choke back a sob and steady myself again."
-    ""
+    "Retrocedo, puesto que un pequeño sollozo se apodera de mí antes de recomponerme."
 
 # game/game_script.rpy:144
 translate spanish game_script_321480d5:
 
     # mc "I want you to remember that. You have a place here, and it wouldn't be the same."
-    mc ""
+    mc "Quiero que recuerdes bien lo que te voy a decir: tienes un lugar que ocupar en este mundo, y sin ti nada será lo mismo."
 
 # game/game_script.rpy:145
 translate spanish game_script_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script.rpy:146
 translate spanish game_script_3a38f78a:
 
     # mc "And I know it wouldn't be."
-    mc ""
+    mc "Y sé bien que nada será lo mismo."
 
 # game/game_script.rpy:147
 translate spanish game_script_3495352a:
 
     # mc "You told me yourself yesterday."
-    mc ""
+    mc "Tú misma me lo dijiste ayer."
 
 # game/game_script.rpy:153
 translate spanish game_script_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/game_script.rpy:154
 translate spanish game_script_b88b4335:
 
     # "She backs away, catching her breath."
-    ""
+    "Retrocede, cogiendo aire."
 
 # game/game_script.rpy:157
 translate spanish game_script_cb759382:
 
     # mc "I'm here for you."
-    mc ""
+    mc "Estoy aquí para ti, Sayori."
 
 # game/game_script.rpy:158
 translate spanish game_script_7359bd89:
