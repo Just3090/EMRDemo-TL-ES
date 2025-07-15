@@ -238,7 +238,7 @@ translate spanish game_script_88a30d76:
 translate spanish game_script_f063fb7d:
 
     # s "I'm sorry...{w}I'm sorry."
-    s "Lo siento...{w}Lo siento."
+    s "Lo siento...{w} Lo siento."
 
 # game/game_script.rpy:82
 translate spanish game_script_ed13f6ad:
@@ -268,79 +268,79 @@ translate spanish game_script_accadaea:
 translate spanish game_script_5ba299ee:
 
     # "I...{w}almost lost her. My best friend."
-    "Casi...{w}la pierdo. Casi pierdo a mi mejor amiga."
+    "Casi...{w} la pierdo. Casi pierdo a mi mejor amiga."
 
 # game/game_script.rpy:90
 translate spanish game_script_ea79bebf:
 
     # "The one I {i}grew up with{/i}."
-    ""
+    "Con la que crecí."
 
 # game/game_script.rpy:92
 translate spanish game_script_5046be86:
 
     # "Sayori drops the noose, dropping to the floor with a heavy thud."
-    ""
+    "Sayori suelta la cuerda, cayendo al suelo con un golpe seco."
 
 # game/game_script.rpy:93
 translate spanish game_script_8fe1a0ff:
 
     # "Just the act of looking at it makes my heart sink."
-    ""
+    "El simple hecho de mirar la cuerda ahí tirada... hace que mi corazón se ahogue."
 
 # game/game_script.rpy:95
 translate spanish game_script_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/game_script.rpy:96
 translate spanish game_script_9eaafb91:
 
     # "She gets up and rushes towards me, clutching my shirt and crying into my chest."
-    ""
+    "Se abalanza hacia mí, arrugando mi camisa mientras llora en mi pecho."
 
 # game/game_script.rpy:98
 translate spanish game_script_1f4c19a1:
 
     # s "I-I didn't want to face it again."
-    s ""
+    s "N-No quería tener que afrontarlo otra vez."
 
 # game/game_script.rpy:99
 translate spanish game_script_162c8404:
 
     # s "What I...talked to you about."
-    s ""
+    s "Ya sabes..., de lo que te hablé."
 
 # game/game_script.rpy:101
 translate spanish game_script_d2b08650:
 
     # s "I can't wake up every day like this."
-    s ""
+    s "No puedo levantarme de la cama todos los días de la misma manera."
 
 # game/game_script.rpy:103
 translate spanish game_script_dbd84492:
 
     # s "I {i}can't{/i}, [player]."
-    s ""
+    s "No puedo, [player]."
 
 # game/game_script.rpy:105
 translate spanish game_script_6dc4287b:
 
     # "Words catch and stick in my throat, unable to come out."
-    ""
+    "Mis propias palabras se atascan en mi garganta, sin posibilidad de salir."
 
 # game/game_script.rpy:108
 translate spanish game_script_e8a331c8:
 
     # s "I..."
-    s ""
+    s "No..."
 
 # game/game_script.rpy:109
 translate spanish game_script_691045a1:
 
     # s "I can't."
-    s ""
+    s "No puedo."
 
 # game/game_script.rpy:111
 translate spanish game_script_b34ab636:
