@@ -178,3 +178,11 @@ translate spanish strings:
     old "Please enter your name"
     new ""
 
+# TODO: Translation updated at 2025-07-15 18:33
+
+translate spanish strings:
+
+    # game/screens.rpy:473
+    old "Credits"
+    new ""
+
