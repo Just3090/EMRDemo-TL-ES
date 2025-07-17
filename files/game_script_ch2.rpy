@@ -206,7 +206,7 @@ translate spanish game_script_2c9a60c5:
 translate spanish game_script_29b9ea2c:
 
     # "How long was I {i}in{/i} there?"
-    "Pero, ¿cuánto tiempo me he pegado duchándome?"
+    "Pero, ¿cuánto tiempo me he pegado en la ducha?"
 
 # game/game_script.rpy:684
 translate spanish game_script_28faf898:
