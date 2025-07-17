@@ -437,7 +437,7 @@ translate spanish game_script_b72e96d2:
 translate spanish game_script_fe052d85:
 
     # mc "Monika, Yuri, Natsuki..."
-    mc "Monika, yuri, Natsuki..."
+    mc "Monika, Yuri, Natsuki..."
 
 # game/game_script.rpy:139
 translate spanish game_script_35850bd4:
@@ -731,7 +731,7 @@ translate spanish game_script_cf84f0ed:
 translate spanish game_script_21408033:
 
     # "Natsuki is going to kill me."
-    ""
+    "Mierda, Natsuki me va a matar..."
 
 # game/game_script.rpy:233
 translate spanish game_script_5865ec9e:
