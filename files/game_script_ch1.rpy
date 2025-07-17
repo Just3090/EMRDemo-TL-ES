@@ -1913,88 +1913,88 @@ translate spanish game_script_e3a83f2c:
 translate spanish game_script_4488d3f9:
 
     # "The mantra does nothing to quell my worries."
-    ""
+    "Por más que quiera, autoconvencerme no alivia mis preocupaciones."
 
 # game/game_script.rpy:588
 translate spanish game_script_510d2d1e:
 
     # "I begin to tremble as I unlock my door to step inside."
-    ""
+    "Empiezo a temblar al mismo tiempo que desbloqueo la cerradura de la puerta."
 
 # game/game_script.rpy:594
 translate spanish game_script_f847c77c:
 
     # "The moment I enter the kitchen, I flick the light on and collapse into a chair."
-    ""
+    "Cuando entro en la cocina, enciendo la luz y me derrumbo en una silla."
 
 # game/game_script.rpy:595
 translate spanish game_script_b1328f51:
 
     # "I hold my head and try to focus on something else."
-    ""
+    "Me aguanto la cabeza y trato de concentrarme en algo."
 
 # game/game_script.rpy:598
 translate spanish game_script_65152496:
 
     # "I can feel the nerves coming on."
-    ""
+    "Siento que los nervios vuelven a visitarme."
 
 # game/game_script.rpy:599
 translate spanish game_script_99ea0ced:
 
     # "All that adrenaline from earlier has left me mentally and physically exhausted."
-    ""
+    "Toda esa adrenalina de antes me ha dejado destrozado físicay mentalmente."
 
 # game/game_script.rpy:600
 translate spanish game_script_be94bf6b:
 
     # "It’s only then I realize I haven’t eaten today."
-    ""
+    "Y ahí es cuando me doy cuenta de que no he comido en todo el día."
 
 # game/game_script.rpy:601
 translate spanish game_script_393ebcf3:
 
     # "Despite my body screaming at me, I force myself to get up and make a sandwich."
-    ""
+    "A pesar de los gritos de mi cuerpo, me obligo a levantarme y hacerme un sándwich."
 
 # game/game_script.rpy:602
 translate spanish game_script_aa00859e:
 
     # "My mind wanders to the events of the day."
-    ""
+    "Mi mente nada en todos los sucesos del día de hoy."
 
 # game/game_script.rpy:604
 translate spanish game_script_62bf1f21:
 
     # "The image of Sayori, noose around her neck, the frightened expression frozen on her face..."
-    ""
+    "Esa imagen de Sayori con la cuerda rodeando su cuello y esa expresión en su cara, fría a más no poder..."
 
 # game/game_script.rpy:605
 translate spanish game_script_13ffeb34:
 
     # "There’s that feeling...{w}that tightness in the chest..."
-    ""
+    "Es que ese sentimiento...{w} esa opresión que se genera en mi pecho..."
 
 # game/game_script.rpy:606
 translate spanish game_script_c395113b:
 
     # "Why the hell does this feeling keep coming back when I think about-..."
-    ""
+    "¿Por qué coño tengo que sentirme así cada vez que pienso en...?"
 
 # game/game_script.rpy:609
 translate spanish game_script_2bb1ec5c:
 
     # "I don’t want to think about it anymore."
-    ""
+    "No quiero pensar más en 'eso'."
 
 # game/game_script.rpy:610
 translate spanish game_script_bedb5c2b:
 
     # "My mind settles on Monika’s reaction."
-    ""
+    "Mi mente se fija ahora en la reacción que tuvo Monika."
 
 # game/game_script.rpy:611
 translate spanish game_script_cf60b61d:
 
     # "Yuri must have been so stressed, too."
-    ""
+    "Yuri debió de sufrir bastante estrés..."
