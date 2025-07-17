@@ -1870,43 +1870,43 @@ translate spanish game_script_53fcbbda:
 translate spanish game_script_12f1f96c:
 
     # "The mid-afternoon sun warms my back as I approach my house."
-    ""
+    "El sol de mediodía me calienta la espalda a medida que me acerco a casa."
 
 # game/game_script.rpy:581
 translate spanish game_script_89ea0daf:
 
     # "The bus ride seemed to breeze right on by. I barely remember it."
-    ""
+    "El trayecto en autobús ha pasado volando. Ni lo recuerdo ya."
 
 # game/game_script.rpy:582
 translate spanish game_script_1286903d:
 
     # "Before I enter, I turn my head and look at the neighboring house."
-    ""
+    "Antes de entrar, giro la cabeza para mirar a la casa vecina."
 
 # game/game_script.rpy:583
 translate spanish game_script_baa19fba:
 
     # "Her house."
-    ""
+    "Su casa."
 
 # game/game_script.rpy:584
 translate spanish game_script_469cc996:
 
     # "I close my eyes and shake my head."
-    ""
+    "Cierro los ojos y sacudo la cabeza."
 
 # game/game_script.rpy:585
 translate spanish game_script_3d0c95eb:
 
     # "She’s safe now. She’s okay."
-    ""
+    "Está a salvo, está bien."
 
 # game/game_script.rpy:586
 translate spanish game_script_e3a83f2c:
 
     # "She’s in a safe place and she will be okay."
-    ""
+    "Está en un lugar seguro y estará bien."
 
 # game/game_script.rpy:587
 translate spanish game_script_4488d3f9:
