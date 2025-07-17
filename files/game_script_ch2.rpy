@@ -2,49 +2,49 @@
 translate spanish game_script_51d7bc2f:
 
     # "And where was Natsuki?"
-    ""
+    "Pero... ¿y Natsuki?"
 
 # game/game_script.rpy:613
 translate spanish game_script_4bbcaf3f:
 
     # "It seems like everything is just crumbling down today."
-    ""
+    "Es que parece que todo ha decidido derrumbarse justo hoy."
 
 # game/game_script.rpy:614
 translate spanish game_script_8ccaa480:
 
     # "I noticed that she still hasn’t texted back."
-    ""
+    "De hecho, acabo de percatarme de que no me ha respondido a los mensajes que le mandé."
 
 # game/game_script.rpy:615
 translate spanish game_script_2e4da718:
 
     # "Hell, my messages are still unre--{w=0.1}{nw}"
-    ""
+    "Joder, pero si sigue sin habérmelos vis{w=0.1}{nw}"
 
 # game/game_script.rpy:626
 translate spanish game_script_7dbbb621:
 
     # mc "Ah, shit!"
-    mc ""
+    mc "¡Ay, mierda!"
 
 # game/game_script.rpy:628
 translate spanish game_script_2878b9c9:
 
     # "While I was distracted, I accidentally cut my finger open while slicing a tomato."
-    ""
+    "Distraído, he cortado mi dedo sin querer mientras cortaba rodajas de tomate."
 
 # game/game_script.rpy:629
 translate spanish game_script_00557965:
 
     # "The knife clatters to the floor."
-    ""
+    "El cuchillo cae al suelo."
 
 # game/game_script.rpy:630
 translate spanish game_script_0ecb4399:
 
     # "I quickly wrap my finger in a paper towel, letting the few drops of blood soak into it."
-    ""
+    "Con rapidez, envuelvo mi dedo en una toalla de papel, que consigue absorber las pocas gotas de sangre que habían."
 
 # game/game_script.rpy:631
 translate spanish game_script_62ca33bb:
