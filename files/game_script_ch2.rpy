@@ -50,97 +50,97 @@ translate spanish game_script_0ecb4399:
 translate spanish game_script_62ca33bb:
 
     # "Damn, I didn’t feel a thing."
-    ""
+    "Mierda, ni lo he notado."
 
 # game/game_script.rpy:632
 translate spanish game_script_a2c0c639:
 
     # "I guess the knife’s sharp, at least."
-    ""
+    "Será por lo afilado que está."
 
 # game/game_script.rpy:633
 translate spanish game_script_924493cc:
 
     # "Regardless, I go ahead and eat the sandwich."
-    ""
+    "En fin, me acabo comiendo el sándwich."
 
 # game/game_script.rpy:634
 translate spanish game_script_e5ecf9f4:
 
     # "I’m too hungry to care if there’s a little blood on it."
-    ""
+    "Tengo demasiada hambre como para preocuparme por un poco de sangre."
 
 # game/game_script.rpy:635
 translate spanish game_script_e20da3ca:
 
     # "I toss my dish into the sink alongside the knife, and head upstairs to my room."
-    ""
+    "Dejo el plato y el cuchillo en el fregadero y voy derecho a mi habitación."
 
 # game/game_script.rpy:641
 translate spanish game_script_d64011b3:
 
     # "I collapse onto my bed, exhausted from the stress that the day had brought me."
-    ""
+    "Me derrumbo en la cama, agotado por todo el estrés que me ha creado el día de hoy."
 
 # game/game_script.rpy:642
 translate spanish game_script_2b7db65e:
 
     # "I send a text to Sayori, fighting the urge to fall asleep."
-    ""
+    "Le mando un mensaje a Sayori mientras lucho por no quedarme dormido."
 
 # game/game_script.rpy:643
 translate spanish game_script_066eea88:
 
     # "With the message sent, I surrender to my exhaustion."
-    ""
+    "Una vez mando el mensaje, me dejo caer en los brazos de Morfeo."
 
 # game/game_script.rpy:644
 translate spanish game_script_1aab143b:
 
     # "I drift into unconsciousness within minutes."
-    ""
+    "Me quedo inconsciente en cuestión de pocos minutos."
 
 # game/game_script.rpy:660
 translate spanish game_script_11b743b3:
 
     # "I’m pulled from my sleep by the sounds of birds and passing cars."
-    ""
+    "Me despierto con el sonido de los pajaritos y los coches pasando."
 
 # game/game_script.rpy:661
 translate spanish game_script_a0b5851e:
 
     # "I check my phone."
-    ""
+    "Enciendo el teléfono y lo reviso."
 
 # game/game_script.rpy:662
 translate spanish game_script_fd38108b:
 
     # "12:39..."
-    ""
+    "12:39..."
 
 # game/game_script.rpy:663
 translate spanish game_script_351688ce:
 
     # "12:40."
-    ""
+    "12:40..."
 
 # game/game_script.rpy:664
 translate spanish game_script_d9bf793d:
 
     # "Crap, I’m late!"
-    ""
+    "Me cago en... ¡¡Voy tarde!!"
 
 # game/game_script.rpy:665
 translate spanish game_script_fba6b5b7:
 
     # "I bolt out of bed and quickly put on my clothes."
-    ""
+    "Pego un brinco de la cama y me visto en cuestión de segundos."
 
 # game/game_script.rpy:666
 translate spanish game_script_dd6bf717:
 
     # "The adrenaline of anxiety wakes me up completely."
-    ""
+    "La adrenalina de la ansiedad me hace espabilar del sueño que tenía hasta hace unos momentos."
 
 # game/game_script.rpy:667
 translate spanish game_script_69c8cfc9:
