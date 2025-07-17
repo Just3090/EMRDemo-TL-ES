@@ -140,91 +140,91 @@ translate spanish game_script_fba6b5b7:
 translate spanish game_script_dd6bf717:
 
     # "The adrenaline of anxiety wakes me up completely."
-    "La adrenalina de la ansiedad me hace espabilar del sueño que tenía hasta hace unos momentos."
+    "La adrenalina de la ansiedad me hace despertar del todo."
 
 # game/game_script.rpy:667
 translate spanish game_script_69c8cfc9:
 
     # "As I’m changing, I stop and take a moment to think clearly."
-    ""
+    "Mientras me cambio, paro y pienso..."
 
 # game/game_script.rpy:668
 translate spanish game_script_d10b4fc7:
 
     # "If I’m this late already, I might as well not go."
-    ""
+    "Si ya es tan tarde, no creo que merezca la pena ir."
 
 # game/game_script.rpy:669
 translate spanish game_script_4336ec34:
 
     # "Another absence. That’s going to look {i}fantastic{/i} on my school standing."
-    ""
+    "Qué bien va a quedar en mi expediente escolar otra ausencia más."
 
 # game/game_script.rpy:670
 translate spanish game_script_274e99b7:
 
     # "I sigh and sit down, half dressed."
-    ""
+    "Suspiro y me siento, casi vestido."
 
 # game/game_script.rpy:671
 translate spanish game_script_93260731:
 
     # "I can probably still go to the Literature Club, at least."
-    ""
+    "Por lo menos, aún me queda el club de literatura."
 
 # game/game_script.rpy:672
 translate spanish game_script_7912eb13:
 
     # "Check on Natsuki, let Monika and Yuri know what’s going on..."
-    ""
+    "Ir a ver a Natsuki, hacerle saber a Monika y Yuri todo lo que está pasando..."
 
 # game/game_script.rpy:673
 translate spanish game_script_dbd916b4:
 
     # "It’s not going to be a pleasant day."
-    ""
+    "Hoy no va a ser un buen día."
 
 # game/game_script.rpy:674
 translate spanish game_script_96bc78f1:
 
     # "But first...a much-needed shower is in order."
-    ""
+    "Aunque... una buena ducha no me vendría mal."
 
 # game/game_script.rpy:681
 translate spanish game_script_90d336f4:
 
     # "I step out of the bathroom, feeling fresh and clean."
-    ""
+    "Salgo del baño, recién duchado, fresco y limpio como una rosa."
 
 # game/game_script.rpy:682
 translate spanish game_script_2c9a60c5:
 
     # "I check the time again. 13:06."
-    ""
+    "Vuelvo a mirar la hora. 13:06."
 
 # game/game_script.rpy:683
 translate spanish game_script_29b9ea2c:
 
     # "How long was I {i}in{/i} there?"
-    ""
+    "Pero, ¿cuánto tiempo me he pegado duchándome?"
 
 # game/game_script.rpy:684
 translate spanish game_script_28faf898:
 
     # "At least I feel less tense now."
-    ""
+    "Bueno, al menos me siento más relajado."
 
 # game/game_script.rpy:685
 translate spanish game_script_03648c6c:
 
     # "It just occurs to me, neither Natsuki nor Sayori have responded to me."
-    ""
+    "Me acabo de percatar de que ni Natsuki ni Sayori me han respondido."
 
 # game/game_script.rpy:686
 translate spanish game_script_3f95a4bc:
 
     # "I haven’t heard a peep from either of them."
-    ""
+    "No sé nada de ellas."
 
 # game/game_script.rpy:687
 translate spanish game_script_94e8bdeb:
