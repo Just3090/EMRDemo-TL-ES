@@ -230,25 +230,25 @@ translate spanish game_script_3f95a4bc:
 translate spanish game_script_94e8bdeb:
 
     # "My fears have crept their way back, rooting themselves into the pit of my stomach like a vile tumor."
-    ""
+    "Mis miedos han vuelto sigilosamente, arraigándose en la boca de mi estómago como un tumor mortal."
 
 # game/game_script.rpy:688
 translate spanish game_script_25f7f05f:
 
     # "I figure they might have taken Sayori’s phone or she’s turned it off, that’s not a huge deal right now."
-    ""
+    "Me doy cuenta de que pueden haberle quitado el teléfono o que ella misma lo haya apagado, pero no creo que ese sea el mayor de mis problemas."
 
 # game/game_script.rpy:689
 translate spanish game_script_37dc5ba1:
 
     # "She’s in a safe place."
-    ""
+    "Está a salvo."
 
 # game/game_script.rpy:690
 translate spanish game_script_c9d3cffd:
 
     # "But Natsuki..."
-    ""
+    "Pero Natsuki..."
 
 # game/game_script.rpy:691
 translate spanish game_script_aed2c5fb:
