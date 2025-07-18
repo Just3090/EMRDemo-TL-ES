@@ -1942,7 +1942,7 @@ translate spanish game_script_65152496:
 translate spanish game_script_99ea0ced:
 
     # "All that adrenaline from earlier has left me mentally and physically exhausted."
-    "Toda esa adrenalina de antes me ha dejado destrozado físicay mentalmente."
+    "Toda esa adrenalina de antes me ha dejado destrozado física y mentalmente."
 
 # game/game_script.rpy:600
 translate spanish game_script_be94bf6b:
