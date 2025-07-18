@@ -254,367 +254,367 @@ translate spanish game_script_c9d3cffd:
 translate spanish game_script_aed2c5fb:
 
     # "I’m tempted to call her, let her know what’s happened, ask if she’s okay..."
-    ""
+    "Estoy por llamarla, hacerle eco de lo que ha ocurrido, preguntarle si todo va bien..."
 
 # game/game_script.rpy:692
 translate spanish game_script_4c38b8ea:
 
     # "But the rational side of my brain interrupts."
-    ""
+    "Pero la parte sensata de mi cerebro me detiene."
 
 # game/game_script.rpy:693
 translate spanish game_script_bfa380b0:
 
     # "{i}What if she’s in class? What if her phone is broken or something?{/i}"
-    ""
+    "¿Y si está en clase? ¿Y si se le ha roto el teléfono?"
 
 # game/game_script.rpy:694
 translate spanish game_script_d9b6d526:
 
     # "She could be fine for all I know."
-    ""
+    "Por lo que sé, no tiene motivos para estar mal."
 
 # game/game_script.rpy:695
 translate spanish game_script_735724c0:
 
     # "Damn it."
-    ""
+    "Mierda..."
 
 # game/game_script.rpy:696
 translate spanish game_script_de9697ec:
 
     # "I almost wish I were omnipotent, so I wouldn’t have this painful, crushing {i}worry{/i}..."
-    ""
+    "Desearía ser todopoderoso ahora mismo. Siendo así, dejaría de sufrir esta preocupación tan dolorosa..."
 
 # game/game_script.rpy:706
 translate spanish game_script_c055d7ac:
 
     # "I hold my breath and check the time."
-    ""
+    "Aguanto la respiración y miro la hora."
 
 # game/game_script.rpy:707
 translate spanish game_script_59575f84:
 
     # "Club should have started by now."
-    ""
+    "El club ya debe estar abierto."
 
 # game/game_script.rpy:708
 translate spanish game_script_fdb12d86:
 
     # "I follow the path along the courtyard."
-    ""
+    "Voy a través del patio."
 
 # game/game_script.rpy:709
 translate spanish game_script_b6dabb50:
 
     # "At least Sayori isn’t here to scold me for missing class."
-    ""
+    "Menos mal que Sayori no está aquí, ya que me hubiese regañado por haberme saltado las clases."
 
 # game/game_script.rpy:710
 translate spanish game_script_ea65b706:
 
     # "...who am I kidding?"
-    ""
+    "..."
 
 # game/game_script.rpy:711
 translate spanish game_script_704ce469:
 
     # "Right now I’d take any amount of teasing to see her."
-    ""
+    "A quién quiero engañar, aguantaría hasta al diablo por tal de verla."
 
 # game/game_script.rpy:712
 translate spanish game_script_56e847a8:
 
     # "At least she’s in a safe place."
-    ""
+    "Está a salvo y es lo que importa."
 
 # game/game_script.rpy:713
 translate spanish game_script_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:714
 translate spanish game_script_dbbddc1f:
 
     # "I force my thoughts towards the club."
-    ""
-
+    "Me fuerzo a pensar en el club."
+    
 # game/game_script.rpy:715
 translate spanish game_script_f99ef078:
 
     # "Reaching the door, I let myself inside and begin to navigate the hallways."
-    ""
-
+    "Llegando a la puerta del instituto, entro y empiezo a recorrer los pasillos."
+    
 # game/game_script.rpy:718
 translate spanish game_script_0f9c2fc4:
 
     # "After a short walk, I stop outside the door."
-    ""
+    "Después de un pequeño paseo, me quedo en frente de la puerta del club."
 
 # game/game_script.rpy:719
 translate spanish game_script_64a9d6c5:
 
     # "I can see Monika and Yuri inside."
-    ""
+    "Puedo ver a Monika y a Yuri."
 
 # game/game_script.rpy:720
 translate spanish game_script_7cb66bc9:
 
     # "No Natsuki."
-    ""
+    "A Natsuki no."
 
 # game/game_script.rpy:721
 translate spanish game_script_095e0c14:
 
     # "My gut feels like it’s been dropped onto solid concrete."
-    ""
+    "Siento como si mis entrañas se hubiesen estrellado en el hormigón más sólido."
 
 # game/game_script.rpy:722
 translate spanish game_script_7a611292:
 
     # "My already present worry only gets worse."
-    ""
+    "Mi actual preocupación no se alivia... solo empeora."
 
 # game/game_script.rpy:723
 translate spanish game_script_b26d8aca:
 
     # "I take a moment to compose myself before walking in."
-    ""
+    "Espero un momento para recomponerme antes de entrar al club."
 
 # game/game_script.rpy:729
 translate spanish game_script_0556d510:
 
     # "As I enter, both Monika and Yuri turn to stare at me."
-    ""
+    "Al entrar, las dos me miran."
 
 # game/game_script.rpy:731
 translate spanish game_script_0e21eb37:
 
     # "Yuri quickly buries herself back into her book."
-    ""
+    "Yuri entierra su cara en el libro que lee."
 
 # game/game_script.rpy:732
 translate spanish game_script_2755e88e:
 
     # "Whatever plan I had to explain myself vanished the second I entered."
-    ""
+    "El plan que tenía para excusarme se ha ido a la mierda completamente."
 
 # game/game_script.rpy:733
 translate spanish game_script_cac3cb97:
 
     # "I could only stand there awkwardly."
-    ""
+    "Lo único que estoy haciendo es estar de pie con la cara más roja que un tomate."
 
 # game/game_script.rpy:734
 translate spanish game_script_034670b6:
 
     # "I cough and try to stammer out a greeting."
-    ""
+    "Toso y trato de disimular un saludo."
 
 # game/game_script.rpy:736
 translate spanish game_script_150869d6:
 
     # mc "Hi Moni--{w=0.2}{nw}"
-    mc ""
+    mc "Hola, Mon{w=0.2}{nw}"
 
 # game/game_script.rpy:738
 translate spanish game_script_03667fe2:
 
     # m "[player], can we talk?"
-    m ""
+    m "Oye, [player], ¿podemos hablar?"
 
 # game/game_script.rpy:741
 translate spanish game_script_c6a22fa2:
 
     # "She’s uncharacteristically emotionless and dreary, as opposed to her normal cheerful demeanor."
-    ""
+    "A diferencia de su usual comportamiento alegre y risueño, hoy Monika está completamente impasible y muy tristona. "
 
 # game/game_script.rpy:743
 translate spanish game_script_863680b0:
 
     # mc "I mean yeah, I suppose..."
-    mc ""
+    mc "Claro, en plan, supongo..."
 
 # game/game_script.rpy:745
 translate spanish game_script_729bce31:
 
     # m "You want to head out into the hall or..?"
-    m ""
+    m "¿Salimos al pasillo o...?"
 
 # game/game_script.rpy:748
 translate spanish game_script_cf9b21ae:
 
     # "Somehow the prospect of being in a hallway where others could hear is not ideal."
-    ""
+    "No me parece correcto estar en un pasillo donde cualquiera pueda escuchar lo que estemos diciendo."
 
 # game/game_script.rpy:749
 translate spanish game_script_825a7a26:
 
     # "But now I have to explain in front of both Monika {i}and{/i} Yuri."
-    ""
+    "Así que tendré que explicarme frente a Monika y Yuri."
 
 # game/game_script.rpy:750
 translate spanish game_script_a4a42fdc:
 
     # "Great."
-    ""
+    "Geeeenial."
 
 # game/game_script.rpy:753
 translate spanish game_script_d453351e:
 
     # mc "Here is fine."
-    mc ""
+    mc "Aquí mismo."
 
 # game/game_script.rpy:755
 translate spanish game_script_71510bb3:
 
     # m "Alright."
-    m ""
+    m "Vale."
 
 # game/game_script.rpy:758
 translate spanish game_script_bdfa6cfe:
 
     # "Monika leans against the teacher’s desk, her expression blank, yet somehow piercing my soul."
-    ""
+    "Monika se sienta en la mesa del profesor con una expresión vacía que, de alguna manera, penetra en mi alma."
 
 # game/game_script.rpy:759
 translate spanish game_script_46db55ba:
 
     # "This is going to suck."
-    ""
+    "Esto va a joder, y mucho."
 
 # game/game_script.rpy:760
 translate spanish game_script_650a337d:
 
     # "I take a breath."
-    ""
+    "Respiro."
 
 # game/game_script.rpy:762
 translate spanish game_script_8994a7f3:
 
     # mc "I’ll be straight."
-    mc ""
+    mc "Iré al grano."
 
 # game/game_script.rpy:765
 translate spanish game_script_d5057a04:
 
     # mc "Something...{w}happened with Sayori."
-    mc ""
+    mc "Halgo ha...{w} pasado con Sayori."
 
 # game/game_script.rpy:766
 translate spanish game_script_af0be58c:
 
     # mc "I don’t think I can tell you...that’ll be up to her."
-    mc ""
+    mc "No creo que pueda decirte nada... porque es cosa suya hacerlo."
 
 # game/game_script.rpy:768
 translate spanish game_script_13536261:
 
     # mc "But believe me, we didn't want to miss the festival."
-    mc ""
+    mc "Pero créeme, no estaba en nuestros planes perdernos el festival."
 
 # game/game_script.rpy:769
 translate spanish game_script_499e3675:
 
     # mc "It was important to us."
-    mc ""
+    mc "Era muy importante para nosotros."
 
 # game/game_script.rpy:771
 translate spanish game_script_c87c8572:
 
     # mc "We wouldn’t have skipped unless it was important."
-    mc ""
+    mc "No hubiésemos faltado al festival si no fuese tan importante."
 
 # game/game_script.rpy:772
 translate spanish game_script_c4249f6a:
 
     # mc "So, for what it’s worth, I’m really sorry that we didn’t make it."
-    mc ""
+    mc "Si sirve de algo... siento muchísimo no haber asistido."
 
 # game/game_script.rpy:774
 translate spanish game_script_3e0a8671:
 
     # "Well, that was surprisingly natural, and more importantly, honest."
-    ""
+    "Guau, no solo he sido bastante natural... sino también bastante honesto."
 
 # game/game_script.rpy:775
 translate spanish game_script_0a8b8314:
 
     # "Still, I can’t help but worry about her response."
-    ""
+    "Eso sí, me preocupa lo que responda."
 
 # game/game_script.rpy:777
 translate spanish game_script_d362a558:
 
     # "As soon as I finish, Monika’s face softens, her brow furrowing with concern."
-    ""
-
+    "Tal y como termino de hablar, Monika suaviza la expresión y frunce el ceño, preocupada."
+    
 # game/game_script.rpy:780
 translate spanish game_script_11831365:
 
     # m "Is she okay?"
-    m ""
+    m "¿Sayori está bien?"
 
 # game/game_script.rpy:783
 translate spanish game_script_3e4fdc7b:
 
     # mc "Yes...and no. She’s safe, but \"okay\" is stretching it."
-    mc ""
+    mc "Sí... y no. Está a salvo, pero decir que está bien es exagerar..."
 
 # game/game_script.rpy:785
 translate spanish game_script_ef6dfa9c:
 
     # m "I see."
-    m ""
+    m "Ya veo..."
 
 # game/game_script.rpy:788
 translate spanish game_script_6f9d1f4c:
 
     # "Her eyes shift away for a moment, staring into space."
-    ""
+    "Sus ojos se desvían, como si estuviese mirando al espacio."
 
 # game/game_script.rpy:792
 translate spanish game_script_0fb2d05f:
 
     # "She takes a deep breath."
-    ""
+    "Respira hondo."
 
 # game/game_script.rpy:795
 translate spanish game_script_30a66545:
 
     # m "Okay."
-    m ""
+    m "Vale."
 
 # game/game_script.rpy:797
 translate spanish game_script_ae4b72c8:
 
     # m "Needless to say, I owe you an apology."
-    m ""
+    m "No es necesario decirlo, pero te debo una disculpa."
 
 # game/game_script.rpy:799
 translate spanish game_script_42916806:
 
     # m "I was in a panic and shouldn’t have kept bugging you about it."
-    m ""
+    m "Estaba en pánico total y no debí molestarte por teléfono."
 
 # game/game_script.rpy:801
 translate spanish game_script_bed02e4f:
 
     # m "Things have been really stressful for me lately, especially because of the festival."
-    m ""
+    m "He estado bastante estresada últimamente y el festival ha sido una de las principales razones."
 
 # game/game_script.rpy:803
 translate spanish game_script_30b523bb:
 
     # m "So, yeah..."
-    m ""
+    m "Así que sí..."
 
 # game/game_script.rpy:806
 translate spanish game_script_10ca3222:
 
     # "An awkward silence ensues."
-    ""
+    "Tras decir eso, nos inunda un silencio bastante incómodo."
 
 # game/game_script.rpy:807
 translate spanish game_script_dc1f4cea:
