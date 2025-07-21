@@ -872,85 +872,85 @@ translate spanish game_script_79446c8a:
 translate spanish game_script_25916a2f:
 
     # "She looks around, like she’s paranoid about being heard."
-    ""
+    "Empieza a mirar alrededor suya, como si le diese miedo ser escuchada por alguien más."
 
 # game/game_script.rpy:901
 translate spanish game_script_f3899514:
 
     # mc "Nat, you don’t understand, I’ve-..."
-    mc ""
+    mc "Natsuki, no me estás entendiendo. Te he..."
 
 # game/game_script.rpy:903
 translate spanish game_script_834f36ce:
 
     # "She speaks in a harsh whisper."
-    ""
+    "Habla susurrando."
 
 # game/game_script.rpy:906
 translate spanish game_script_79e57ea6:
 
     # n "I know, [player]. I missed the festival and it’s my fault and I know that, okay?"
-    n ""
+    n "Que sí, [player], que no he asistido al festival y es mi culpa y lo sé perfectamente. ¿Bien?"
 
 # game/game_script.rpy:907
 translate spanish game_script_068f57df:
 
     # n "I don’t want them to come out here and start bitching at me and-..."
-    n ""
+    n "Es que no quiero que las señoritas salgan del club, empiecen a putearme y..."
 
 # game/game_script.rpy:909
 translate spanish game_script_9659bc81:
 
     # mc "Natsuki."
-    mc ""
+    mc "Natsuki."
 
 # game/game_script.rpy:912
 translate spanish game_script_20f103e6:
 
     # "She stops her tangent."
-    ""
+    "Se corta en seco."
 
 # game/game_script.rpy:916
 translate spanish game_script_4bac4858:
 
     # mc "I’ve missed you."
-    mc ""
+    mc "Te he echado de menos."
 
 # game/game_script.rpy:917
 translate spanish game_script_30bf3278:
 
     # mc "I’ve been really worried."
-    mc ""
+    mc "Me he preocupado muchísimo por ti."
 
 # game/game_script.rpy:918
 translate spanish game_script_4a701826:
 
     # mc "We’ve all been."
-    mc ""
+    mc "Y no solamente yo. Todo el mundo se ha estado preocupando por ti."
 
 # game/game_script.rpy:921
 translate spanish game_script_d097056a:
 
     # "She looks at me with a reaction that I can only describe as complete shock."
-    ""
-
+    "Su manera de mirarme solo se puede describir como 'absoluta sorpresa'."
+    
 # game/game_script.rpy:924
 translate spanish game_script_572648d5:
 
     # n "You..."
-    n ""
+    n "¿Has...?"
 
 # game/game_script.rpy:926
 translate spanish game_script_c78066fc:
 
     # n "Nnn..."
-    n ""
+    n "Arg..."
 
 # game/game_script.rpy:928
 translate spanish game_script_5808f2e4:
 
     # n "...I’ve missed you too, okay?"
-    n ""
+    n "Yo también te he echado de menos, ¿vale?"
 
 # game/game_script.rpy:930
 translate spanish game_script_7631a0e3:
