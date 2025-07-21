@@ -692,49 +692,49 @@ translate spanish game_script_5c0ed029:
 translate spanish game_script_98dfdb51:
 
     # y "What about...Natsuki..?"
-    y ""
+    y "Y... ¿Qué pasa con... con Natsuki?"
 
 # game/game_script.rpy:831
 translate spanish game_script_88585ca3:
 
     # "The mere mention of Natsuki caught me by surprise."
-    ""
+    "La sola mención de Natsuki me pilla por completa sorpresa."
 
 # game/game_script.rpy:832
 translate spanish game_script_d79ace68:
 
     # "I can feel a wave of mild nausea flooding over me."
-    ""
+    "Un leve mareo seguido de unas náuseas repentinas empiezan a recorrer mi cuerpo."
 
 # game/game_script.rpy:833
 translate spanish game_script_155fd8c4:
 
     # "Where is she?"
-    ""
+    "¿Dónde estará?"
 
 # game/game_script.rpy:836
 translate spanish game_script_7a719667:
 
     # m "Yeah...{w}that was my next question."
-    m ""
+    m "Es que...{w} eso era lo que iba a preguntar ahora."
 
 # game/game_script.rpy:839
 translate spanish game_script_c676d9de:
 
     # mc "I-I haven’t heard from her. At all."
-    mc ""
+    mc "N-No sé nada de ella, en serio."
 
 # game/game_script.rpy:841
 translate spanish game_script_d12618e6:
 
     # m "...She wasn’t with you?"
-    m ""
+    m "¿Es que no estaba contigo?"
 
 # game/game_script.rpy:843
 translate spanish game_script_ee2954ab:
 
     # mc "No, she went home on Sunday after we baked the cupcakes."
-    mc ""
+    mc "Qué va. Se fue el domingo a casa después de hornear los cupcakes conmigo."
 
 # game/game_script.rpy:845
 translate spanish game_script_52168954:
