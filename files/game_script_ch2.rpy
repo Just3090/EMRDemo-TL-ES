@@ -740,133 +740,133 @@ translate spanish game_script_ee2954ab:
 translate spanish game_script_52168954:
 
     # mc "I haven’t heard from her since."
-    mc ""
+    mc "Desde entonces, no he sabido nada de ella."
 
 # game/game_script.rpy:849
 translate spanish game_script_077593f2:
 
     # "The room grows quiet."
-    ""
+    "El club se llena de un silencio abrumador."
 
 # game/game_script.rpy:850
 translate spanish game_script_6810404e:
 
     # "Yuri sits down, staring ahead blankly before aimlessly flipping through her book."
-    ""
+    "Yuri se coloca correctamente en la silla, mira hacia el frente con los ojos perdidos y vuelve a hojear las páginas de su libro."
 
 # game/game_script.rpy:852
 translate spanish game_script_db2ec9b5:
 
     # "Monika closes her eyes and sighs."
-    ""
+    "Monika cierra sus ojos y suspira."
 
 # game/game_script.rpy:855
 translate spanish game_script_89dc7a77:
 
     # m "...Okay."
-    m ""
+    m "Genial..."
 
 # game/game_script.rpy:857
 translate spanish game_script_5c669329:
 
     # m "We’ll have to--{w=0.2}{nw}"
-    m ""
+    m "Pues nada, tendremos que...{w=0.2}{nw}"
 
 # game/game_script.rpy:862
 translate spanish game_script_f3dd91ef:
 
     # "Something catches my eye."
-    ""
+    "Algo llama mi atención."
 
 # game/game_script.rpy:863
 translate spanish game_script_d1c748ae:
 
     # "Outside the clubroom door."
-    ""
+    "Ha sido fuera del aula."
 
 # game/game_script.rpy:864
 translate spanish game_script_bc9edeba:
 
     # "The flash of a familiar shade of pink."
-    ""
+    "Lo que parece un destello de color rosa..."
 
 # game/game_script.rpy:865
 translate spanish game_script_e7bbab77:
 
     # "Was that..."
-    ""
+    "¿Es que era...?"
 
 # game/game_script.rpy:866
 translate spanish game_script_e0c0d21d:
 
     # "Am I just seeing things?"
-    ""
+    "¿... o es que estoy empezando a imaginarme cosas?"
 
 # game/game_script.rpy:867
 translate spanish game_script_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:868
 translate spanish game_script_7935201f:
 
     # "Well, it’s better that I find out rather than standing here contemplating it."
-    ""
+    "Creo que va a ser mejor comprobarlo en lugar de quedarme aquí plantado."
 
 # game/game_script.rpy:870
 translate spanish game_script_ca3fe252:
 
     # mc "Uhhh...I’ll be right back."
-    mc ""
+    mc "Eh... Salgo un momento."
 
 # game/game_script.rpy:872
 translate spanish game_script_0d5c0d55:
 
     # m "Oh...{w}um, alright."
-    m ""
+    m "Ah...{w} Sí, claro."
 
 # game/game_script.rpy:878
 translate spanish game_script_c6f78afa:
 
     # "I probably cut her off from what she was saying, but this is more important."
-    ""
+    "Lo más probable es que haya interrumpido lo que sea que me fuera a decir, pero esto me importa mucho más."
 
 # game/game_script.rpy:879
 translate spanish game_script_c22f4c75:
 
     # "I make every attempt to walk to the door normally and resist the urge to sprint."
-    ""
+    "Trato de ir hacia la puerta como una persona normal, ya que me estoy resistiendo en salir corriendo."
 
 # game/game_script.rpy:883
 translate spanish game_script_86fdc325:
 
     # "Just as the door closes, I break into a jog down the corridor."
-    ""
+    "Cuando salgo y cierro la puerta, empiezo a correr por el pasillo."
 
 # game/game_script.rpy:884
 translate spanish game_script_54a45715:
 
     # "I round the corner and..."
-    ""
+    "Cruzo la esquina y..."
 
 # game/game_script.rpy:888
 translate spanish game_script_a7dce4fa:
 
     # n "...!"
-    n ""
+    n "¡...!"
 
 # game/game_script.rpy:890
 translate spanish game_script_bba43ad0:
 
     # mc "Natsuki! I--{w=0.2}{nw}"
-    mc ""
+    mc "¡Natsuki! Te...{w=0.2}{nw}"
 
 # game/game_script.rpy:896
 translate spanish game_script_79446c8a:
 
     # n "[player]! Keep your voice down...{w}please..."
-    n ""
+    n "¡[player]! Hazme el favor de bajar la voz...,{w} por favor."
 
 # game/game_script.rpy:899
 translate spanish game_script_25916a2f:
