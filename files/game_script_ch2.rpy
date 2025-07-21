@@ -620,73 +620,73 @@ translate spanish game_script_10ca3222:
 translate spanish game_script_dc1f4cea:
 
     # "I have a feeling that the festival failure hit her harder than she’s letting on."
-    ""
+    "Me da que esto le ha afectado más de lo que deja ver."
 
 # game/game_script.rpy:808
 translate spanish game_script_be7cd339:
 
     # "While it was necessary...I still feel awful for contributing to it’s failure."
-    ""
+    "Aunque fuera por un bien mayor... me siento mal por haber contribuido al fracaso del día más importante del club."
 
 # game/game_script.rpy:809
 translate spanish game_script_b8f9c094:
 
     # "Monika rubs my upper arm a bit and gives me a worried look."
-    ""
+    "Monika me frota el hombro y me mira con preocupación."
 
 # game/game_script.rpy:811
 translate spanish game_script_faf2f47f:
 
     # m "Are {i}you{/i} okay?"
-    m ""
+    m "¿'Estás' bien?"
 
 # game/game_script.rpy:813
 translate spanish game_script_17799653:
 
     # "I pause."
-    ""
+    "Hago una pequeña pausa reflexiva."
 
 # game/game_script.rpy:814
 translate spanish game_script_c4360f43:
 
     # "Through the last few days, I haven’t had time to reflect on my mental state."
-    ""
+    "Estos últimos días no he tenido tiempo de pensar en mi salud mental."
 
 # game/game_script.rpy:815
 translate spanish game_script_f384dd61:
 
     # "Well, beyond the lens of anxiety and stress anyway."
-    ""
+    "Obviando el estrés acumulado y la ansiedad mental, claro está..."
 
 # game/game_script.rpy:816
 translate spanish game_script_40a57ef6:
 
     # "Nobody’s really asked me, so I’ve pushed that task aside for more important things."
-    ""
+    "Y es que nadie me ha preguntado por ello, por lo que he dejado ese tema de lado y me he preocupado en lo que me importaba más."
 
 # game/game_script.rpy:818
 translate spanish game_script_135df042:
 
     # mc "Not really, but it’s nothing to worry about."
-    mc ""
+    mc "¿Yo? Pues la verdad es que no muy bien, pero no tienes que preocuparte."
 
 # game/game_script.rpy:821
 translate spanish game_script_5c9ff614:
 
     # "She nods."
-    ""
+    "Asiente."
 
 # game/game_script.rpy:823
 translate spanish game_script_ff709264:
 
     # m "If you insist."
-    m ""
+    m "Genial, si insistes..."
 
 # game/game_script.rpy:827
 translate spanish game_script_5c0ed029:
 
     # "Yuri peers up over her book inquisitively."
-    ""
+    "Yuri echa un vistazo curioso a través de su libro."
 
 # game/game_script.rpy:829
 translate spanish game_script_98dfdb51:
