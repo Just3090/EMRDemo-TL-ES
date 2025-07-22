@@ -956,127 +956,127 @@ translate spanish game_script_5808f2e4:
 translate spanish game_script_7631a0e3:
 
     # n "A lot."
-    n ""
+    n "Un montón."
 
 # game/game_script.rpy:932
 translate spanish game_script_2013f6e7:
 
     # n "I’m sorry that I missed the festival."
-    n ""
+    n "Siento haberme perdido el festival."
 
 # game/game_script.rpy:934
 translate spanish game_script_a7e6f8b7:
 
     # n "I really wanted to go."
-    n ""
+    n "Y no es que no quisiese ir, ¿eh? Todo lo contrario."
 
 # game/game_script.rpy:936
 translate spanish game_script_8093f419:
 
     # mc "It’s okay. Sayori and I weren’t exactly punctual either."
-    mc ""
+    mc "No pasa nada. No es que Sayori y yo fuésemos los más puntuales del club..."
 
 # game/game_script.rpy:940
 translate spanish game_script_280db1cd:
 
     # "She looks at me with confusion."
-    ""
+    "Me mira, confundida por lo que acabo de decir."
 
 # game/game_script.rpy:943
 translate spanish game_script_cbdeaaf4:
 
     # n "...you and Sayori?"
-    n ""
+    n "¿Sayori... y tú?"
 
 # game/game_script.rpy:945
 translate spanish game_script_628894ad:
 
     # mc "Oh god, no, nothing like that."
-    mc ""
+    mc "Joder, no es eso."
 
 # game/game_script.rpy:946
 translate spanish game_script_32387208:
 
     # mc "It’s just, um..."
-    mc ""
+    mc "Es que..., eh..."
 
 # game/game_script.rpy:949
 translate spanish game_script_06c3be59:
 
     # "I debate telling her."
-    ""
+    "Me debato entre contarle lo que ha ocurrido o callarme."
 
 # game/game_script.rpy:950
 translate spanish game_script_6542799f:
 
     # "From what I know, Sayori considers her a best friend alongside myself and maybe Monika."
-    ""
+    "Por lo que sé, Sayori la considera una buena amiga sin contar conmigo y quizás Monika."
 
 # game/game_script.rpy:951
 translate spanish game_script_60513826:
 
     # "She’d want Natsuki to know."
-    ""
+    "Sayori querría que Natsuki supiese la verdad."
 
 # game/game_script.rpy:952
 translate spanish game_script_63888b72:
 
     # "At the same time, I don’t feel comfortable with it."
-    ""
+    "Al mismo tiempo, no me siento cómodo guardándome todo esto..."
 
 # game/game_script.rpy:953
 translate spanish game_script_1255aa88:
 
     # "That’s her decision to make, not mine, just like with Monika and Yuri."
-    ""
+    "Es su decisión, no la mía. Con Monika y Yuri fue así."
 
 # game/game_script.rpy:954
 translate spanish game_script_4294be29:
 
     # "Something doesn’t sit right with me about lying to Natsuki."
-    ""
+    "Y no es que me dients cómodo mintiendo a Natsuki acerca de esto..."
 
 # game/game_script.rpy:955
 translate spanish game_script_695cd465:
 
     # "But I’m not really lying, right?"
-    ""
+    "Y no le estoy mintiendo, ¿no?"
 
 # game/game_script.rpy:956
 translate spanish game_script_c0f83007:
 
     # "It’s just an omission."
-    ""
+    "Es... una pequeña omisión de los hechos."
 
 # game/game_script.rpy:959
 translate spanish game_script_c90baa36:
 
     # mc "An...event occurred. Sayori couldn’t make it and I was with her."
-    mc ""
+    mc "Algo... ocurrió y Sayori no pudo asistir. Como estaba con ella cuando ocurrió..."
 
 # game/game_script.rpy:961
 translate spanish game_script_39a7da28:
 
     # n "...[player], that sounds bad."
-    n ""
+    n "No es que eso suene muy bien, [player]..."
 
 # game/game_script.rpy:963
 translate spanish game_script_8fc48c93:
 
     # n "She okay?"
-    n ""
+    n "¿Está Sayori bien?"
 
 # game/game_script.rpy:965
 translate spanish game_script_4a07d8db:
 
     # mc "Yeah, she is. She’ll be back soon."
-    mc ""
+    mc "Claro, volverá a las andadas dentro de poco, ya verás."
 
 # game/game_script.rpy:968
 translate spanish game_script_058853c8:
 
     # "I feel terrible about not being upfront, but I’m sure she’ll understand if Sayori tells her."
-    ""
+    "Me siento fatal no siendo sincero, pero creo que entenderá por qué lo he hecho si Sayori decide contárselo."
 
 # game/game_script.rpy:969
 translate spanish game_script_8ecac4f5:
