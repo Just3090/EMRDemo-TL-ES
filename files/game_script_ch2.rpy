@@ -1400,301 +1400,301 @@ translate spanish game_script_c37d419d:
 translate spanish game_script_3b85e247:
 
     # m "Just in case the others show up tomorrow, I’d like you two to write poems, if you can."
-    m ""
+    m "Si, por lo que sea, las otras dos deciden aparecer mañana..., me gustaría que Yuri y tú tuviéseis un poema preparado."
 
 # game/game_script.rpy:1079
 translate spanish game_script_9e46a18f:
 
     # m "Maybe it could help, who knows?"
-    m ""
+    m "Puede que eso ayude algo, ¿no crees?"
 
 # game/game_script.rpy:1081
 translate spanish game_script_70ecfa72:
 
     # mc "Yeah, sure I’ll...{w}yeah."
-    mc ""
+    mc "Sí, puede que...{w} sí."
 
 # game/game_script.rpy:1083
 translate spanish game_script_7454284d:
 
     # "{i}Very reassuring.{/i}"
-    ""
+    "Qué tranquilizador..."
 
 # game/game_script.rpy:1084
 translate spanish game_script_2275f0ea:
 
     # "I grab my bag, wave to Monika, and start my way home."
-    ""
+    "Me cuelgo la mochila a la espalda, me despido de Monika y empiezo a caminar a casa."
 
 # game/game_script.rpy:1095
 translate spanish game_script_4463a81c:
 
     # "As I finish off the last scraps of my dinner, I feel my phone buzz from inside my pocket."
-    ""
+    "Cuando termino lo poco que me quedaba de mi cena, siento que mi teléfono vibra en mi bolsillo."
 
 # game/game_script.rpy:1096
 translate spanish game_script_86e4b930:
 
     # "Discarding the dirty plate in the dishwasher first, I pull it out and check the notification."
-    ""
+    "Dejo el plato sucio en el lavavajillas y saco el teléfono para leer la notificación nueva."
 
 # game/game_script.rpy:1097
 translate spanish game_script_0888536c:
 
     # "A text from...Sayori."
-    ""
+    "Un mensaje de... ¿Sayori?"
 
 # game/game_script.rpy:1098
 translate spanish game_script_00f5f75e:
 
     # "Several of them, in fact."
-    ""
+    "De hecho, no solo uno..., sino unos cuantos."
 
 # game/game_script.rpy:1100
 translate spanish game_script_b676df3d:
 
     # s "hey [player_l]...i wont be able to call tonight because im going to sleep soon but i wanted to msg to let u know im doing better."
-    s ""
+    s "Holi, [player_l], quería decirte que no podré llamarte esta noche porque me voy a la cama temprano, pero quiero que sepas que todo va genial y estoy mejorando."
 
 # game/game_script.rpy:1101
 translate spanish game_script_3487adf2:
 
     # s "u were right. the people here are taking rly good care of me!"
-    s ""
+    s "Tenías razón. ¡La gente de aquí me trata superbien!"
 
 # game/game_script.rpy:1102
 translate spanish game_script_0e836bac:
 
     # s "theyve given me some meds. i was rly scared at first, but i think theyre gonna help"
-    s ""
+    s "Me han recetado medicación y, aunque estaba asustadita al principio..., me dijeron que me ayudaría muchísimo."
 
 # game/game_script.rpy:1103
 translate spanish game_script_6c3fe50b:
 
     # s "im sorry for doubting u when u said this would b the best thing for me"
-    s ""
+    s "Siento muchísimo haber dudado de ti cuando me dijiste que esto sería lo mejor para mí."
 
 # game/game_script.rpy:1104
 translate spanish game_script_72bac2be:
 
     # s "btw...they said i could probably come home on thursday, so thats good"
-    s ""
+    s "Y una cosa más: me han dicho que este jueves podría irme a casa, así que guay."
 
 # game/game_script.rpy:1105
 translate spanish game_script_1ece8bef:
 
     # s "ill call u tmrw if i can, after school n club n stuff."
-    s ""
+    s "Te llamo mañana, si puedo, después del instituto, el club y todo eso."
 
 # game/game_script.rpy:1106
 translate spanish game_script_da1b9195:
 
     # s "goodnight [player_l]"
-    s ""
+    s "Buenas noches, [player_l]."
 
 # game/game_script.rpy:1109
 translate spanish game_script_0a25ee6c:
 
     # "Despite this good news, I feel the familiar, cramping sting."
-    ""
+    "Dejando a un lado las buenas noticias, siento un calambrazo bastante familiar."
 
 # game/game_script.rpy:1110
 translate spanish game_script_3d7cd8de:
 
     # "She’s being medicated now?"
-    ""
+    "¿Están medicándola ahora?"
 
 # game/game_script.rpy:1111
 translate spanish game_script_d07ec2a3:
 
     # "I’ve heard stories online about taking stuff like that."
-    ""
+    "He leído foros y publicaciones acerca de gente que ha estado tomando esa clase de cosas."
 
 # game/game_script.rpy:1112
 translate spanish game_script_b5f483e6:
 
     # "What if she completely changes?"
-    ""
-
+    "¿Y si cambia radicalmente?"
+    
 # game/game_script.rpy:1113
 translate spanish game_script_c9dac702:
 
     # "What if she just attempts again?"
-    ""
+    "¿Y si le provoca querer intentar 'eso' otra vez?"
 
 # game/game_script.rpy:1114
 translate spanish game_script_85f54586:
 
     # "I’ll fail her."
-    ""
+    "Le habré fallado."
 
 # game/game_script.rpy:1117
 translate spanish game_script_893d8353:
 
     # "I run the sink and splash some water on my face."
-    ""
+    "Dejo que corra agua en el grifo y me lavo la cara varias veces."
 
 # game/game_script.rpy:1118
 translate spanish game_script_e826ee9a:
 
     # "I can’t bear the thought of her being alone, treated only with pills and encouraging words."
-    ""
+    "No soporto pensar en su soledad y su tratamiento a base de pastillas y palabras alentadoras."
 
 # game/game_script.rpy:1120
 translate spanish game_script_2b7a3890:
 
     # "I can only see her lifeless, dangling from that rope."
-    ""
+    "Lo único que veo es el cuerpo de ella, sin vida, colgando de una cuerda atada al techo."
 
 # game/game_script.rpy:1121
 translate spanish game_script_71c8c2a0:
 
     # "Why is this happening to me?"
-    ""
+    "¿Por qué me tiene que pasar esto a mí?"
 
 # game/game_script.rpy:1122
 translate spanish game_script_d8e5e7bd:
 
     # "I’ve never felt this way before."
-    ""
+    "Si yo nunca me he sentido así..."
 
 # game/game_script.rpy:1123
 translate spanish game_script_02affade:
 
     # "Constantly on-edge."
-    ""
+    "En constante nerviosismo."
 
 # game/game_script.rpy:1124
 translate spanish game_script_b52cfde5:
 
     # "Overthinking and overreacting to news that I {i}should{/i} be happy about."
-    ""
+    "Sobrepensando y exagerando cosas de las noticias buenas que 'deberían' hacerme feliz."
 
 # game/game_script.rpy:1125
 translate spanish game_script_810dd690:
 
     # "I wipe my hands with a towel and send a message back to Sayori."
-    ""
+    "Me seco las manos con una toalla y le mando un mensaje a Sayori de respuesta."
 
 # game/game_script.rpy:1131
 translate spanish game_script_48c037f5:
 
     # mc "Glad to hear you’re doing better. See you soon!"
-    mc ""
+    mc "Me alegra saber que todo va genial. ¡Nos vemos, Sayori!"
 
 # game/game_script.rpy:1133
 translate spanish game_script_3aad7f60:
 
     # "{i}\"See you soon.\"{/i}"
-    ""
+    "Sí, ya. 'Nos vemos, Sayori'."
 
 # game/game_script.rpy:1134
 translate spanish game_script_118f0e8b:
 
     # "If I’m not admitted myself first."
-    ""
+    "Si no me ingresan a mí primero."
 
 # game/game_script.rpy:1136
 translate spanish game_script_2e3d9786:
 
     # "I drag myself upstairs and collapse on my bed."
-    ""
+    "Consigo subir las escaleras y caigo derrotado en mi cama."
 
 # game/game_script.rpy:1137
 translate spanish game_script_2166ddd9:
 
     # "These past couple of days have left me completely drained."
-    ""
+    "Este par de días me han dejado muy seco. Han chupado hasta la última gota de mis energías."
 
 # game/game_script.rpy:1138
 translate spanish game_script_72a64b78:
 
     # "I can’t bring myself to do much of anything, other than worry and sleep."
-    ""
+    "Y lo cierto es que no tengo fuerzas para nada... menos para preocuparme por todo y dormir."
 
 # game/game_script.rpy:1139
 translate spanish game_script_0399d9da:
 
     # "And like a soothing mother, sleep takes me."
-    ""
+    "Y como dice el refrán, caigo en los brazos de Morfeo."
 
 # game/game_script.rpy:1153
 translate spanish game_script_3d9ab0ca:
 
     # "God, I’m in over my head here."
-    ""
+    "Joder, siento que estoy sobrepasando mis límites."
 
 # game/game_script.rpy:1154
 translate spanish game_script_b73bcfa3:
 
     # "Given how quickly my classes are moving, missing two days of school has taken a toll on my studies."
-    ""
+    "Dado lo rápidas que están siendo las clases, estos dos días sin asistir han hecho mucha mella en mí."
 
 # game/game_script.rpy:1156
 translate spanish game_script_e2ad6864:
 
     # "I have a {i}lot{/i} of catching up to do."
-    ""
+    "Tengo bastante que hacer si quiero ponerme al día."
 
 # game/game_script.rpy:1157
 translate spanish game_script_2d02629e:
 
     # "I can hardly focus on what the teacher is saying."
-    ""
+    "La cosa es que me cuesta concentrarme en lo que dice el profesor."
 
 # game/game_script.rpy:1158
 translate spanish game_script_17e688b4:
 
     # "It all seems so trivial given what’s happening with Sayori..."
-    ""
+    "Si lo comparo con lo que le ha sucedido a Sayori, me parece una chorrada..."
 
 # game/game_script.rpy:1159
 translate spanish game_script_9504d1ec:
 
     # "And Natsuki..."
-    ""
+    ""Y Natsuki...
 
 # game/game_script.rpy:1160
 translate spanish game_script_c199f5bf:
 
     # "Perhaps I’m worrying about nothing."
-    ""
+    "Puede que me esté preocupando por nada."
 
 # game/game_script.rpy:1161
 translate spanish game_script_a50ae212:
 
     # "Sayori may very well be seriously improving."
-    ""
+    "Lo más probable es que Sayori esté mejorando con creces."
 
 # game/game_script.rpy:1162
 translate spanish game_script_3f514eba:
 
     # "Maybe Natsuki {i}is{/i} telling the truth, and I’m just paranoid."
-    ""
+    "Y puede que Natsuki me haya dicho la verdad y el paranoico sea yo."
 
 # game/game_script.rpy:1163
 translate spanish game_script_d2f43ab8:
 
     # "Regardless, one thing’s for certain."
-    ""
+    "Dejando eso de lado, algo sí es cierto:"
 
 # game/game_script.rpy:1164
 translate spanish game_script_9918019a:
 
     # "I’m slowly becoming a nervous wreck."
-    ""
+    "me estoy volviendo un manojo de nervios muy lentamente."
 
 # game/game_script.rpy:1165
 translate spanish game_script_8dc975a3:
 
     # "Fantastic."
-    ""
+    "Es fantástico, en serio."
 
 # game/game_script.rpy:1166
 translate spanish game_script_0aac335e:
 
     # "My already dwindling focus runs out completely."
-    ""
+    "Mi ya menguante concentración termina por disiparse del todo."
 
 # game/game_script.rpy:1167
 translate spanish game_script_38efb0e0:
