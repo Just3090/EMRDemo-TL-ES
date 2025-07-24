@@ -1700,145 +1700,145 @@ translate spanish game_script_0aac335e:
 translate spanish game_script_38efb0e0:
 
     # "All I can think about is a sense of foreboding doom, and the anxiety of an uncertain future."
-    ""
+    "En todo en lo que puedo pensar ahora es que algo malo está ocurriendo y que me come la ansiedad por el futuro incierto que me espera."
 
 # game/game_script.rpy:1168
 translate spanish game_script_95c3ee08:
 
     # "The lesson from hell mercifully ends as the last bell rings."
-    ""
+    "La clase infernal acaba con el sonido del último timbre del día."
 
 # game/game_script.rpy:1169
 translate spanish game_script_c6f30a14:
 
     # "And just like that, I’m brought back to reality."
-    ""
+    "Y, tal cual suena el timbre, vuelvo a la realidad de golpe."
 
 # game/game_script.rpy:1170
 translate spanish game_script_8aa18336:
 
     # "I hastily chuck my materials into my bag."
-    ""
+    "Con mucha prisa, tiro mis cosas en la mochila."
 
 # game/game_script.rpy:1171
 translate spanish game_script_712c83c0:
 
     # "I’m the first one out of the door."
-    ""
+    "Soy el primero en salir de clase."
 
 # game/game_script.rpy:1175
 translate spanish game_script_36fc4a9d:
 
     # "Following the now-familiar route to the club, I weave through the crowd of students making their way to the staircase."
-    ""
+    "Siguiendo la ruta familiar, consigo abrirme paso entre las hordas de estudiantes dirigiéndome al club."
 
 # game/game_script.rpy:1176
 translate spanish game_script_1557d4e9:
 
     # "As I come up to the final bend, I hear Monika conversing with someone."
-    ""
+    "A medida que subo las escaleras, escucho a Monika haablar con alguien."
 
 # game/game_script.rpy:1177
 translate spanish game_script_2a27aa9a:
 
     # "Slowing down my pace, I wait just by the corner, to not interrupt."
-    ""
+    "Caminando lentamente, me quedo acechando en la esquina para evitar interrumpir."
 
 # game/game_script.rpy:1180
 translate spanish game_script_7b993bad:
 
     # m "...A stroke?"
-    m ""
+    m "¿... derame cerebral?"
 
 # game/game_script.rpy:1181
 translate spanish game_script_9d0dbae9:
 
     # m "That’s awful, I’m sorry."
-    m ""
+    m "Dios, es horrible. Lo siento muchísimo."
 
 # game/game_script.rpy:1182
 translate spanish game_script_424c6dc6:
 
     # n "Yeah...we were all pretty upset."
-    n ""
+    n "Sí..., estábamos bastante fastidiados con el tema..."
 
 # game/game_script.rpy:1183
 translate spanish game_script_e829cd08:
 
     # n "Our whole family was there."
-    n ""
+    n "Toda mi familia estaba presente."
 
 # game/game_script.rpy:1184
 translate spanish game_script_4a4dc0a6:
 
     # n "She’s doing much better now, though..."
-    n ""
+    n "Supongo que va mejorando con el tiempo..."
 
 # game/game_script.rpy:1186
 translate spanish game_script_090b7dc3:
 
     # "...{w}what?"
-    ""
+    "Que...{w} ¿¡Qué!? "
 
 # game/game_script.rpy:1187
 translate spanish game_script_1cc85908:
 
     # "That’s...completely different from what she told me yesterday."
-    ""
+    "Pero si es... todo lo contrario a lo que me dijo ayer."
 
 # game/game_script.rpy:1188
 translate spanish game_script_1e6403ec:
 
     # "Between this and her evasive behavior, I have no idea what’s going on."
-    ""
+    "Entre esto y sus argumentos evasivos, no tengo ni idea de lo que está pasando..."
 
 # game/game_script.rpy:1189
 translate spanish game_script_cea29739:
 
     # "Why would she lie to me? Or Monika?"
-    ""
+    "¿Por qué me mentiría? ¿Por qué mentirle a Monika?"
 
 # game/game_script.rpy:1190
 translate spanish game_script_2e856fb2:
 
     # "Or both?"
-    ""
+    "¿Por qué mentirnos a ambos diciendo cosas diferentes?"
 
 # game/game_script.rpy:1191
 translate spanish game_script_6356f0e1:
 
     # "Was it something I did?"
-    ""
+    "¿Le he hecho algo?"
 
 # game/game_script.rpy:1194
 translate spanish game_script_bba776da:
 
     # n "Oh, hey [player]!"
-    n ""
+    n "¡Anda, [player]!"
 
 # game/game_script.rpy:1197
 translate spanish game_script_8bfcdcde:
 
     # "Natsuki quickly waves at me and heads inside the clubroom, beckoning me to follow."
-    ""
+    "Al parecer, se ha dado cuenta de mi posición, ya que me saluda y entra en el aula, invitándome a entrar con ella."
 
 # game/game_script.rpy:1203
 translate spanish game_script_34a64be0:
 
     # "As I enter, I hear Monika and Yuri already engaged in a conversation about...something."
-    ""
+    "Tal y como entro, Monika y Yuri empiezan a hablar de... ¿algo?"
 
 # game/game_script.rpy:1204
 translate spanish game_script_f7d1a3c8:
 
     # "Sounds like they’re talking about a book Yuri’s been reading."
-    ""
+    "Creo que es sobre el libro que lee Yuri."
 
 # game/game_script.rpy:1207
 translate spanish game_script_b14691a9:
 
     # "We move past and head straight to the windowsill - our usual spot."
-    ""
+    "Natsuki y yo vamos bajo el alféizar de la ventana, que es el sitio en el que nos ponemos siempre."
 
 # game/game_script.rpy:1209
 translate spanish game_script_746cc901:
