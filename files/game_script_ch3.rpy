@@ -2,253 +2,253 @@
 translate spanish game_script_1e076559:
 
     # "Running my finger along the volumes, I find the second and swipe it out."
-    ""
+    "Moviendo mis ágiles dedos por cada portada, localizo el segundo tomo y lo saco del montón."
 
 # game/game_script.rpy:1255
 translate spanish game_script_ee184524:
 
     # "I replace it with the old one."
-    ""
+    "Pongo el antiguo donde estaba el nuevo."
 
 # game/game_script.rpy:1258
 translate spanish game_script_2d950210:
 
     # n "Hey, hey, keep them in order!"
-    n ""
+    n "¡Espera, espera! ¡No pongas ese ahí, que hay un orden!"
 
 # game/game_script.rpy:1260
 translate spanish game_script_634fa178:
 
     # "She scoffs, before putting the first volume in order with the others."
-    ""
+    "Mientras me regaña, coloca el volumen que puse yo en su sitio correcto."
 
 # game/game_script.rpy:1262
 translate spanish game_script_dc0ff26a:
 
     # mc "Sorry."
-    mc ""
+    mc "Perdona..."
 
 # game/game_script.rpy:1264
 translate spanish game_script_2371c53f:
 
     # n "Don’t worry about it."
-    n ""
+    n "No pasa nada."
 
 # game/game_script.rpy:1266
 translate spanish game_script_a3239f9b:
 
     # n "It just gets confusing otherwise..."
-    n ""
+    n "Es que después es un lío..."
 
 # game/game_script.rpy:1268
 translate spanish game_script_b5fbd5a1:
 
     # mc "Good point."
-    mc ""
+    mc "Bien visto."
 
 # game/game_script.rpy:1271
 translate spanish game_script_82d7b967:
 
     # "I’m sure she’d {i}love{/i} the state of my DVD collection."
-    ""
+    "Pues te aseguro, Natsuki, que te va a encantar ver mi colección de discos DVD."
 
 # game/game_script.rpy:1272
 translate spanish game_script_f506e3b7:
 
     # "Natsuki yanks the manga out of my hands, and flips straight to the first page."
-    ""
+    "Natsuki me arranca el tomo de las manos y abre la primera página."
 
 # game/game_script.rpy:1273
 translate spanish game_script_63cf03c0:
 
     # "She holds it out between us, like before."
-    ""
+    "Nos ponemos en la misma posición que antes: Natsuki coge el libro y lo pone justo en medio."
 
 # game/game_script.rpy:1274
 translate spanish game_script_5fe004ab:
 
     # "We’re only a few pages in when my mind starts to wander."
-    ""
+    "Tras unas pocas páginas, mi mente empieza a divagar."
 
 # game/game_script.rpy:1277
 translate spanish game_script_6ebdf729:
 
     # "I need to stop putting it off."
-    ""
+    "No puedo atrasar lo inevitable."
 
 # game/game_script.rpy:1278
 translate spanish game_script_db45756c:
 
     # "This is the perfect opportunity to ask her what’s going on."
-    ""
+    "No se me va a presentar otra oportunidad igual de preguntarle qué narices está pasando."
 
 # game/game_script.rpy:1279
 translate spanish game_script_9e71916c:
 
     # "Monika and Yuri are busy - they left the clubroom to go look for a hole-puncher."
-    ""
+    "Monika y Yuri están haciendo cosas más importantes... que viene a ser buscar una perforadora. Se han ido, así que no hay nadie escuchando."
 
 # game/game_script.rpy:1280
 translate spanish game_script_bcdc6f30:
 
     # "It’s nearly the end of the club day."
-    ""
+    "Aunque ya casi acaba la reunión del club..."
 
 # game/game_script.rpy:1281
 translate spanish game_script_052fb393:
 
     # "We can always come back to the manga."
-    ""
+    "Del manga nos podemos encargar en otro momento, digo yo."
 
 # game/game_script.rpy:1282
 translate spanish game_script_98cc1b76:
 
     # "And I really need to know if something’s wrong..."
-    ""
+    "Porque lo que más me importa ahora mismo es saber si algo anda mal..."
 
 # game/game_script.rpy:1283
 translate spanish game_script_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:1284
 translate spanish game_script_a44df915:
 
     # "To hell with it."
-    ""
+    "Al carajo."
 
 # game/game_script.rpy:1285
 translate spanish game_script_81e19974:
 
     # "I’ll ask her now."
-    ""
+    "Le pregunto ahora."
 
 # game/game_script.rpy:1288
 translate spanish game_script_3aa42c3b:
 
     # mc "Natsuki..."
-    mc ""
+    mc "Oye..."
 
 # game/game_script.rpy:1290
 translate spanish game_script_12f9f4b0:
 
     # n "Yeah?"
-    n ""
+    n "¿Qué pasa?"
 
 # game/game_script.rpy:1292
 translate spanish game_script_9572d93a:
 
     # mc "I...{w}I overheard you talking to Monika earlier."
-    mc ""
+    mc "Te...{w} Te oí hablar con Monika antes."
 
 # game/game_script.rpy:1293
 translate spanish game_script_85a1f81a:
 
     # mc "You mentioned that someone in your family had a stroke, so you couldn’t make it to the festival."
-    mc ""
+    mc "Dijiste que alguien de tu familia sufrió un derrame cerebral y que no asististe al festival por eso."
 
 # game/game_script.rpy:1296
 translate spanish game_script_4616d0b6:
 
     # n "I-{w=0.2}{nw}"
-    n ""
+    n "Pues...{w=0.2}{nw}"
 
 # game/game_script.rpy:1298
 translate spanish game_script_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script.rpy:1300
 translate spanish game_script_63bdf27d:
 
     # mc "Before you say...{w}I don’t care about the festival."
-    mc ""
+    mc "Antes de que lo digas...{w} me la suda el festival. Me da exactamente igual."
 
 # game/game_script.rpy:1301
 translate spanish game_script_ec4abb61:
 
     # mc "I’m not mad at you, it’s just..."
-    mc ""
+    mc "Además, ni siquiera me he enfadado contigo. Es que...,"
 
 # game/game_script.rpy:1302
 translate spanish game_script_6b4e0a1a:
 
     # mc "That’s not what you told me, and..."
-    mc ""
+    mc "no fue esa versión la que me contaste, y..."
 
 # game/game_script.rpy:1303
 translate spanish game_script_412f94c5:
 
     # mc "Is something going on?"
-    mc ""
+    mc "¿Pasa algo malo en casa?"
 
 # game/game_script.rpy:1305
 translate spanish game_script_a51de77b:
 
     # n "[player]..."
-    n ""
+    n "[player], yo..."
 
 # game/game_script.rpy:1307
 translate spanish game_script_db381410:
 
     # m "{i}Got it!{/i}"
-    m ""
+    m "¡Por fin lo tengo!"
 
 # game/game_script.rpy:1309
 translate spanish game_script_cd82f58c:
 
     # "Monika swings open the clubroom door, waving the hole-puncher around like a trophy."
-    ""
+    "Monika abre la puerta del aula de golpe, mientras sostiene un perforador de papeles en la mano."
 
 # game/game_script.rpy:1310
 translate spanish game_script_84367f24:
 
     # "Yuri follows behind her, carrying a box full of lined paper."
-    ""
+    "Yuri la sigue por detrás llevando una caja llena de papel de líneas."
 
 # game/game_script.rpy:1311
 translate spanish game_script_4f88cf16:
 
     # "She sets it down on one of the desks."
-    ""
+    "Yuri deja la caja en uno de los pupitres."
 
 # game/game_script.rpy:1314
 translate spanish game_script_512e301d:
 
     # "Natsuki sighs, before whispering to me."
-    ""
+    "Natsuki suspira antes de susurrarme."
 
 # game/game_script.rpy:1317
 translate spanish game_script_b101140d:
 
     # n "Not here."
-    n ""
+    n "Aquí ni de coña."
 
 # game/game_script.rpy:1319
 translate spanish game_script_e7a92b7d:
 
     # n "The fountain, outside."
-    n ""
+    n "La fuente. Patio."
 
 # game/game_script.rpy:1321
 translate spanish game_script_d5a2ccdd:
 
     # n "And bring Parfait Girls with you."
-    n ""
+    n "Y coge la caja de Parfait Girls y llévatela."
 
 # game/game_script.rpy:1324
 translate spanish game_script_8ce61eb8:
 
     # "I nod."
-    ""
+    "Asiento."
 
 # game/game_script.rpy:1327
 translate spanish game_script_04fdac4e:
 
     # "Natsuki stands up, stretching for a moment."
-    ""
+    "Natsuki se levanta y se estira."
 
 # game/game_script.rpy:1328
 translate spanish game_script_84b239bd:
