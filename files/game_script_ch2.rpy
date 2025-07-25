@@ -1844,154 +1844,154 @@ translate spanish game_script_b14691a9:
 translate spanish game_script_746cc901:
 
     # "Natsuki yanks open the closet door, and starts fishing around for her Parfait Girls collection."
-    ""
+    "De un tirón, Natsuki abre la puerta del armario y empieza a rebuscar su colección de Parfait Girls."
 
 # game/game_script.rpy:1210
 translate spanish game_script_4c6188da:
 
     # "I hold back."
-    ""
+    "Lo estoy pensando ahora..."
 
 # game/game_script.rpy:1211
 translate spanish game_script_cb7c5692:
 
     # "{i}A stroke?{/i}"
-    ""
+    "¡¿Un derrame cerebral?!"
 
 # game/game_script.rpy:1212
 translate spanish game_script_be011780:
 
     # "Really?"
-    ""
+    "Joder, ¿en serio?"
 
 # game/game_script.rpy:1213
 translate spanish game_script_f0f8b0d6:
 
     # "I feel a little sick."
-    ""
+    "Me empiezo a sentir mareado."
 
 # game/game_script.rpy:1214
 translate spanish game_script_d7bd6537:
 
     # "She {i}is{/i} hiding something, that much is clear."
-    ""
+    "Lo que está más claro que el agua es que esconde algo...,"
 
 # game/game_script.rpy:1215
 translate spanish game_script_66c13733:
 
     # "But what?"
-    ""
+    "pero la pregunta es 'qué esconde'."
 
 # game/game_script.rpy:1216
 translate spanish game_script_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:1217
 translate spanish game_script_8a55d0ff:
 
     # "I have to broach the subject with her."
-    ""
+    "Tengo que hablarle de esto."
 
 # game/game_script.rpy:1219
 translate spanish game_script_812684e8:
 
     # "Natsuki returns, box in hand, and rifles through it for the first volume."
-    ""
+    "Caja en mano, Natsuki busca el primer tomo."
 
 # game/game_script.rpy:1220
 translate spanish game_script_b504ef5a:
 
     # "I quickly spot it and pull it from the box."
-    ""
+    "Con rapidez, me doy cuenta de dónde está y lo saco de la caja."
 
 # game/game_script.rpy:1221
 translate spanish game_script_e4ced1bf:
 
     # "We then slouch down, and sit against the wall."
-    ""
+    "Nos sentamos contra la pared."
 
 # game/game_script.rpy:1227
 translate spanish game_script_ea393697:
 
     # mc "Well, looks like we’re finally through the first volume."
-    mc ""
+    mc "Vaya, quién diría que ya hemos terminado el primer tomo."
 
 # game/game_script.rpy:1228
 translate spanish game_script_aea7890d:
 
     # mc "And it only took us...{w}45 minutes."
-    mc ""
+    mc "Y ha durado...{w} cuarenta y cinco minutos."
 
 # game/game_script.rpy:1230
 translate spanish game_script_2fe1bf98:
 
     # n "Yeah."
-    n ""
+    n "Ya...,"
 
 # game/game_script.rpy:1232
 translate spanish game_script_d9bd2d64:
 
     # n "Now only eleven more parts!"
-    n ""
+    n "¡porque quedan once tomos más!"
 
 # game/game_script.rpy:1234
 translate spanish game_script_1138e799:
 
     # mc "{i}I can hardly contain my excitement.{/i}"
-    mc ""
+    mc "'Me siento incapaz de ocultar mi pasión por tal afirmación. Siento mi corazón desbordarse de mi pecho'."
 
 # game/game_script.rpy:1236
 translate spanish game_script_39804dee:
 
     # n "{i}Hey!{/i}"
-    n ""
+    n "¡Pero bueno!"
 
 # game/game_script.rpy:1239
 translate spanish game_script_388fc2f6:
 
     # "Natsuki lightly punches my arm in retaliation for my remark."
-    ""
+    "Natsuki me pega un pequeño golpe en el brazo. Ha pillado mi sarcasmo al vuelo."
 
 # game/game_script.rpy:1241
 translate spanish game_script_ca8226bd:
 
     # mc "Oh, come on."
-    mc ""
+    mc "Venga ya, mujer."
 
 # game/game_script.rpy:1242
 translate spanish game_script_ba508bd4:
 
     # mc "I like Parfait Girls, really."
-    mc ""
+    mc "Pero si tú sabes que me encanta Parfait Girls."
 
 # game/game_script.rpy:1244
 translate spanish game_script_f0f89104:
 
     # n "I know you do."
-    n ""
+    n "Lo sé, tranquilo."
 
 # game/game_script.rpy:1246
 translate spanish game_script_2619cad0:
 
     # n "You wouldn’t have bothered sitting and reading through it with me if you didn’t!"
-    n ""
+    n "Si te aburriese o te disgustase, ¡no estarías aquí leyendo conmigo!"
 
 # game/game_script.rpy:1249
 translate spanish game_script_fa0eb17d:
 
     # "I think I’d sit through pretty much anything if it was in Natsuki’s company."
-    ""
+    "No miente, pero siendo Natsuki... cualquier cosa que haga me vale."
 
 # game/game_script.rpy:1251
 translate spanish game_script_7e00e9ab:
 
     # mc "Anyway..."
-    mc ""
+    mc "En fin..."
 
 # game/game_script.rpy:1253
 translate spanish game_script_9d4df199:
 
     # "I lean forward and shift the box towards me."
-    ""
+    "Me inclino un poco hacia adelante para coger la caja."
