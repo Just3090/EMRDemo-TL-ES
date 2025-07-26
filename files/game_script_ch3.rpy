@@ -86,7 +86,7 @@ translate spanish game_script_db45756c:
 translate spanish game_script_9e71916c:
 
     # "Monika and Yuri are busy - they left the clubroom to go look for a hole-puncher."
-    "Monika y Yuri están haciendo cosas más importantes... que viene a ser buscar una perforadora. Se han ido, así que no hay nadie escuchando."
+    "Monika y Yuri están haciendo cosas más importantes... que viene a ser, sin ir más lejos, buscar una perforadora. Se han ido, así que no hay nadie escuchando."
 
 # game/game_script.rpy:1280
 translate spanish game_script_bcdc6f30:
