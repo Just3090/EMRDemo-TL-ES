@@ -440,709 +440,709 @@ translate spanish game_script_eeb83adf:
 translate spanish game_script_0cd52337:
 
     # "I weave through the hallways, making my way to the double doors leading out into the courtyard."
-    ""
+    "Corro por los pasillos hasta llegar a las puertas que dan paso al patio."
 
 # game/game_script.rpy:1402
 translate spanish game_script_77091473:
 
     # "I spot Natsuki straight away, sitting alone on one of the benches in front of the fountain."
-    ""
+    "Veo a Natsuki justo delante, sentada en uno de los bancos que hay rodeando la fuente."
 
 # game/game_script.rpy:1403
 translate spanish game_script_fd42519d:
 
     # "I head over and take a seat next to her, setting the manga down next to me."
-    ""
+    "Me siento justo al lado de ella, dejando la caja en mis pies."
 
 # game/game_script.rpy:1411
 translate spanish game_script_cb70afb1:
 
     # mc "So..."
-    mc ""
+    mc "Entonces..."
 
 # game/game_script.rpy:1415
 translate spanish game_script_68569e9e:
 
     # "Natsuki doesn’t respond."
-    ""
+    "Natsuki no me dice nada."
 
 # game/game_script.rpy:1416
 translate spanish game_script_91cb5596:
 
     # "She just stares ahead blankly."
-    ""
+    "Lo único que hace es mirar hacia el frente con la mirada perdida."
 
 # game/game_script.rpy:1418
 translate spanish game_script_3d238ca7:
 
     # mc "Natsuki?"
-    mc ""
+    mc "¿Hola?"
 
 # game/game_script.rpy:1424
 translate spanish game_script_77d65967:
 
     # "No response."
-    ""
+    "No responde."
 
 # game/game_script.rpy:1430
 translate spanish game_script_e0647959:
 
     # mc "Would you...{w}rather not talk about it?"
-    mc ""
+    mc "¿Es que prefieres...{w} no hablar de ello?"
 
 # game/game_script.rpy:1431
 translate spanish game_script_83380c9c:
 
     # mc "Should we just..?"
-    mc ""
+    mc "¿Crees que es mejor...?"
 
 # game/game_script.rpy:1440
 translate spanish game_script_e45fd684:
 
     # "I take the second volume of Parfait Girls out of the box."
-    ""
+    "Cojo el segundo tomo de Parfait Girls de la caja."
 
 # game/game_script.rpy:1445
 translate spanish game_script_6ec681f7:
 
     # "Rifling through the pages, I try to look for the page we left off on."
-    ""
+    "Peleándome con las páginas, no consigo encontrar en la que nos quedamos leyendo."
 
 # game/game_script.rpy:1451
 translate spanish game_script_50383893:
 
     # mc "Hey, what page were we on?"
-    mc ""
+    mc "Oye, ¿en qué página lo dejamos?"
 
 # game/game_script.rpy:1452
 translate spanish game_script_37c9a6f5:
 
     # mc "I remember something about a cafe scene..."
-    mc ""
+    mc "Recuerdo algo de una cafetería..."
 
 # game/game_script.rpy:1457
 translate spanish game_script_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script.rpy:1462
 translate spanish game_script_c62fa3ff:
 
     # mc "Earth to Natsu----{nw}"
-    mc ""
+    mc "¿Hola? Tierra a Natsu{nw}"
 
 # game/game_script.rpy:1472
 translate spanish game_script_21bf6dc1:
 
     # n "{cps=20}My dad hurts me.{/cps}"
-    n ""
+    n "{cps=20}Mi padre abusa físicamente de mí.{/cps}"
 
 # game/game_script.rpy:1477
 translate spanish game_script_aa35c690:
 
     # n "Almost every day."
-    n ""
+    n "Casi todos los días."
 
 # game/game_script.rpy:1478
 translate spanish game_script_bd32268f:
 
     # n "He has for as long as I can remember."
-    n ""
+    n "Y lo ha hecho desde que tengo consciencia propia."
 
 # game/game_script.rpy:1483
 translate spanish game_script_0ab8ee76:
 
     # n "I missed the festival because he’d had a bad morning, and...{w}threw a bottle at me."
-    n ""
+    n "He faltado al festival porque se ha levantado con mal pie y me ha...{w} tirado una botella en la cara."
 
 # game/game_script.rpy:1484
 translate spanish game_script_cd0852d9:
 
     # n "He stopped me from leaving the house."
-    n ""
+    n "Quise irme, pero me detuvo."
 
 # game/game_script.rpy:1492
 translate spanish game_script_e7dd2762:
 
     # n "Made me clean the basement when I cried..."
-    n ""
+    n "Mientras lloraba, me hizo limpiar el sótano..."
 
 # game/game_script.rpy:1497
 translate spanish game_script_e1fbf5df:
 
     # n "I wanted to go. I really did."
-    n ""
+    n "Quería ir al festival. Quería ir."
 
 # game/game_script.rpy:1502
 translate spanish game_script_2943f145:
 
     # n "It’s funny, really...{w}I did want to perform my poem after all."
-    n ""
+    n "Es gracioso, me apetecía muchísimo recitar mi poema y todo..."
 
 # game/game_script.rpy:1503
 translate spanish game_script_1a7b00d3:
 
     # n "It probably would’ve been fun."
-    n ""
+    n "Y lo más probable es que hubiese sido muy divertido..."
 
 # game/game_script.rpy:1511
 translate spanish game_script_a28869be:
 
     # n "But..."
-    n ""
+    n "Pero no."
 
 # game/game_script.rpy:1516
 translate spanish game_script_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script.rpy:1524
 translate spanish game_script_2fe1bf98_1:
 
     # n "Yeah."
-    n ""
+    n "Pues eso."
 
 # game/game_script.rpy:1529
 translate spanish game_script_2f37b723:
 
     # n "Now you know."
-    n ""
+    n "Ya sabes todo lo que querías saber."
 
 # game/game_script.rpy:1540
 translate spanish game_script_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script.rpy:1545
 translate spanish game_script_2485f494_2:
 
     # mc "I..."
-    mc ""
+    mc "Eh..."
 
 # game/game_script.rpy:1558
 translate spanish game_script_00314fc2:
 
     # "Without even thinking, I pull her close into a warm embrace."
-    ""
+    "Sin pensarlo dos veces, me la acerco para abrazarla muy fuerte."
 
 # game/game_script.rpy:1559
 translate spanish game_script_0d0f2bf8:
 
     # "She flinches slightly at first, but then reciprocates, gripping me firmly."
-    ""
+    "Al principio no quería, pero acaba cediendo y se me agarra con firmeza."
 
 # game/game_script.rpy:1560
 translate spanish game_script_4a7fbabe:
 
     # "I feel her jerk back a little."
-    ""
+    "Noto que se queja de dolor."
 
 # game/game_script.rpy:1566
 translate spanish game_script_ef419e0d:
 
     # n "He...{w}knows where to hit...{w}so it doesn’t show."
-    n ""
+    n "Es que sabe...{w} dónde debe pegar para...{w} que no se note."
 
 # game/game_script.rpy:1571
 translate spanish game_script_ad3c11e1:
 
     # n "Hugs hurt a lot."
-    n ""
+    n "Un abrazo duele como mil cuchillos clavándose en mí."
 
 # game/game_script.rpy:1573
 translate spanish game_script_64b4d9ce:
 
     # "My mind is flooded with a thousand screaming voices."
-    ""
+    "Mi mente se llena de cientos y cientos de voces gritando."
 
 # game/game_script.rpy:1574
 translate spanish game_script_e1ee94c9:
 
     # "Rage. Sadness. Shock."
-    ""
+    "Ira. Tristeza. Sorpresa."
 
 # game/game_script.rpy:1575
 translate spanish game_script_b8342bad:
 
     # "She’s been abused."
-    ""
+    "Lo que ha dicho me ha dejado sin habla."
 
 # game/game_script.rpy:1576
 translate spanish game_script_db1b8be3:
 
     # "This whole time."
-    ""
+    "Durante todo este tiempo, han abusado de ella física y mentalmente sin control."
 
 # game/game_script.rpy:1577
 translate spanish game_script_0efafb0c:
 
     # "And I’ve just stood by, not once thinking about it."
-    ""
+    "Y yo he estado ahí, sin darme cuenta de absolutamente nada."
 
 # game/game_script.rpy:1578
 translate spanish game_script_779c0d43:
 
     # "Her poems, her absence, her self-isolation..."
-    ""
+    "Sus poemas, su ausencia, el querer aislarse..."
 
 # game/game_script.rpy:1579
 translate spanish game_script_13d25b25:
 
     # "All of them, signs that I’ve ignored."
-    ""
+    "Todo cuadra..., y todo eso es lo que he ignorado."
 
 # game/game_script.rpy:1582
 translate spanish game_script_b214c821:
 
     # "I feel my chest tighten and my lungs start to burn."
-    ""
+    "Siento que mi pecho aprieta muchísimo y que mis pulmones arden como una cerilla."
 
 # game/game_script.rpy:1583
 translate spanish game_script_51390b1e:
 
     # "The familiar sting of anxiety."
-    ""
+    "Esa sensación tan familiar llamada 'ansiedad'..."
 
 # game/game_script.rpy:1589
 translate spanish game_script_3aa42c3b_1:
 
     # mc "Natsuki..."
-    mc ""
+    mc "Natsuki..."
 
 # game/game_script.rpy:1590
 translate spanish game_script_cd086900:
 
     # mc "You can’t stay there."
-    mc ""
+    mc "No puedes quedarte allí."
 
 # game/game_script.rpy:1595
 translate spanish game_script_76a68788:
 
     # mc "Y-You {i}can’t.{/i}"
-    mc ""
+    mc "Es que n-no puedes."
 
 # game/game_script.rpy:1601
 translate spanish game_script_7ed22b59:
 
     # "She looks into my eyes, tears beginning to form."
-    ""
+    "Me mira a los ojos mientras se empiezan a formar lágrimas."
 
 # game/game_script.rpy:1607
 translate spanish game_script_462e1aaa:
 
     # n "What am I {i}supposed{/i} to do, [player]?"
-    n ""
+    n "¿Y qué es lo que debería hacer?"
 
 # game/game_script.rpy:1608
 translate spanish game_script_5afdf86f:
 
     # n "He decides where I go and when."
-    n ""
+    n "Si es que decide hasta cuándo y dónde voy."
 
 # game/game_script.rpy:1609
 translate spanish game_script_4cb67a25:
 
     # n "No-one would believe me."
-    n ""
+    n "N-Nadie me creería si les contase esto."
 
 # game/game_script.rpy:1614
 translate spanish game_script_1d104161:
 
     # n "I have nowhere to go...{w}and even if I did-..."
-    n ""
+    n "No tengo ningún sitio al que poder ir...,{w} y si pudiera ir a algún sitio..."
 
 # game/game_script.rpy:1619
 translate spanish game_script_8a29f9ac:
 
     # n "I..."
-    n ""
+    n "No..."
 
 # game/game_script.rpy:1621
 translate spanish game_script_e1af7bf0:
 
     # "The levee breaks."
-    ""
+    "Pierde la compostura."
 
 # game/game_script.rpy:1626
 translate spanish game_script_0308b6f5:
 
     # "She pulls herself into me, tears staining my shirt."
-    ""
+    "Se pega aún más a mí, manchando mi camisa de lágrimas."
 
 # game/game_script.rpy:1627
 translate spanish game_script_d7f4764c:
 
     # "Between sobs, she’s barely able to choke out a sentence."
-    ""
+    "Entre sollozos, consigue formar una oración completa."
 
 # game/game_script.rpy:1633
 translate spanish game_script_a51de77b_1:
 
     # n "[player]..."
-    n ""
+    n "[player]..."
 
 # game/game_script.rpy:1634
 translate spanish game_script_867c65ac:
 
     # n "I c-can’t live like this anymore."
-    n ""
+    n "N-No puedo aguantar más..."
 
 # game/game_script.rpy:1639
 translate spanish game_script_2cac21b3:
 
     # n "But I don't know what I can do..."
-    n ""
+    n "Pero no sé qué puedo hacer..."
 
 # game/game_script.rpy:1644
 translate spanish game_script_2485f494_3:
 
     # mc "I..."
-    mc ""
+    mc "Natsuki..."
 
 # game/game_script.rpy:1649
 translate spanish game_script_3b08702a:
 
     # mc "I have an extra room."
-    mc ""
+    mc "Tengo una... habitación extra."
 
 # game/game_script.rpy:1650
 translate spanish game_script_dda32de1:
 
     # mc "You’d be safe..."
-    mc ""
+    mc "Estarás a salvo..."
 
 # game/game_script.rpy:1655
 translate spanish game_script_ca954841:
 
     # mc "This probably won’t be a permanent solution, but it’ll get you away for long enough for us to do something about...{w}{i}him.{/i}"
-    mc ""
+    mc "Puede que no sea una solución permanente, pero conseguirá tenerte un tiempo alejada hasta encontrar una manera de encargarnos de... 'él'."
 
 # game/game_script.rpy:1656
 translate spanish game_script_85eb7596:
 
     # mc "You just need a way out."
-    mc ""
+    mc "Lo único que necesitas es escaparte de allí."
 
 # game/game_script.rpy:1662
 translate spanish game_script_a25a5770:
 
     # "Natsuki wipes her tears from her eyes and shakes her head."
-    ""
+    "Natsuki se limpia las lágrimas y sacude su cabeza."
 
 # game/game_script.rpy:1664
 translate spanish game_script_ecc93fc8:
 
     # n "I couldn't do that to you."
-    n ""
+    n "Ni de coña voy a meterte en esto."
 
 # game/game_script.rpy:1665
 translate spanish game_script_64567b68:
 
     # n "He would never let me go."
-    n ""
+    n "Suma a eso que no me dejaría irme."
 
 # game/game_script.rpy:1670
 translate spanish game_script_848b1c13:
 
     # n "{cps=8}He'll {i}never{i} let me go.{/cps}"
-    n ""
+    n "{cps=8}Es que {i}no{i} me deja irme.{/cps}"
 
 # game/game_script.rpy:1675
 translate spanish game_script_59637adf:
 
     # mc "Then don't tell him."
-    mc ""
+    mc "Y quién ha dicho que él tiene que darte permiso."
 
 # game/game_script.rpy:1680
 translate spanish game_script_bb2cf764_2:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script.rpy:1685
 translate spanish game_script_bd90d0bc:
 
     # n "[player], what are you talking about..?"
-    n ""
+    n "¿De qué estás hablando, [player]...?"
 
 # game/game_script.rpy:1690
 translate spanish game_script_7136c946:
 
     # mc "I mean..."
-    mc ""
+    mc "Pues a ver..."
 
 # game/game_script.rpy:1695
 translate spanish game_script_a4495346:
 
     # mc "I could get you out of there."
-    mc ""
+    mc "La cosa es que podría sacarte de ese agujero."
 
 # game/game_script.rpy:1700
 translate spanish game_script_bb01b1c9:
 
     # mc "Or at least, I could try."
-    mc ""
+    mc "O bueno, intentar sacarte de ese agujero."
 
 # game/game_script.rpy:1701
 translate spanish game_script_339b5d00:
 
     # mc "Give me...{w}I dunno, a day."
-    mc ""
+    mc "Dame...,{w} no sé,{w} un día."
 
 # game/game_script.rpy:1706
 translate spanish game_script_1f2cc41b:
 
     # mc "I'll come up with something."
-    mc ""
+    mc "Ya pensaré en algo."
 
 # game/game_script.rpy:1707
 translate spanish game_script_3976f158:
 
     # mc "{i}Some{/i} way..."
-    mc ""
+    mc "Alguna vía de escape..."
 
 # game/game_script.rpy:1712
 translate spanish game_script_cf1cc6d7:
 
     # mc "There {i}has{/i} to be a way."
-    mc ""
+    mc "Porque 'debe' de haber una vía de escape."
 
 # game/game_script.rpy:1717
 translate spanish game_script_a51de77b_2:
 
     # n "[player]..."
-    n ""
+    n "[player]..."
 
 # game/game_script.rpy:1722
 translate spanish game_script_440ada8e:
 
     # mc "{i}I’m serious, Natsuki.{/i}"
-    mc ""
+    mc "Natsuki, voy en serio."
 
 # game/game_script.rpy:1724
 translate spanish game_script_94a5593c:
 
     # "She sits silent for a moment."
-    ""
+    "Se queda en silencio."
 
 # game/game_script.rpy:1736
 translate spanish game_script_fad596d6:
 
     # "Natsuki pulls away from me, wiping a tear from her cheek and sniffling."
-    ""
+    "Mientras se sorbe la nariz y se seca las lágrimas de sus mejillas, Natsuki se aleja de mí."
 
 # game/game_script.rpy:1741
 translate spanish game_script_7bbf9ae1:
 
     # n "You can’t get involved, [player]..."
-    n ""
+    n "Te lo he dicho antes, no voy a meterte en esto, [player]..."
 
 # game/game_script.rpy:1746
 translate spanish game_script_6b670943:
 
     # n "I shouldn’t have even..."
-    n ""
+    n "La cosa es que ni siquiera tendría que haberte dicho..."
 
 # game/game_script.rpy:1754
 translate spanish game_script_ab0899a4:
 
     # mc "{i}Please.{/i}"
-    mc ""
+    mc "Natsuki, por favor."
 
 # game/game_script.rpy:1755
 translate spanish game_script_bb31f9f7:
 
     # mc "We’ll figure it out."
-    mc ""
+    mc "Ya buscaremos cómo."
 
 # game/game_script.rpy:1760
 translate spanish game_script_2507d2c5:
 
     # mc "I can’t let you stay there, Natsuki."
-    mc ""
+    mc "Entiende que no puedo dejarte allí, Natsuki."
 
 # game/game_script.rpy:1768
 translate spanish game_script_7697ae28:
 
     # n "You don’t get it."
-    n ""
+    n "Es que no lo entiendes."
 
 # game/game_script.rpy:1769
 translate spanish game_script_4f4266c9:
 
     # n "This will only make things worse."
-    n ""
+    n "Lo único que vas a hacer es empeorar las cosas, [player]."
 
 # game/game_script.rpy:1777
 translate spanish game_script_e04f8287:
 
     # n "Think about the long-term, [player]..."
-    n ""
+    n "Piensa a largo plazo, joder..."
 
 # game/game_script.rpy:1778
 translate spanish game_script_90c622c3:
 
     # n "Is this something you really want to do?"
-    n ""
+    n "¿Es que esta la decisión que realmente quieres tomar?"
 
 # game/game_script.rpy:1779
 translate spanish game_script_b2e8cdcc:
 
     # n "I know that you want to help..."
-    n ""
+    n "Sé que quieres ayudar, y te lo agradezco..."
 
 # game/game_script.rpy:1784
 translate spanish game_script_a28869be_1:
 
     # n "But..."
-    n ""
+    n "Pero es que..."
 
 # game/game_script.rpy:1789
 translate spanish game_script_a99b0246:
 
     # mc "Natsuki,the only thing we should be concerned about now is your safety."
-    mc ""
+    mc "Natsuki, lo único que nos debe preocupar ahora mismo es tu seguridad."
 
 # game/game_script.rpy:1790
 translate spanish game_script_552e931f:
 
     # mc "Because, it’s not going to get better if..."
-    mc ""
+    mc "Porque... a ver, no mejorará si..."
 
 # game/game_script.rpy:1795
 translate spanish game_script_3c306103:
 
     # mc "Well, if you stay."
-    mc ""
+    mc "bueno, si te quedas ahí."
 
 # game/game_script.rpy:1800
 translate spanish game_script_94c6c544:
 
     # mc "We both know that what he’s doing isn’t okay, so I’m trying to put a stop to it {i}now{/i}."
-    mc ""
+    mc "Tanto tú como yo sabemos que no está haciendo las cosas bien, y necesito que esto se acabe ahora mismo."
 
 # game/game_script.rpy:1805
 translate spanish game_script_4038da3e:
 
     # mc "Please, work with me here."
-    mc ""
+    mc "Necesito que cooperes conmigo, no que me dejes plantado."
 
 # game/game_script.rpy:1806
 translate spanish game_script_a1b1528f:
 
     # mc "I already told you I have a spare room, for as long as you’ll need it."
-    mc ""
+    mc "Y te he dicho antes que tengo una habitación de invitados que no se usa, y que te puede servir mientras necesites quedarte en mi casa."
 
 # game/game_script.rpy:1807
 translate spanish game_script_6a235412:
 
     # mc "We just need to get you and your stuff out of there as soon as we can."
-    mc ""
+    mc "Lo único que necesitamos es que tú y tus cosas salgáis de esa casa."
 
 # game/game_script.rpy:1808
 translate spanish game_script_af698f75:
 
     # mc "Please..."
-    mc ""
+    mc "Por favor..."
 
 # game/game_script.rpy:1817
 translate spanish game_script_0fb2d05f_1:
 
     # "She takes a deep breath."
-    ""
+    "Suspira."
 
 # game/game_script.rpy:1823
 translate spanish game_script_d1084628:
 
     # n "Damn it, [player]..."
-    n ""
+    n "Me cago en todo, [player]..."
 
 # game/game_script.rpy:1824
 translate spanish game_script_fabc6597:
 
     # n "Why do you have to make this so hard?"
-    n ""
+    n "¿Por qué tienes que hacer que todo sea tan difícil?"
 
 # game/game_script.rpy:1829
 translate spanish game_script_15d046d7:
 
     # n "I don’t know, okay?"
-    n ""
+    n "No lo sé, ¿vale?"
 
 # game/game_script.rpy:1834
 translate spanish game_script_49fd9f16:
 
     # n "I just...{w}don’t know..."
-    n ""
+    n "Es que...,{w} no lo sé..."
 
 # game/game_script.rpy:1839
 translate spanish game_script_51943718:
 
     # "Natsuki stares at the ground silently."
-    ""
+    "Natsuki mira al suelo silenciosamente."
 
 # game/game_script.rpy:1840
 translate spanish game_script_8d858705:
 
     # "I can only assume she’s mulling the options over in her head."
-    ""
+    "Asumo que está barajando las opciones que tenemos."
 
 # game/game_script.rpy:1841
 translate spanish game_script_5a8b2c37:
 
     # "Taking a deep breath, she makes up her mind."
-    ""
+    "Volviendo a suspirar, se decide."
 
 # game/game_script.rpy:1844
 translate spanish game_script_c6cb643e:
 
     # "As if on command, she rises from the bench. I follow."
-    ""
+    "Como si estuviese programada para hacer eso, se levanta del banco y la sigo."
 
 # game/game_script.rpy:1847
 translate spanish game_script_2005619a:
 
     # n "You’re right."
-    n ""
+    n "Tienes razón."
 
 # game/game_script.rpy:1848
 translate spanish game_script_52366059:
 
     # n "I know it’s not okay..."
-    n ""
+    n "Sé que no está bien..."
 
 # game/game_script.rpy:1850
 translate spanish game_script_dd2eedbf:
 
     # n "Would you really...{w}want me over?"
-    n ""
+    n "¿Seguro que quieres que vaya...{w} a tu casa?"
 
 # game/game_script.rpy:1852
 translate spanish game_script_bb02d4ce:
 
     # mc "Without a doubt."
-    mc ""
+    mc "Sin lugar a dudas, Natsuki."
 
 # game/game_script.rpy:1853
 translate spanish game_script_2b881798:
 
     # mc "As long as it can keep you safe."
-    mc ""
+    mc "Mientras pueda mantenerte a salvo, no me cabe la menor de las dudas."
 
 # game/game_script.rpy:1854
 translate spanish game_script_0ad91766:
 
     # mc "We just need to figure out how to, well..."
-    mc ""
+    mc "Aunque lo más difícil es encontrar la manera de sacarte de allí..."
 
 # game/game_script.rpy:1855
 translate spanish game_script_de897556:
 
     # mc "Get you out of there, first."
-    mc ""
+    mc "Ya sabes, por lo de tu padre."
 
 # game/game_script.rpy:1857
 translate spanish game_script_f7d85a58:
