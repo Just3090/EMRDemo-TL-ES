@@ -92,7 +92,7 @@ translate spanish game_script_9e71916c:
 translate spanish game_script_bcdc6f30:
 
     # "It’s nearly the end of the club day."
-    "Aunque ya casi acaba la reunión del club..."
+    "Y ya casi acaba la reunión del club..."
 
 # game/game_script.rpy:1281
 translate spanish game_script_052fb393:
@@ -116,7 +116,7 @@ translate spanish game_script_a20cefa7_4:
 translate spanish game_script_a44df915:
 
     # "To hell with it."
-    "Al carajo."
+    "Que le den."
 
 # game/game_script.rpy:1285
 translate spanish game_script_81e19974:
@@ -182,7 +182,7 @@ translate spanish game_script_6b4e0a1a:
 translate spanish game_script_412f94c5:
 
     # mc "Is something going on?"
-    mc "¿Pasa algo malo en casa?"
+    mc "¿Pasa algo en casa?"
 
 # game/game_script.rpy:1305
 translate spanish game_script_a51de77b:
@@ -254,187 +254,187 @@ translate spanish game_script_04fdac4e:
 translate spanish game_script_84b239bd:
 
     # "I follow, stuffing the second volume of Parfait Girls back into the box."
-    ""
+    "Me levanto yo también, dejando el manga en su caja."
 
 # game/game_script.rpy:1330
 translate spanish game_script_aa2aa0cd:
 
     # "Monika turns her attention to me."
-    ""
+    "Monika trata de llamar mi atención."
 
 # game/game_script.rpy:1333
 translate spanish game_script_dbecce39:
 
     # m "Hey, [player]!"
-    m ""
+    m "¡Hola, [player]!"
 
 # game/game_script.rpy:1335
 translate spanish game_script_669664cb:
 
     # mc "Hey."
-    mc ""
+    mc "Ah, hola."
 
 # game/game_script.rpy:1337
 translate spanish game_script_9052562b:
 
     # "Monika ushers me over, as Natsuki heads straight out of the clubroom door."
-    ""
+    "Monika se pone al lado mía y Natsuki ha salido del club sin decir ni pío."
 
 # game/game_script.rpy:1339
 translate spanish game_script_e1d7d6ca:
 
     # "Monika’s eyes follow her out as her expression changes to a familiar melancholy."
-    ""
+    "Los ojos de Monika siguen a Natsuki mientras su expresión cambia. Parece melancólica..."
 
 # game/game_script.rpy:1342
 translate spanish game_script_be4a9794:
 
     # m "...Already?"
-    m ""
+    m "¿Por qué... ha salido ya?"
 
 # game/game_script.rpy:1344
 translate spanish game_script_70d59bd0:
 
     # m "We still had five minutes left..."
-    m ""
+    m "Quedaban 5 minutillos aún, ¿sabes?"
 
 # game/game_script.rpy:1347
 translate spanish game_script_f9a3c2b7:
 
     # "Her head droops down, now facing towards the floor."
-    ""
+    "Monika baja la cabeza y mira hacia el suelo."
 
 # game/game_script.rpy:1348
 translate spanish game_script_bd9be39e:
 
     # "I can’t tell if it’s out of confusion, sadness, or disappointment."
-    ""
+    "No sabría decir si es por confusión, tristeza o decepción..."
 
 # game/game_script.rpy:1350
 translate spanish game_script_3c584394:
 
     # "She takes two deep, swift breaths, lifts her head back up and shrugs."
-    ""
+    "Inspira y espira, mira hacia mí y se encoge de hombros."
 
 # game/game_script.rpy:1353
 translate spanish game_script_467ec4e6:
 
     # m "Well, it’s not the end of the world."
-    m ""
+    m "No es el fin del mundo...,"
 
 # game/game_script.rpy:1355
 translate spanish game_script_4364b01d:
 
     # m "Just wish she could’ve stayed longer. I needed to fill her in on the poem activity."
-    m ""
+    m "pero me hubiera gustado que se quedase un poco más en el club. Creo que necesita algo más de confianza para compartir sus poemas con el resto."
 
 # game/game_script.rpy:1357
 translate spanish game_script_9158f751:
 
     # m "Actually...{w}you two are pretty close, right?"
-    m ""
+    m "Ahora que lo pienso...,{w} sois bastante amiguitos, ¿no?"
 
 # game/game_script.rpy:1359
 translate spanish game_script_ff3f8b34:
 
     # m "Can you let her know that I’m trying to get the club back into the swing of writing poems?"
-    m ""
+    m "¿Puedes decirle que trato de que el club vuelva a la misma rutina de siempre?"
 
 # game/game_script.rpy:1361
 translate spanish game_script_acd9a80e:
 
     # mc "Y-Yeah, I’ll text her."
-    mc ""
+    mc "C-Claro, le mandaré un mensaje cuando pueda..."
 
 # game/game_script.rpy:1363
 translate spanish game_script_14483443:
 
     # m "Great! Thank you."
-    m ""
+    m "¡Pues me viene de lujo! ¡Muchas gracias!"
 
 # game/game_script.rpy:1365
 translate spanish game_script_d161e7c1:
 
     # m "Also..."
-    m ""
+    m "Y que no se me olvide..."
 
 # game/game_script.rpy:1367
 translate spanish game_script_53f27248:
 
     # m "I know you won’t say what happened, but...{w}how is Sayori doing?"
-    m ""
+    m "Sé que no me vas a decir lo que ha ocurrido, pero...{w} ¿cómo está Sayori?"
 
 # game/game_script.rpy:1369
 translate spanish game_script_4ea2e2d3:
 
     # mc "I talked to her last night, she’s doing much better."
-    mc ""
+    mc "Hablé con ella anoche y me ha dicho que va todo genial."
 
 # game/game_script.rpy:1371
 translate spanish game_script_a8603ca0:
 
     # m "That’s great to hear!"
-    m ""
+    m "¡Qué alegría me das!"
 
 # game/game_script.rpy:1373
 translate spanish game_script_36058dc6:
 
     # m "Just...{w}remind her we all care about her. Okay?"
-    m ""
+    m "Recuérdale que...{w} que nos importa. A todo el mundo."
 
 # game/game_script.rpy:1375
 translate spanish game_script_6f7ee14d:
 
     # mc "No worries, I will."
-    mc ""
+    mc "No te preocupes, se lo diré."
 
 # game/game_script.rpy:1378
 translate spanish game_script_2d341128:
 
     # "She smiles at me."
-    ""
+    "Me sonríe."
 
 # game/game_script.rpy:1381
 translate spanish game_script_c98782f6:
 
     # m "Oh, don’t worry. I’ll let you go now."
-    m ""
+    m "Ay, perdona, te dejo ir. No te retengo más."
 
 # game/game_script.rpy:1384
 translate spanish game_script_259e0ddf:
 
     # "I grab the Parfait Girls box, before heading towards the clubroom door."
-    ""
+    "Cojo la colección de Parfait Girls antes de salir del aula."
 
 # game/game_script.rpy:1385
 translate spanish game_script_082330db:
 
     # "Monika shouts after me one last time."
-    ""
+    "Monika chilla tras de mí."
 
 # game/game_script.rpy:1388
 translate spanish game_script_0d8ab997:
 
     # m "Just don’t forget about the poems!"
-    m ""
+    m "¡¡Y no te olvides de los poemaaas!!"
 
 # game/game_script.rpy:1390
 translate spanish game_script_c1910fa5:
 
     # mc "I won’t!"
-    mc ""
+    mc "¡Que nooo!"
 
 # game/game_script.rpy:1392
 translate spanish game_script_f93bae0f:
 
     # m "See you tomorrow, [player]!"
-    m ""
+    m "¡¡Hasta mañana, [player]!!"
 
 # game/game_script.rpy:1396
 translate spanish game_script_eeb83adf:
 
     # "Finally."
-    ""
+    "Joder, por fin."
 
 # game/game_script.rpy:1397
 translate spanish game_script_0cd52337:
