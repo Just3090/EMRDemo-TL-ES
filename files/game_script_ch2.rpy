@@ -1652,7 +1652,7 @@ translate spanish game_script_17e688b4:
 translate spanish game_script_9504d1ec:
 
     # "And Natsuki..."
-    ""Y Natsuki...
+    "Y Natsuki..."
 
 # game/game_script.rpy:1160
 translate spanish game_script_c199f5bf:
