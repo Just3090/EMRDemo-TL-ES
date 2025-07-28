@@ -1940,7 +1940,7 @@ translate spanish game_script_d9bd2d64:
 translate spanish game_script_1138e799:
 
     # mc "{i}I can hardly contain my excitement.{/i}"
-    mc "'Me siento incapaz de ocultar mi pasión por tal afirmación. Siento mi corazón desbordarse de mi pecho'."
+    mc "'Me siento incapaz de ocultar mi pasión por tal afirmación. Siento mi corazón desbordarse de mi pecho."
 
 # game/game_script.rpy:1236
 translate spanish game_script_39804dee:
