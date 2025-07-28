@@ -1508,25 +1508,25 @@ translate spanish game_script_d9a7d885:
 translate spanish game_script_598aa3d2:
 
     # n "And, [player]..."
-    n "Y, [player]..."
+    n "Y [player]...,"
 
 # game/game_script.rpy:1989
 translate spanish game_script_d2a770d6:
 
     # n "Thank you."
-    n "Muchas gracias."
+    n "muchas gracias."
 
 # game/game_script.rpy:1991
 translate spanish game_script_74d69760:
 
     # "She whispers, her voice shaking."
-    "Susurra mientras le tiembla la voz."
+    "Me susurra mientras le tiembla la voz."
 
 # game/game_script.rpy:1992
 translate spanish game_script_d34afd41:
 
     # mc "It’s okay..."
-    mc "No pasa nada..."
+    mc "No pasa nada, todo irá bien..."
 
 # game/game_script.rpy:1994
 translate spanish game_script_5c91e75a:
