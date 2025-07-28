@@ -1748,7 +1748,7 @@ translate spanish game_script_2a27aa9a:
 translate spanish game_script_7b993bad:
 
     # m "...A stroke?"
-    m "¿... derame cerebral?"
+    m "¿... derrame cerebral?"
 
 # game/game_script.rpy:1181
 translate spanish game_script_9d0dbae9:
