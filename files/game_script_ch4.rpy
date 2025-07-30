@@ -92,109 +92,109 @@ translate spanish game_script_8d9a4bec:
 translate spanish game_script_86175e90:
 
     # "I frantically type out my instructions for her, step-by-step."
-    ""
+    "Le escribo, paso a paso, lo que debe hacer."
 
 # game/game_script.rpy:2126
 translate spanish game_script_9f049f42:
 
     # "However, my eyes are drawn to our old text conversation, from when we were planning for her visit last Sunday."
-    ""
+    "Aún así, no dejo de quitarle ojo a los mensajes más antiguos, donde hablábamos de vernos el domingo pasado."
 
 # game/game_script.rpy:2127
 translate spanish game_script_48b016d5:
 
     # "I can't help but notice how happy she was to come over."
-    ""
+    "No puedo evitar notar la felicidad en sus mensajes, diciendo de venir a mi casa."
 
 # game/game_script.rpy:2128
 translate spanish game_script_98317d81:
 
     # "Should I have seen the problem then?"
-    ""
+    "¿Debería haberme percatado del problema en ese momento?"
 
 # game/game_script.rpy:2129
 translate spanish game_script_70f4a2d8:
 
     # "Come to think of it, before that day, I've never really seen Natsuki truly excited before."
-    ""
+    "Pensándolo bien, antes de ese día..., nunca tuve la suerte de ver a Natsuki tan emocionada."
 
 # game/game_script.rpy:2130
 translate spanish game_script_cbc488eb:
 
     # "God..."
-    ""
+    "Joder..."
 
 # game/game_script.rpy:2131
 translate spanish game_script_9bd3aa41:
 
     # "{i}How long has this been going on?{/i}"
-    ""
+    "¿Cuánto tiempo lleva sufriendo todo esto?"
 
 # game/game_script.rpy:2132
 translate spanish game_script_a20cefa7_6:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:2133
 translate spanish game_script_8da137c7:
 
     # "I finish typing the plans out, and send my message."
-    ""
+    "Termino de escribir el mensaje y lo envío."
 
 # game/game_script.rpy:2134
 translate spanish game_script_794ee84a:
 
     # "I just hope that she's okay."
-    ""
+    "Lo único que deseo es que esté bien..."
 
 # game/game_script.rpy:2146
 translate spanish game_script_666af618:
 
     # "I wait in front of Sayori’s house."
-    ""
+    "Espero a Sayori en frente de su casa."
 
 # game/game_script.rpy:2147
 translate spanish game_script_72e22e27:
 
     # "She {i}should{/i} be out by now."
-    ""
+    "Debería salir ya."
 
 # game/game_script.rpy:2148
 translate spanish game_script_aa13b69f:
 
     # "Even with my...{w}{i}patchy{/i} sleep schedule, I was able to get up in time."
-    ""
+    "A pesar de mi horario de sueño...{w} irregular, pude levantarme a buena hora."
 
 # game/game_script.rpy:2149
 translate spanish game_script_891b6ddd:
 
     # "Hell, I even managed to fit a quick shower in."
-    ""
+    "Coño, si hasta me pude duchar y todo."
 
 # game/game_script.rpy:2150
 translate spanish game_script_6c0c2179:
 
     # "Bathing after two days of stress did wonders for my anxieties."
-    ""
+    "Darme una duchita después de dos días de estrés puro... me ayuda bastante con mi ansiedad."
 
 # game/game_script.rpy:2151
 translate spanish game_script_492f1e5f:
 
     # "Though that feeling didn’t stay long."
-    ""
+    "Aunque la relajación no ha durado mucho..."
 
 # game/game_script.rpy:2152
 translate spanish game_script_0a372522:
 
     # "Natsuki still hasn’t texted back."
-    ""
+    "Natsuki no me ha contestado."
 
 # game/game_script.rpy:2153
 translate spanish game_script_5f1b9a3c:
 
     # "I hope that she saw the message, at least."
-    ""
+    "Espero que haya visto el mensaje, al menos."
 
 # game/game_script.rpy:2154
 translate spanish game_script_bb0bba34:
