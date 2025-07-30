@@ -1976,7 +1976,7 @@ translate spanish game_script_8197fbe2:
 translate spanish game_script_4c2fe5df:
 
     # "I fixed myself a simple dinner, which I quickly scarfed down before tossing the dishes into the sink."
-    "Me he preparado algo sencillo para cenar, que devoré en poco tiempo antes de tirar los platos en el fregadero."
+    "Me he preparado algo sencillo para cenar, que he devorado en poco tiempo antes de tirar los platos en el fregadero."
 
 # game/game_script.rpy:2106
 translate spanish game_script_8301592e:
