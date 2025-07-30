@@ -1538,19 +1538,19 @@ translate spanish game_script_5c91e75a:
 translate spanish game_script_386f5cff:
 
     # "She releases me from her grip, and reaches down to grab the manga collection."
-    ""
+    "Afloja su abrazo y se agacha para coger la caja llena de mangas."
 
 # game/game_script.rpy:1999
 translate spanish game_script_a8acee89:
 
     # n "I think it’s best you hold back here."
-    n ""
+    n "Puede que... sea mejor que te quedes aquí."
 
 # game/game_script.rpy:2002
 translate spanish game_script_5f9b0496:
 
     # "Uneasy, I nod and wait a few doors down."
-    ""
+    "Insatisfecho, asiento y espero."
 
 # game/game_script.rpy:2005
 translate spanish game_script_cead6fa8:
