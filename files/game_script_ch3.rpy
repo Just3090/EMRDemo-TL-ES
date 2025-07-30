@@ -1556,43 +1556,43 @@ translate spanish game_script_5f9b0496:
 translate spanish game_script_cead6fa8:
 
     # "Natsuki continues onward, head down, clutching her Parfait Girls box."
-    ""
+    "Natsuki, cabizbaja, continúa su camino con la caja entre las manos."
 
 # game/game_script.rpy:2006
 translate spanish game_script_5d1ed70a:
 
     # "As she approaches her house, her head cranes up."
-    ""
+    "Al acercarse a la puerta de su casa, levanta la cabeza."
 
 # game/game_script.rpy:2007
 translate spanish game_script_f4da94e7:
 
     # "A gruff voice calls down to her, telling her to get inside."
-    ""
+    "Una voz ronca la llama, diciéndole que entre de una vez."
 
 # game/game_script.rpy:2008
 translate spanish game_script_4e1d1c34:
 
     # "A pang of dread shoots through my body as I quickly hide behind a nearby fence gate."
-    ""
+    "El pavor recorre mi cuerpo como la pólvora, así que me escondo detrás de una verja que hay cerca."
 
 # game/game_script.rpy:2009
 translate spanish game_script_d6767f1a:
 
     # "I hope he didn’t see me."
-    ""
+    "Solo espero que no me haya visto..."
 
 # game/game_script.rpy:2010
 translate spanish game_script_e8f4ba6a:
 
     # "God knows what’d happen if he did..."
-    ""
+    "Solo Dios sabe qué hubiese pasado si lo hubiese hecho..."
 
 # game/game_script.rpy:2011
 translate spanish game_script_6fb2561a:
 
     # "Peeking behind the fence, I get a quick look at Natsuki’s father."
-    ""
+    "A través de donde estoy, soy capaz de ver al padre de Natsuki."
 
 # game/game_script.rpy:2012
 translate spanish game_script_4027684b:
