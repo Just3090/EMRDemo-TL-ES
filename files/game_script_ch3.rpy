@@ -1652,19 +1652,19 @@ translate spanish game_script_bdb76780:
 translate spanish game_script_1f6d20b7:
 
     # "However, she immediately jerks forward as the front door to her house opens, and she slowly steps in."
-    ""
+    "Cuando mira hacia su casa, se asusta al ver la puerta de entrada abierta. Acto seguido, entra con cuidado."
 
 # game/game_script.rpy:2030
 translate spanish game_script_c4f2180c:
 
     # "And like that, Natsuki is gone."
-    ""
+    "Tal y como me esperaba, Natsuki se ha ido...,"
 
 # game/game_script.rpy:2031
 translate spanish game_script_51000dbc:
 
     # "I feel awful..."
-    ""
+    "y me siento fatal por ello."
 
 # game/game_script.rpy:2032
 translate spanish game_script_766de971:
