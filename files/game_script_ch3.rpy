@@ -1946,52 +1946,52 @@ translate spanish game_script_370fda78:
 translate spanish game_script_5f6e4f6e:
 
     # "I sigh as I set my phone down on the counter."
-    ""
+    "Suspiro al mismo tiempo que dejo el teléfono en el mostrador."
 
 # game/game_script.rpy:2098
 translate spanish game_script_6c25b71e:
 
     # "I just hope that Sayori didn't notice that I wasn’t all there."
-    ""
+    "Solo espero que Sayori no se percate de que no he estado muy presente..."
 
 # game/game_script.rpy:2099
 translate spanish game_script_9de5c1e1:
 
     # "I'm so exhausted by what happened today, I'm just unable to really express...{w}{i}anything.{/i}"
-    ""
+    "Después de lo de hoy, no soy capaz de decirle...{w} 'todo'."
 
 # game/game_script.rpy:2100
 translate spanish game_script_893b930b:
 
     # "However, I am genuinely relieved to hear she seems to be improving."
-    ""
+    "Además, me siento bastante aliviado después de oírla decir que está mejorando."
 
 # game/game_script.rpy:2101
 translate spanish game_script_8197fbe2:
 
     # "Hopefully tomorrow won't be too much for her."
-    ""
+    "Espero que mañana no se le haga muy cuesta arriba todo..."
 
 # game/game_script.rpy:2105
 translate spanish game_script_4c2fe5df:
 
     # "I fixed myself a simple dinner, which I quickly scarfed down before tossing the dishes into the sink."
-    ""
+    "Me he preparado algo sencillo para cenar, que devoré en poco tiempo antes de tirar los platos en el fregadero."
 
 # game/game_script.rpy:2106
 translate spanish game_script_8301592e:
 
     # "I should wash them, but I just don't have the energy right now."
-    ""
+    "Y debería lavarlos, pero no puedo moverme."
 
 # game/game_script.rpy:2107
 translate spanish game_script_d8c343b6:
 
     # "I’ll do them later."
-    ""
+    "Ya los lavaré..."
 
 # game/game_script.rpy:2108
 translate spanish game_script_69de41a8:
 
     # "Right now, the only thing on my mind is Natsuki."
-    ""
+    "Lo único que ronda mi cabeza ahora mismo... es Natsuki."
