@@ -1670,13 +1670,13 @@ translate spanish game_script_51000dbc:
 translate spanish game_script_766de971:
 
     # "But, there’s no way around leaving her here, just for tonight..."
-    ""
+    "Pero por esta noche, y solo esta noche, no podré sacarla de su casa..."
 
 # game/game_script.rpy:2033
 translate spanish game_script_0cf8b987:
 
     # "Regardless, what’s done is done."
-    ""
+    "En fin..., a lo hecho, pecho."
 
 # game/game_script.rpy:2034
 translate spanish game_script_e0b688da:
