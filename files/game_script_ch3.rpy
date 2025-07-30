@@ -1598,55 +1598,55 @@ translate spanish game_script_6fb2561a:
 translate spanish game_script_4027684b:
 
     # "A heavily-built man in what looks like his late forties."
-    ""
+    "Un hombre de unos cuarenta y pico años con mucho músculo."
 
 # game/game_script.rpy:2013
 translate spanish game_script_d23cfe3e:
 
     # "His posture, skin tone, and muscles suggest a life of manual labor."
-    ""
+    "Su postura, tono de piel y músculos me dan a entender que se ha pasado toda la vida en trabajos manuales."
 
 # game/game_script.rpy:2014
 translate spanish game_script_aa3d928d:
 
     # "He’s up on the balcony, taking a final drag from a lit cigarette."
-    ""
+    "Está fumando en el balcón, dándole la última calada a su cigarro."
 
 # game/game_script.rpy:2015
 translate spanish game_script_0a3c2e08:
 
     # "He carelessly flicks the near-finished butt over the edge of the balcony, landing somewhere in the street."
-    ""
+    "Sin importar dónde caiga, lanza la colilla casi terminada por los aires."
 
 # game/game_script.rpy:2016
 translate spanish game_script_08d8ea08:
 
     # "The man then promptly turns around, yanking the door open."
-    ""
+    "El hombre se da la vuelta y abre la puerta de golpe."
 
 # game/game_script.rpy:2020
 translate spanish game_script_f2d75a45:
 
     # "I hear a crash as he slams it behind him."
-    ""
+    "Cuando la cierra, escucho un golpe."
 
 # game/game_script.rpy:2021
 translate spanish game_script_2e559586:
 
     # "Natsuki chances one final glance my way."
-    ""
+    "Natsuki mira hacia mí por última vez."
 
 # game/game_script.rpy:2023
 translate spanish game_script_94bb5b11:
 
     # "I raise my hand as a goodbye wave."
-    ""
+    "A modo de despedida, levanto mi mano."
 
 # game/game_script.rpy:2025
 translate spanish game_script_bdb76780:
 
     # "She raises hers, nearly dropping the box in the process."
-    ""
+    "Natsuki levanta la suya y casi se le cae la caja."
 
 # game/game_script.rpy:2027
 translate spanish game_script_1f6d20b7:
