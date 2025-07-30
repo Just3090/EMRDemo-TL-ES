@@ -1682,265 +1682,265 @@ translate spanish game_script_0cf8b987:
 translate spanish game_script_e0b688da:
 
     # "I need to get home, if only to figure out my next move."
-    ""
+    "Necesito volver a casa y pensar en algo..."
 
 # game/game_script.rpy:2035
 translate spanish game_script_bf99243e:
 
     # "Speaking of..."
-    ""
+    "Y hablando de 'casa'."
 
 # game/game_script.rpy:2036
 translate spanish game_script_28986d4d:
 
     # "I whip out my phone and snap a photo of Natsuki’s place."
-    ""
+    "Cojo mi teléfono y saco una foto de la casa de Natsuki."
 
 # game/game_script.rpy:2037
 translate spanish game_script_759d3528:
 
     # "So I have something concrete to form a plan with."
-    ""
+    "Gracias a esto, podré planear algo con más precisión."
 
 # game/game_script.rpy:2038
 translate spanish game_script_6f047077:
 
     # "With nothing else to do here, I turn around and begin the trek home."
-    ""
+    "Como no tengo más nada que hacer aquí, me doy la vuelta y comienzo a volver a casa."
 
 # game/game_script.rpy:2048
 translate spanish game_script_daf692ec:
 
     # "{i}BZZT.{/i}"
-    ""
+    "{i}BZZZ.{/i}"
 
 # game/game_script.rpy:2050
 translate spanish game_script_daf692ec_1:
 
     # "{i}BZZT.{/i}"
-    ""
+    "{i}BZZZ.{/i}"
 
 # game/game_script.rpy:2052
 translate spanish game_script_daf692ec_2:
 
     # "{i}BZZT.{/i}"
-    ""
+    "{i}BZZZ.{/i}"
 
 # game/game_script.rpy:2053
 translate spanish game_script_506e98da:
 
     # "I hope she picks up."
-    ""
+    "Espero que lo coja..."
 
 # game/game_script.rpy:2054
 translate spanish game_script_218eed9b:
 
     # "It only takes a couple more rings to receive an answer though."
-    ""
+    "Tras un par de BZZZ más, coge el teléfono."
 
 # game/game_script.rpy:2056
 translate spanish game_script_7fc4ff80:
 
     # s "[player], hey."
-    s ""
+    s "Anda, [player]. Qué sorpresa."
 
 # game/game_script.rpy:2057
 translate spanish game_script_d143ad14:
 
     # mc "How’re you doing, Sayori?"
-    mc ""
+    mc "Hola, Sayori. ¿Cómo estás?"
 
 # game/game_script.rpy:2059
 translate spanish game_script_9dd26d3e:
 
     # "She pauses for a moment."
-    ""
+    "Se queda callada un momento."
 
 # game/game_script.rpy:2061
 translate spanish game_script_0b2683c0:
 
     # s "The best I’ve been doing in years."
-    s ""
+    s "Estoy todo lo mejor que he estado en años."
 
 # game/game_script.rpy:2062
 translate spanish game_script_375af974:
 
     # s "I actually feel...{w}alright."
-    s ""
+    s "De hecho, me siento...{w} genial."
 
 # game/game_script.rpy:2064
 translate spanish game_script_6c2e2ea2:
 
     # "I find it difficult to express my relief."
-    ""
+    "Se me complica decirle lo aliviado que me siento."
 
 # game/game_script.rpy:2065
 translate spanish game_script_afa8a2a2:
 
     # "I knew that getting professional help would be good for her, but I assumed it would be a more gradual process."
-    ""
+    "Sabía desde un principio que ir a terapia era una buena idea, pero mi suposición no era esto, sino algo más lento. Más gradual."
 
 # game/game_script.rpy:2067
 translate spanish game_script_41a47516:
 
     # mc "Honestly, I’m really happy for you, Sayori."
-    mc ""
+    mc "Si te soy sincero, estoy muy orgulloso de ti, Sayori."
 
 # game/game_script.rpy:2068
 translate spanish game_script_7827efe0:
 
     # s "Thank you, [player]."
-    s ""
+    s "Muchas gracias, [player]."
 
 # game/game_script.rpy:2069
 translate spanish game_script_b7693b3d:
 
     # s "Luckily, I don’t have to stay here anymore."
-    s ""
+    s "Por suerte, no es necesario quedarme más aquí."
 
 # game/game_script.rpy:2070
 translate spanish game_script_f0773f4b:
 
     # s "Mum’s on her way to pick me up."
-    s ""
+    s "Mamá viene a recogerme ya."
 
 # game/game_script.rpy:2071
 translate spanish game_script_e21367f8:
 
     # s "So I’ll be back tomorrow..."
-    s ""
+    s "Así que mañana vuelvo a la rutina..."
 
 # game/game_script.rpy:2072
 translate spanish game_script_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/game_script.rpy:2073
 translate spanish game_script_bf7cd7d2:
 
     # s "O-oh, I forgot!"
-    s ""
+    s "¡A-Ay, que se me olvida!"
 
 # game/game_script.rpy:2074
 translate spanish game_script_f61dd110:
 
     # s "The doctor said I could probably go to school tomorrow if I wanted..."
-    s ""
+    s "Me ha dicho el doctor que podría ir a clase si me siento con ganas..."
 
 # game/game_script.rpy:2075
 translate spanish game_script_344f1e12:
 
     # mc "That’s...{w}great!"
-    mc ""
+    mc "Joder, ¡eso es...{w} fascinante!"
 
 # game/game_script.rpy:2076
 translate spanish game_script_22453838:
 
     # mc "Just remember, you don’t have to come to the club if you don’t want to."
-    mc ""
+    mc "Pero... eso sí, no es necesario que vengas al club si no quieres."
 
 # game/game_script.rpy:2077
 translate spanish game_script_158e9760:
 
     # s "No, I do."
-    s ""
+    s "No, no, quiero ir."
 
 # game/game_script.rpy:2078
 translate spanish game_script_9ddcd843:
 
     # s "I love the Literature Club."
-    s ""
+    s "Me encanta el club de literatura."
 
 # game/game_script.rpy:2079
 translate spanish game_script_faa97a3c:
 
     # s "Besides, I’m the Vice President!"
-    s ""
+    s "Y creo que no recuerdas que... ¡soy la vicepresidenta!"
 
 # game/game_script.rpy:2081
 translate spanish game_script_3c485cb8:
 
     # "She’s almost acting like her \"normal self\"."
-    ""
+    "Está tratando de actuar como ella antes de 'eso'."
 
 # game/game_script.rpy:2082
 translate spanish game_script_3ea8a5e5:
 
     # "It’s honestly terrifying how she was on Monday, compared to now."
-    ""
+    "Sinceramente, me asusta comparar su estado de ánimo y comportamiento desde el lunes hasta ahora."
 
 # game/game_script.rpy:2083
 translate spanish game_script_2c10011e:
 
     # "It seems like she wants to move past what happened."
-    ""
+    "Eso es que querrá pasar página..."
 
 # game/game_script.rpy:2084
 translate spanish game_script_5e393202:
 
     # "On one hand, I’m all for trying to create a more positive environment for her...."
-    ""
+    "Por una parte, trato de que el ambiente que la rodea sea lo más amistoso posible..."
 
 # game/game_script.rpy:2085
 translate spanish game_script_72b03e61:
 
     # "On the other hand..."
-    ""
+    "Pero por la otra parte..."
 
 # game/game_script.rpy:2087
 translate spanish game_script_6f6d877d:
 
     # mc "I guess, if you really want to."
-    mc ""
+    mc "Bueno, si quieres, no voy a detenerte."
 
 # game/game_script.rpy:2088
 translate spanish game_script_a41d0ca2:
 
     # mc "You wanna walk to school with me?"
-    mc ""
+    mc "Si vas a volver a la rutina, eso incluye ir conmigo al instituto, ¿no?"
 
 # game/game_script.rpy:2089
 translate spanish game_script_23d59516:
 
     # s "Of course I do, [player]."
-    s ""
+    s "Pues claro, [player]."
 
 # game/game_script.rpy:2090
 translate spanish game_script_b82d008c:
 
     # mc "Alright. I’ll see you tomorrow then?"
-    mc ""
+    mc "Genial. Entonces, ¿hasta mañana?"
 
 # game/game_script.rpy:2091
 translate spanish game_script_689fcc89:
 
     # s "See you tomorrow!"
-    s ""
+    s "¡Sí! ¡Hasta mañana!"
 
 # game/game_script.rpy:2092
 translate spanish game_script_673033b0:
 
     # mc "Don't forget about your alarm."
-    mc ""
+    mc "No te olvides de ponerte la alarma, dormilona."
 
 # game/game_script.rpy:2093
 translate spanish game_script_d6d9baff:
 
     # s "I won’t!"
-    s ""
+    s "¡Que nooo!"
 
 # game/game_script.rpy:2094
 translate spanish game_script_37e086e7:
 
     # s "Bye~."
-    s ""
+    s "¡Chaítooo!"
 
 # game/game_script.rpy:2096
 translate spanish game_script_370fda78:
 
     # "She hangs up."
-    ""
+    "Cuelga."
 
 # game/game_script.rpy:2097
 translate spanish game_script_5f6e4f6e:
