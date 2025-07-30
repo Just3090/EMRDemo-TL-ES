@@ -2,91 +2,91 @@
 translate spanish game_script_8993ee3b:
 
     # "I sit on my bed, trying to drown out my thoughts by scrolling aimlessly through my phone."
-    ""
+    "Me siento en la cama, tratando de ahogar estos pensamientos moviéndome por los menús de mi teléfono."
 
 # game/game_script.rpy:2111
 translate spanish game_script_daecabc3:
 
     # "It’s not working."
-    ""
+    "Nada, no funciona."
 
 # game/game_script.rpy:2112
 translate spanish game_script_be011c06:
 
     # "Sayori is safe, at least. That’s one worry off the table for right now."
-    ""
+    "Sayori está a salvo, y es un peso que me quito de encima."
 
 # game/game_script.rpy:2113
 translate spanish game_script_c9d3cffd_1:
 
     # "But Natsuki..."
-    ""
+    "Pero Natsuki..."
 
 # game/game_script.rpy:2114
 translate spanish game_script_1b900ebe:
 
     # "Well, where do I begin?"
-    ""
+    "Je, ¿por dónde empiezo?"
 
 # game/game_script.rpy:2115
 translate spanish game_script_350eb45a:
 
     # "Her own father, beating and berating her..."
-    ""
+    "Su padre la castiga y abusa físicamente de ella..."
 
 # game/game_script.rpy:2116
 translate spanish game_script_f83e5973:
 
     # "While scrolling through my phone, I come across the picture I took of Natsuki’s house."
-    ""
+    "Desplazándome por los menús de mi teléfono, abro la galería y veo la foto de la casa de Natsuki."
 
 # game/game_script.rpy:2117
 translate spanish game_script_a20cefa7_5:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:2118
 translate spanish game_script_6549366b:
 
     # "...Oh."
-    ""
+    "Ah..."
 
 # game/game_script.rpy:2119
 translate spanish game_script_374e800f:
 
     # "I sense a plan coming together in my head."
-    ""
+    "Creo que tengo una idea..."
 
 # game/game_script.rpy:2120
 translate spanish game_script_07520824:
 
     # "I may well have a way to get her out if..."
-    ""
+    "Y creo que podría sacarla de allí si..."
 
 # game/game_script.rpy:2121
 translate spanish game_script_0ad93368:
 
     # "I zoom in on the picture, inspecting it meticulously."
-    ""
+    "Hago zoom en la foto para analizarla con cuidado."
 
 # game/game_script.rpy:2122
 translate spanish game_script_11bedf1c:
 
     # "Hmm..."
-    ""
+    "Mmm..."
 
 # game/game_script.rpy:2123
 translate spanish game_script_1c4e44cf:
 
     # "I think I know exactly what to do."
-    ""
+    "Pues creo que sé lo que puedo hacer."
 
 # game/game_script.rpy:2124
 translate spanish game_script_8d9a4bec:
 
     # "Exiting out of my gallery, I strike up a text conversation with Natsuki."
-    ""
+    "Salgo de la galería y abro la aplicación de mensajes, donde abro la conversación con Natsuki y empiezo a escribirle."
 
 # game/game_script.rpy:2125
 translate spanish game_script_86175e90:
