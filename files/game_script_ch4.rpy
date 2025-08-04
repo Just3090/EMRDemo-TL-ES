@@ -296,7 +296,7 @@ translate spanish game_script_03202afe:
 translate spanish game_script_e2cce3d9:
 
     # "What she shows on the outside could very well be another mask that she’s put on just to persuade me into believing otherwise."
-    "Lo más probable es que se haya puesto otra máscara para que deje de pensar estas cosas."
+    "Lo más probable es que lo que muestra por fuera bien podría ser otra máscara que se ha puesto solo para convencerme de lo contrario."
 
 # game/game_script.rpy:2187
 translate spanish game_script_e87e0575_2:
