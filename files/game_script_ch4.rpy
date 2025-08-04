@@ -626,7 +626,7 @@ translate spanish game_script_ac67d0df:
 translate spanish game_script_ac321f75:
 
     # mc "It’s better than staying there."
-    mc "Es mejor que estar allí."
+    mc "Es mejor que estar allí encerrada, Natsuki."
 
 # game/game_script.rpy:2292
 translate spanish game_script_bb2cf764_3:
