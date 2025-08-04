@@ -524,115 +524,115 @@ translate spanish game_script_26fcfdac:
 translate spanish game_script_fa03294e:
 
     # mc "When {i}is{/i} your birthday?"
-    mc "¿Cuándo es?"
+    mc "¿Cuándo es? Ya sabes, tu cumpleaños."
 
 # game/game_script.rpy:2261
 translate spanish game_script_89751f42:
 
     # n ldown mg e1b "November 5th..."
-    n ldown mg e1b ""
+    n ldown mg e1b "Pues... es el cinco de noviembre."
 
 # game/game_script.rpy:2263
 translate spanish game_script_27e5b650:
 
     # mc "So, about a month."
-    mc ""
+    mc "Conque un mes aproximadamente, ¿eh?"
 
 # game/game_script.rpy:2265
 translate spanish game_script_b19de1da:
 
     # n "I could just wait until then to--{w=0.2}{nw}"
-    n ""
+    n "Claro. Podría esperar hasta qu...{w=0.2}{nw}"
 
 # game/game_script.rpy:2267
 translate spanish game_script_7297a33d:
 
     # mc "Natsuki, another month there...is another month he can hurt you."
-    mc ""
+    mc "Natsuki, un mes más en esa casa es un mes más de abusos por parte de ese hombre."
 
 # game/game_script.rpy:2268
 translate spanish game_script_d365887c:
 
     # mc "A-And I can’t sit back and watch that happen."
-    mc ""
+    mc "Y-Y no puedo quedarme de brazos cruzados cuando están abusando de ti."
 
 # game/game_script.rpy:2271
 translate spanish game_script_10db05f0:
 
     # "I pause, to take a breath."
-    ""
+    "Respiro con tranquilidad."
 
 # game/game_script.rpy:2273
 translate spanish game_script_0805c8f6:
 
     # mc "A month away, though..."
-    mc ""
+    mc "Aunque falta un mes...,"
 
 # game/game_script.rpy:2275
 translate spanish game_script_54c256d0:
 
     # mc "It’ll be easier to just hide out until then."
-    mc ""
+    mc "creo que lo mejor va a ser esconderse."
 
 # game/game_script.rpy:2276
 translate spanish game_script_99b5f30a:
 
     # mc "We can manage that."
-    mc ""
+    mc "Podremos encargarnos de eso."
 
 # game/game_script.rpy:2277
 translate spanish game_script_2654a0b1:
 
     # mc "Then, as soon as your birthday comes around, we go to the police, and you’ll be safe."
-    mc ""
+    mc "Y cuando se acerque tu cumpleaños... vamos a la poli y que se encarguen de él. Estarás a salvo."
 
 # game/game_script.rpy:2279
 translate spanish game_script_9834109b:
 
     # n mg "I..."
-    n mg ""
+    n mg "No..."
 
 # game/game_script.rpy:2280
 translate spanish game_script_b1b34783:
 
     # n e4d "Jesus, [player]..."
-    n e4d ""
+    n e4d "Dios, [player]..."
 
 # game/game_script.rpy:2281
 translate spanish game_script_a739c4c4:
 
     # n "I don’t know."
-    n ""
+    n "No tengo ni idea, ¿vale?"
 
 # game/game_script.rpy:2283
 translate spanish game_script_be1dec06:
 
     # n "It works, but..."
-    n ""
+    n "Puede que funcione, pero..."
 
 # game/game_script.rpy:2284
 translate spanish game_script_1ef6c8e3:
 
     # n e1g b2c "You’d let me stay at yours for a whole month..?"
-    n e1g b2c ""
+    n e1g b2c "¿te crees capaz de dejarme vivir en tu casa un mes entero...?"
 
 # game/game_script.rpy:2288
 translate spanish game_script_ac67d0df:
 
     # "She wipes her eyes with her sleeve."
-    ""
+    "Se seca las lágrimas con su manga."
 
 # game/game_script.rpy:2290
 translate spanish game_script_ac321f75:
 
     # mc "It’s better than staying there."
-    mc ""
+    mc "Es mejor que estar allí."
 
 # game/game_script.rpy:2292
 translate spanish game_script_bb2cf764_3:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/game_script.rpy:2295
 translate spanish game_script_35fe0bcc:
