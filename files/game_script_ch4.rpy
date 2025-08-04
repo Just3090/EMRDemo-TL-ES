@@ -200,331 +200,331 @@ translate spanish game_script_5f1b9a3c:
 translate spanish game_script_bb0bba34:
 
     # "But my best bet at the moment is hoping she shows up at the club later."
-    ""
+    "Aunque lo que me queda es rezar porque aparezca en el club más tarde..."
 
 # game/game_script.rpy:2155
 translate spanish game_script_d12c85db:
 
     # "Then I could try and talk to her..."
-    ""
+    "Y podría aprovechar para hablar con ella."
 
 # game/game_script.rpy:2158
 translate spanish game_script_62e85122:
 
     # s "[player]!"
-    s ""
+    s "¡[player]!"
 
 # game/game_script.rpy:2160
 translate spanish game_script_3af7f6d4:
 
     # "Sayori runs towards me, shutting her front door behind her."
-    ""
+    "Sayori corre hacia mí mientras pega un portazo tras de sí."
 
 # game/game_script.rpy:2162
 translate spanish game_script_23ba5f59:
 
     # s "I’m so sorry, I kept hitting the snooze button!"
-    s ""
+    s "¡Perdóname! ¡Me he quedado dormida porque no paraba de pulsar en el botón de 'Posponer'!"
 
 # game/game_script.rpy:2164
 translate spanish game_script_a2a1b28d:
 
     # s "I didn't wake up until the last alarm!"
-    s ""
+    s "¡Y acabé despertándome porque mi móvil no me dejaba posponer más!"
 
 # game/game_script.rpy:2167
 translate spanish game_script_7e2663f0:
 
     # "Seems some things never change."
-    ""
+    "En fin, parece que hay cosas que nunca cambiarán."
 
 # game/game_script.rpy:2169
 translate spanish game_script_a0292fac:
 
     # mc "It’s alright. I haven’t been waiting long."
-    mc ""
+    mc "Tranquila, no llevo mucho esperando."
 
 # game/game_script.rpy:2171
 translate spanish game_script_7c5b5e8b:
 
     # "She turns her run into a tackling hug that nearly knocks me off my feet."
-    ""
+    "De repente, Sayori convierte su carrera en un placaje al que llama 'abrazo' que casi hace que caiga hacia atrás."
 
 # game/game_script.rpy:2173
 translate spanish game_script_4d5801ed:
 
     # mc "Oof, easy!"
-    mc ""
+    mc "¡Oyeee, tranquila!"
 
 # game/game_script.rpy:2175
 translate spanish game_script_5db406a9:
 
     # "She steps back and smiles."
-    ""
+    "Retrocede y sonríe."
 
 # game/game_script.rpy:2177
 translate spanish game_script_478b9332:
 
     # mc "How are you feeling?"
-    mc ""
+    mc "¿Cómo te va?"
 
 # game/game_script.rpy:2179
 translate spanish game_script_dd701df8:
 
     # s "Great, actually. I get to see the Literature Club again!"
-    s ""
+    s "Pues muy bien. ¡Tengo ganas de ver el club otra vez!"
 
 # game/game_script.rpy:2182
 translate spanish game_script_167884a5:
 
     # "I can’t help but still be concerned."
-    ""
+    "No puedo evitar preocuparme..."
 
 # game/game_script.rpy:2183
 translate spanish game_script_c44b6dfc:
 
     # "Is this happiness merely temporary?"
-    ""
+    "¿Es esta felicidad que muestra... temporal?"
 
 # game/game_script.rpy:2184
 translate spanish game_script_03202afe:
 
     # "Or is she suppressing her true emotions?"
-    ""
+    "¿Está ocultando sus verdaderas emociones?"
 
 # game/game_script.rpy:2185
 translate spanish game_script_e2cce3d9:
 
     # "What she shows on the outside could very well be another mask that she’s put on just to persuade me into believing otherwise."
-    ""
+    "Lo más probable es que se haya puesto otra máscara para que deje de pensar estas cosas."
 
 # game/game_script.rpy:2187
 translate spanish game_script_e87e0575_2:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/game_script.rpy:2188
 translate spanish game_script_78053a1b:
 
     # mc "You know..."
-    mc ""
+    mc "Sabes que..."
 
 # game/game_script.rpy:2190
 translate spanish game_script_d6f77c89:
 
     # mc "You can...{w}you can always..."
-    mc ""
+    mc "Sabes que...,{w} sabes que siempre..."
 
 # game/game_script.rpy:2192
 translate spanish game_script_1227252c:
 
     # "My voice trails off."
-    ""
+    "Mi voz se esfuma."
 
 # game/game_script.rpy:2193
 translate spanish game_script_735724c0_1:
 
     # "Damn it."
-    ""
+    "Joder..."
 
 # game/game_script.rpy:2195
 translate spanish game_script_f0ad7b64:
 
     # "I don’t even know how to finish that."
-    ""
+    "Es que ni siquiera sé cómo acabar mi propia frase."
 
 # game/game_script.rpy:2196
 translate spanish game_script_95c66723:
 
     # "Why {i}wouldn’t{/i} she know that?"
-    ""
+    "De hecho, ¿por qué ella no iba a saberlo ya?"
 
 # game/game_script.rpy:2198
 translate spanish game_script_09a13088:
 
     # "An awkward silence lingers between us."
-    ""
+    "Hay un silencio bastante incómodo entre Sayori y yo."
 
 # game/game_script.rpy:2200
 translate spanish game_script_8c6b8605:
 
     # s b1b e1b mb "Yeah, I know."
-    s b1b e1b mb ""
+    s b1b e1b mb "Que sí, lo sé."
 
 # game/game_script.rpy:2201
 translate spanish game_script_72dd003c:
 
     # s b2a e1a mh "But it's fine."
-    s b2a e1a mh ""
+    s b2a e1a mh "Pero estoy bien. ¿Ves?"
 
 # game/game_script.rpy:2202
 translate spanish game_script_c548f301:
 
     # s b1a mg "We...should probably get to school."
-    s b1a mg ""
+    s b1a mg "Deberíamos... ir tirando ya. Al instituto, digo."
 
 # game/game_script.rpy:2204
 translate spanish game_script_581395e5:
 
     # mc "Oh, yeah. Sorry."
-    mc ""
+    mc "Ah, sí, claro. Perdona."
 
 # game/game_script.rpy:2206
 translate spanish game_script_ef9ba3dd:
 
     # "We take our leave, heading down the street and turning the corner together."
-    ""
+    "Nos despedimos, bajando por la calle y doblando la esquina juntos."
 
 # game/game_script.rpy:2217
 translate spanish game_script_f1f15c94:
 
     # "The last bell rings as I take my usual route to the Literature Club."
-    ""
+    "El último timbre indica que debo ir tirando al club."
 
 # game/game_script.rpy:2218
 translate spanish game_script_c7617651:
 
     # "Turning the corner, I’m surprised to see Natsuki loitering outside the clubroom door."
-    ""
+    "Doblando la esquina, me sorprendo al ver a Natsuki merodeando fuera del aula."
 
 # game/game_script.rpy:2220
 translate spanish game_script_fb1c5db2:
 
     # mc "Hey, Natsuki."
-    mc ""
+    mc "Hola, Natsuki."
 
 # game/game_script.rpy:2222
 translate spanish game_script_e12196e3:
 
     # n e1a mh "[player], I got your message..."
-    n e1a mh ""
+    n e1a mh "Hola, [player], me llegaron tus mensajes..."
 
 # game/game_script.rpy:2223
 translate spanish game_script_f1a9f5ac:
 
     # n e1b b2b "I still don’t know about all this."
-    n e1b b2b ""
+    n e1b b2b "Pero es que sigo sin tener muy claro todo esto."
 
 # game/game_script.rpy:2224
 translate spanish game_script_92adcd8c:
 
     # n "I mean, what’re we even gonna do after..?"
-    n ""
+    n "Es decir, hacemos lo que me dijiste. Genial. ¿Y qué haremos después?"
 
 # game/game_script.rpy:2226
 translate spanish game_script_39dec636:
 
     # mc "We’ll figure something out."
-    mc ""
+    mc "Pues ya pensaremos en algo."
 
 # game/game_script.rpy:2227
 translate spanish game_script_48bc452a:
 
     # mc "We talk to the school, or the police, or--{w=0.2}{nw}"
-    mc ""
+    mc "Hablaremos con los docentes, la poli, el...{w=0.2}{nw}"
 
 # game/game_script.rpy:2229
 translate spanish game_script_3fa6f0c2:
 
     # n e2d mi b1d "...No!"
-    n e2d mi b1d ""
+    n e2d mi b1d "¡No!"
 
 # game/game_script.rpy:2235
 translate spanish game_script_600076f1:
 
     # "She worriedly looks around her before hushing her voice."
-    ""
+    "Natsuki gira la cabeza, mirando a todos lados, antes de susurrarme."
 
 # game/game_script.rpy:2237
 translate spanish game_script_8abab470:
 
     # n lhip mh b1b "We can’t get the police involved."
-    n lhip mh b1b ""
+    n lhip mh b1b "Ni de coña podemos dejar que la policía se meta en esto."
 
 # game/game_script.rpy:2240
 translate spanish game_script_2f23ea22:
 
     # "She takes a second before elaborating."
-    ""
+    "Se espera un poco antes de dar más detalles."
 
 # game/game_script.rpy:2242
 translate spanish game_script_118eb1e7:
 
     # n e4a mg "I’m not eighteen yet."
-    n e4a mg ""
+    n e4a mg "Aún no tengo los dieciocho."
 
 # game/game_script.rpy:2243
 translate spanish game_script_fddd8de1:
 
     # n e1b mh "I don’t really have a say in anything."
-    n e1b mh ""
+    n e1b mh "Y eso significa que, ni pincho, ni corto."
 
 # game/game_script.rpy:2244
 translate spanish game_script_71c422a3:
 
     # n "If we go to the police, even if something does happen eventually..."
-    n ""
+    n "Y es que, aunque fuésemos a la policía y consiguiesen hacer algo...,"
 
 # game/game_script.rpy:2246
 translate spanish game_script_7997032e:
 
     # n e4a "I could get sent straight back to him."
-    n e4a ""
+    n e4a "podrían enviarme directamente con mi padre."
 
 # game/game_script.rpy:2248
 translate spanish game_script_14e7547e:
 
     # mc "No...{w}there must be a way to do {i}something.{/i}"
-    mc ""
+    mc "Ni de coña...,{w} estoy seguro que debe haber ALGO que podamos hacer."
 
 # game/game_script.rpy:2249
 translate spanish game_script_d03e59a6:
 
     # mc "I can’t just stand by and let this happen."
-    mc ""
+    mc "No puedo permitirme estar al margen y dejar que todo esto ocurra."
 
 # game/game_script.rpy:2251
 translate spanish game_script_2d56fa8a:
 
     # n rhip e1a mh "[player], please trust me."
-    n rhip e1a mh ""
+    n rhip e1a mh "Créeme, [player]..."
 
 # game/game_script.rpy:2252
 translate spanish game_script_726c4c80:
 
     # n "If you really want to help me here, please just wait until after my birthday."
-    n ""
+    n "Si quieres ayudarme, y quieres que surja efecto, espera con paciencia a mi cumpleaños."
 
 # game/game_script.rpy:2254
 translate spanish game_script_bba9ca01:
 
     # "I hesitate for a second."
-    ""
+    "Dudo un momento."
 
 # game/game_script.rpy:2255
 translate spanish game_script_be35cbc7:
 
     # "I’m not entirely convinced...{w}but I trust Natsuki."
-    ""
+    "No me termina de convencer...,{w} pero confío en ella."
 
 # game/game_script.rpy:2256
 translate spanish game_script_24d21b34:
 
     # "I’ll follow along with what she says...{w}for now at least."
-    ""
+    "Le seguiré el juego...{w} por ahora."
 
 # game/game_script.rpy:2258
 translate spanish game_script_26fcfdac:
 
     # mc "Okay, uh..."
-    mc ""
+    mc "Vale, pues..."
 
 # game/game_script.rpy:2259
 translate spanish game_script_fa03294e:
 
     # mc "When {i}is{/i} your birthday?"
-    mc ""
+    mc "¿Cuándo es?"
 
 # game/game_script.rpy:2261
 translate spanish game_script_89751f42:
