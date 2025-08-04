@@ -620,7 +620,7 @@ translate spanish game_script_1ef6c8e3:
 translate spanish game_script_ac67d0df:
 
     # "She wipes her eyes with her sleeve."
-    "Se seca las lágrimas con su manga."
+    "Se seca las lágrimas con la manga."
 
 # game/game_script.rpy:2290
 translate spanish game_script_ac321f75:
