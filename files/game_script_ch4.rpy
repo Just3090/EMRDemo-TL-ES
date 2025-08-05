@@ -578,7 +578,7 @@ translate spanish game_script_54c256d0:
 translate spanish game_script_99b5f30a:
 
     # mc "We can manage that."
-    mc "Podremos encargarnos, no te preocupes."
+    mc "Todo irá bien, no te preocupes."
 
 # game/game_script.rpy:2277
 translate spanish game_script_2654a0b1:
@@ -638,61 +638,61 @@ translate spanish game_script_bb2cf764_3:
 translate spanish game_script_35fe0bcc:
 
     # "Natsuki nearly topples me over as she launches into me, hugging me tightly."
-    ""
+    "Natsuki se abalanza sobre mí, casi tirándome hacia atrás, mientras me abraza con fuerza."
 
 # game/game_script.rpy:2296
 translate spanish game_script_3d0019ee:
 
     # "I reciprocate."
-    ""
+    "Hago lo mismo."
 
 # game/game_script.rpy:2298
 translate spanish game_script_cb6ff627:
 
     # n mg e1g "Thank you, [player]."
-    n mg e1g ""
+    n mg e1g "Muchísimas gracias, [player]."
 
 # game/game_script.rpy:2299
 translate spanish game_script_7c32a081:
 
     # n "I can’t say that enough."
-    n ""
+    n "No puedo agradecértelo lo suficiente..."
 
 # game/game_script.rpy:2300
 translate spanish game_script_14e5153d:
 
     # n e4d "You have no idea how much this means..."
-    n e4d ""
+    n e4d "Es que no tienes ni idea de lo mucho que significa esto para mí..."
 
 # game/game_script.rpy:2302
 translate spanish game_script_9d1f0ba7:
 
     # mc "It’s okay, Natsuki."
-    mc ""
+    mc "No pasa nada, Natsuki."
 
 # game/game_script.rpy:2309
 translate spanish game_script_cd0cefce:
 
     # "She quickly lets go, however."
-    ""
+    "Me suelta con rapidez."
 
 # game/game_script.rpy:2311
 translate spanish game_script_9cb30dbc:
 
     # mc "Hey, uh...{w}what happened to your blazer?"
-    mc ""
+    mc "Eh..., una cosa,{w} ¿qué le ha pasado a tu chaqueta?"
 
 # game/game_script.rpy:2313
 translate spanish game_script_343b8fba:
 
     # n mg "...long story."
-    n mg ""
+    n mg "Ha sido una larga historia."
 
 # game/game_script.rpy:2315
 translate spanish game_script_076d574a:
 
     # "I nod in understanding."
-    ""
+    "Entendiendo por lo que lo dice, asiento."
 
 # game/game_script.rpy:2318
 translate spanish game_script_25427141:
