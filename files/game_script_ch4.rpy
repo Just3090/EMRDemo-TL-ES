@@ -572,13 +572,13 @@ translate spanish game_script_0805c8f6:
 translate spanish game_script_54c256d0:
 
     # mc "It’ll be easier to just hide out until then."
-    mc "creo que lo mejor va a ser esconderse."
+    mc "creo que lo mejor va a ser esconderse hasta que ocurra."
 
 # game/game_script.rpy:2276
 translate spanish game_script_99b5f30a:
 
     # mc "We can manage that."
-    mc "Podremos encargarnos de eso."
+    mc "Podremos encargarnos, no te preocupes."
 
 # game/game_script.rpy:2277
 translate spanish game_script_2654a0b1:
