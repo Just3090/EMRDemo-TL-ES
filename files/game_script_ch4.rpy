@@ -272,7 +272,7 @@ translate spanish game_script_478b9332:
 translate spanish game_script_dd701df8:
 
     # s "Great, actually. I get to see the Literature Club again!"
-    s "Pues muy bien. ¡Tengo ganas de ver el club otra vez!"
+    s "Pues muy bien. ¡Tengo ganas de ver a las chicas en el club otra vez!"
 
 # game/game_script.rpy:2182
 translate spanish game_script_167884a5:
@@ -686,7 +686,7 @@ translate spanish game_script_9cb30dbc:
 translate spanish game_script_343b8fba:
 
     # n mg "...long story."
-    n mg "Una larga historia."
+    n mg "Es largo de contar."
 
 # game/game_script.rpy:2315
 translate spanish game_script_076d574a:
@@ -698,7 +698,7 @@ translate spanish game_script_076d574a:
 translate spanish game_script_25427141:
 
     # "She sighs, then turns her focus to the clubroom door."
-    "Suspira y se da la vuelta, poniendo su atención en la puerta de entrada del club."
+    "Suspira y se da la vuelta, poniendo su atención en la puerta de entrada al club."
 
 # game/game_script.rpy:2321
 translate spanish game_script_43578470:
@@ -710,7 +710,7 @@ translate spanish game_script_43578470:
 translate spanish game_script_e13b0d20:
 
     # n "The actual club."
-    n "El puto club."
+    n "El club."
 
 # game/game_script.rpy:2325
 translate spanish game_script_b17041b9:
@@ -722,97 +722,97 @@ translate spanish game_script_b17041b9:
 translate spanish game_script_fb5e2c66:
 
     # "Trying to push my fears to the back of my mind, we finally head into the clubroom."
-    ""
+    "Intentando alejar mis miedos, hacemos cto de presencia en el club."
 
 # game/game_script.rpy:2332
 translate spanish game_script_dd367414:
 
     # "Craning my neck, I scan the room."
-    ""
+    "Estirando mi cuello, hago un pequeño escaneo del aula."
 
 # game/game_script.rpy:2336
 translate spanish game_script_69edce31:
 
     # "To my surprise, I see Yuri and Sayori sitting at a desk in the furthest corner of the room."
-    ""
+    "Sorprendentemente, veo a Sayori y a Yuri sentadas en la esquina más alejada."
 
 # game/game_script.rpy:2337
 translate spanish game_script_804d4408:
 
     # "They appear to be deep in conversation, and haven’t noticed our arrival."
-    ""
+    "Se ve que están bastante concentradas hablando. No se han percatado de nosotros."
 
 # game/game_script.rpy:2340
 translate spanish game_script_dc3d7705:
 
     # "As curious as I am, I let them have their moment and quietly put my things on one of the desks."
-    ""
+    "Tan curioso como siempre, las dejo tranquilas hablando mientras pongo mis cosas, con mucho cuidado, en uno de los escritorios."
 
 # game/game_script.rpy:2343
 translate spanish game_script_7d02420a:
 
     # "I see them stand up and embrace each other in a tight hug."
-    ""
+    "De repente, se levantan y se abrazan cariñosamente."
 
 # game/game_script.rpy:2344
 translate spanish game_script_5fb7000f:
 
     # "I can already guess what the conversation was about."
-    ""
+    "Me da que ya sé de qué hablaban."
 
 # game/game_script.rpy:2345
 translate spanish game_script_80b6ae8c:
 
     # "I gently cough to get their attention."
-    ""
+    "Finjo toser para que se percaten de mí."
 
 # game/game_script.rpy:2349
 translate spanish game_script_4e1884a9:
 
     # s "O-Oh, [player]!"
-    s ""
+    s "¡A-ay, [player]!"
 
 # game/game_script.rpy:2352
 translate spanish game_script_d21a4d26:
 
     # s "How long have you been here?"
-    s ""
+    s "¿Cuánto tiempo llevas ahí?"
 
 # game/game_script.rpy:2354
 translate spanish game_script_8158a82b:
 
     # mc "Just got here. Everything okay?"
-    mc ""
+    mc "Acabo de llegar, tranquila. ¿Todo guay?"
 
 # game/game_script.rpy:2362
 translate spanish game_script_4ee31576:
 
     # "Sayori looks over at Yuri, who has gone back to her usual spot."
-    ""
+    "Sayori busca a Yuri con la mirada, la cual ha vuelto ya a su sitio de siempre."
 
 # game/game_script.rpy:2365
 translate spanish game_script_da720c7c:
 
     # s mb e1a b1a "Yeah, everything’s good!"
-    s mb e1a b1a ""
+    s mb e1a b1a "¡Claro! ¡Todo genial!"
 
 # game/game_script.rpy:2368
 translate spanish game_script_310b89d6:
 
     # "She gives a brief smile and heads over to me."
-    ""
+    "Me sonríe y se me acerca."
 
 # game/game_script.rpy:2369
 translate spanish game_script_3197c1c2:
 
     # "I lower my voice."
-    ""
+    "Le susurro."
 
 # game/game_script.rpy:2371
 translate spanish game_script_3656a527:
 
     # mc "You sure?"
-    mc ""
+    mc "¿Todo bien? ¿Estás segura?"
 
 # game/game_script.rpy:2373
 translate spanish game_script_036bd57a:
