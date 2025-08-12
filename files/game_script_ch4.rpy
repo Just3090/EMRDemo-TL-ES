@@ -254,7 +254,7 @@ translate spanish game_script_7c5b5e8b:
 translate spanish game_script_4d5801ed:
 
     # mc "Oof, easy!"
-    mc "¡Oyeee, tranquila!"
+    mc "¡Oooye, tranquila!"
 
 # game/game_script.rpy:2175
 translate spanish game_script_5db406a9:
@@ -686,7 +686,7 @@ translate spanish game_script_9cb30dbc:
 translate spanish game_script_343b8fba:
 
     # n mg "...long story."
-    n mg "Ha sido una larga historia."
+    n mg "Una larga historia."
 
 # game/game_script.rpy:2315
 translate spanish game_script_076d574a:
@@ -698,25 +698,25 @@ translate spanish game_script_076d574a:
 translate spanish game_script_25427141:
 
     # "She sighs, then turns her focus to the clubroom door."
-    ""
+    "Suspira y se da la vuelta, poniendo su atención en la puerta de entrada del club."
 
 # game/game_script.rpy:2321
 translate spanish game_script_43578470:
 
     # n "Damn it, almost forgot..."
-    n ""
+    n "Mierda, casi se me olvida..."
 
 # game/game_script.rpy:2323
 translate spanish game_script_e13b0d20:
 
     # n "The actual club."
-    n ""
+    n "El puto club."
 
 # game/game_script.rpy:2325
 translate spanish game_script_b17041b9:
 
     # mc "Aha...{w}yeah."
-    mc ""
+    mc "Sí...,{w} ya."
 
 # game/game_script.rpy:2327
 translate spanish game_script_fb5e2c66:
