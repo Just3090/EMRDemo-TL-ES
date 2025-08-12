@@ -818,169 +818,169 @@ translate spanish game_script_3656a527:
 translate spanish game_script_036bd57a:
 
     # s "Yeah."
-    s ""
+    s "Claro."
 
 # game/game_script.rpy:2375
 translate spanish game_script_77c279bf:
 
     # mc "Are you still gonna..?"
-    mc ""
+    mc "¿Vas a seguir...?"
 
 # game/game_script.rpy:2378
 translate spanish game_script_9e59da6b:
 
     # "Sayori pauses."
-    ""
+    "Sayori me detiene en seco."
 
 # game/game_script.rpy:2382
 translate spanish game_script_6b3d6d16:
 
     # s "Monika and Natsuki deserve to know."
-    s ""
+    s "Monika y Natsuki merecen saberlo, ¿sabes?"
 
 # game/game_script.rpy:2386
 translate spanish game_script_18a9d649:
 
     # m "What about me?"
-    m ""
+    m "Que yo, ¿qué?"
 
 # game/game_script.rpy:2390
 translate spanish game_script_0602937b:
 
     # "I turn and see Monika leaning against the doorframe."
-    ""
+    "Me doy la vuelta y veo a Monika cotilleando a través del marco de la puerta."
 
 # game/game_script.rpy:2392
 translate spanish game_script_53c0a7d1:
 
     # mc "Yeah, about tha----{w=0.4}{nw}"
-    mc ""
+    mc "Sí, es qu{w=0.4}{nw}"
 
 # game/game_script.rpy:2394
 translate spanish game_script_7f5e5bfb:
 
     # m "Sayori...[player]..."
-    m ""
+    m "Sayori, [player]...."
 
 # game/game_script.rpy:2396
 translate spanish game_script_e9818abd:
 
     # m "Do you want to talk in the hallway?"
-    m ""
+    m "¿Os importaría hablar de eso en el pasillo?"
 
 # game/game_script.rpy:2399
 translate spanish game_script_96c0a940:
 
     # "She seems a little worried..."
-    ""
+    "Parece preocupada..."
 
 # game/game_script.rpy:2402
 translate spanish game_script_eb619674:
 
     # s "Uh..."
-    s ""
+    s "Eh..."
 
 # game/game_script.rpy:2405
 translate spanish game_script_eb7bd89f:
 
     # s "Actually, Monika..."
-    s ""
+    s "Monika, es que..."
 
 # game/game_script.rpy:2407
 translate spanish game_script_a6d05a11:
 
     # s "I think it’d be easier to just say it once."
-    s ""
+    s "Creo que es mejor decirlo directamente."
 
 # game/game_script.rpy:2410
 translate spanish game_script_fe298ec1:
 
     # m "Alright. What’s going on?"
-    m ""
+    m "Genial. ¿Qué es lo que ocurre?"
 
 # game/game_script.rpy:2412
 translate spanish game_script_34138a72:
 
     # m "Are you okay?"
-    m ""
+    m "¿Va todo bien?"
 
 # game/game_script.rpy:2414
 translate spanish game_script_652725be:
 
     # mc "Well, Sayo--{w=0.2}{nw}"
-    mc ""
+    mc "Es que Say{w=0.2}{nw}"
 
 # game/game_script.rpy:2417
 translate spanish game_script_7b049ca3:
 
     # "Sayori raises her hand up to silence me."
-    ""
+    "Sayori levanta la mano para que me calle."
 
 # game/game_script.rpy:2420
 translate spanish game_script_d133d910:
 
     # s "Monika, I’m really sorry for ruining the festival."
-    s ""
+    s "Monika, siento muchísimo haber arruinado el festival."
 
 # game/game_script.rpy:2422
 translate spanish game_script_a38a92b9:
 
     # s "I know how important that was to you, and..."
-    s ""
+    s "Sé lo importante que era para ti, y...,"
 
 # game/game_script.rpy:2425
 translate spanish game_script_9e59da6b_1:
 
     # "Sayori pauses."
-    ""
+    "Sayori se detiene."
 
 # game/game_script.rpy:2429
 translate spanish game_script_cbf0609a:
 
     # "I can see her trying to compose herself."
-    ""
+    "Puedo ver que trata de mantener la compostura."
 
 # game/game_script.rpy:2432
 translate spanish game_script_19614cc7:
 
     # s "I did something really bad."
-    s ""
+    s "es que hice algo muy malo."
 
 # game/game_script.rpy:2436
 translate spanish game_script_8c5b43a1:
 
     # s "Something I shouldn’t have done."
-    s ""
+    s "Hice algo que no debí siquiera haber pensado."
 
 # game/game_script.rpy:2438
 translate spanish game_script_07a9ca57:
 
     # s "And if it wasn't for [player], I'd..."
-    s ""
+    s "Y si no fuese por [player], estaría..."
 
 # game/game_script.rpy:2440
 translate spanish game_script_e1554201_1:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/game_script.rpy:2442
 translate spanish game_script_7697e333:
 
     # s "He saved my life."
-    s ""
+    s "[player] me salvó la vida, Monika."
 
 # game/game_script.rpy:2447
 translate spanish game_script_480a0d62:
 
     # "I sure didn’t expect Sayori to put it that bluntly."
-    ""
+    "Te juro que no me esperaba que Sayori lo soltase así, sin más."
 
 # game/game_script.rpy:2448
 translate spanish game_script_1668fd97:
 
     # "I’m simultaneously impressed with, and worried by how she’s handling this."
-    ""
+    "Estoy impresionado y, a la vez, preocupado por cómo está llevando todo esto hacia adelante."
 
 # game/game_script.rpy:2449
 translate spanish game_script_1baf4645:
