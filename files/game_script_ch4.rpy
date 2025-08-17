@@ -986,175 +986,175 @@ translate spanish game_script_1668fd97:
 translate spanish game_script_1baf4645:
 
     # "Monika, on the other hand, is bewildered."
-    ""
+    "Por otro lado, Monika no sabe ni qué decir."
 
 # game/game_script.rpy:2452
 translate spanish game_script_ccb0238e:
 
     # m "...saved your life?"
-    m ""
+    m "Cómo que ha... salvado tu vida..."
 
 # game/game_script.rpy:2454
 translate spanish game_script_c39fdd45:
 
     # m "What does tha-...{w=0.2}{nw}"
-    m ""
+    m "Qué sign{w=0.2}{nw}"
 
 # game/game_script.rpy:2457
 translate spanish game_script_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/game_script.rpy:2461
 translate spanish game_script_c89156ed:
 
     # "She stops mid-sentence and blinks."
-    ""
+    "Se para ella misma mientras parpadea."
 
 # game/game_script.rpy:2464
 translate spanish game_script_8e62db32:
 
     # m "Oh."
-    m ""
+    m "Ah."
 
 # game/game_script.rpy:2468
 translate spanish game_script_8bb0e3c5:
 
     # m "{i}Oh my God.{/i}"
-    m ""
+    m "Dios santo..."
 
 # game/game_script.rpy:2471
 translate spanish game_script_f2eba4f8:
 
     # m "Sayori..."
-    m ""
+    m "Sayori..."
 
 # game/game_script.rpy:2475
 translate spanish game_script_d4d57fc4:
 
     # s "I’m really sorry..."
-    s ""
+    s "Lo siento muchísimo..."
 
 # game/game_script.rpy:2479
 translate spanish game_script_ea046ed0:
 
     # m "Sayori, there’s {i}nothing{/i} to be sorry for."
-    m ""
+    m "Sayori, no quiero que te disculpes. No quiero que sientas culpa de nada..."
 
 # game/game_script.rpy:2481
 translate spanish game_script_2dc80ecc:
 
     # m "{i}I’m{/i} sorry for even..."
-    m ""
+    m "Incluso siento haber..."
 
 # game/game_script.rpy:2483
 translate spanish game_script_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/game_script.rpy:2485
 translate spanish game_script_2a5241e2:
 
     # m "I didn’t realize that..."
-    m ""
+    m "No me di cuenta..."
 
 # game/game_script.rpy:2488
 translate spanish game_script_b121f6c5:
 
     # "She stands, seemingly shell-shocked by Sayori’s confession for a moment."
-    ""
+    "Monika sigue de pie, confundida, sorprendida y sin saber qué decir."
 
 # game/game_script.rpy:2493
 translate spanish game_script_2518779a:
 
     # "Natsuki walks away, as if in a daze, and collapses in a desk by the closet."
-    ""
+    "Natsuki se va, aturdida, y se acuesta en uno de los pupitres cercanos al armario."
 
 # game/game_script.rpy:2494
 translate spanish game_script_ab81c89b:
 
     # "Yuri quietly makes her way over to Natsuki, kneeling down beside her."
-    ""
+    "Yuri va hacia Natsuki con cuidado y se arrodilla frente a ella."
 
 # game/game_script.rpy:2495
 translate spanish game_script_b63a0c77:
 
     # "I'll need to check on her."
-    ""
+    "Necesito echarle un vistazo."
 
 # game/game_script.rpy:2499
 translate spanish game_script_d285f3a7:
 
     # m "Listen, Sayori, we’re here for you."
-    m ""
+    m "Escucha, Sayori: estamos y siempre estaremos para ti."
 
 # game/game_script.rpy:2500
 translate spanish game_script_c6fce8aa:
 
     # m "All of us."
-    m ""
+    m "Absolutamente todos."
 
 # game/game_script.rpy:2502
 translate spanish game_script_82a13e44:
 
     # m "We, uh..."
-    m ""
+    m "Nos..., eh..."
 
 # game/game_script.rpy:2505
 translate spanish game_script_964692e9:
 
     # "It’s the first time I’ve seen her truly speechless."
-    ""
+    "Es la primera vez que veo a Monika sin palabras."
 
 # game/game_script.rpy:2507
 translate spanish game_script_e7678116:
 
     # "After a few seconds, Monika ends the silence."
-    ""
+    "Tras unos segundos, Monika acaba su frase."
 
 # game/game_script.rpy:2511
 translate spanish game_script_48d8b6ad:
 
     # m "I don’t mean to put this aside..."
-    m ""
+    m "No pretendo que esto quede en el olvido...,"
 
 # game/game_script.rpy:2513
 translate spanish game_script_0f022a9a:
 
     # m "Just, for the time being, we should probably resume our club activities."
-    m ""
+    m "pero creo que será mejor que, para lo que nos queda, volvamos a nuestros quehaceres en el club."
 
 # game/game_script.rpy:2516
 translate spanish game_script_2d873ced:
 
     # "She faces Sayori directly."
-    ""
+    "Y con esto, mira directamente hacia Sayori."
 
 # game/game_script.rpy:2518
 translate spanish game_script_64c9c0b4:
 
     # m "But if you need to talk at all...I’m here, okay?"
-    m ""
-
+    m "Si necesitas hablar de todo esto..., aquí me tienes, ¿vale?"
+    
 # game/game_script.rpy:2521
 translate spanish game_script_402b0bab:
 
     # s "Oh, I’ll be okay."
-    s ""
+    s "Ah, vale, pero estaré genial."
 
 # game/game_script.rpy:2523
 translate spanish game_script_b28bd598:
 
     # s "But thank you!"
-    s ""
+    s "¡Gracias de todas maneras!"
 
 # game/game_script.rpy:2530
 translate spanish game_script_7071e483:
 
     # "Sayori gives Monika a quick hug and heads to her seat."
-    ""
+    "Sayori abraza rápidamente a Monika y vuelve a su sitio."
 
 # game/game_script.rpy:2531
 translate spanish game_script_d4487a84:
