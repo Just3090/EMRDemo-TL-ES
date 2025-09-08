@@ -1160,73 +1160,73 @@ translate spanish game_script_7071e483:
 translate spanish game_script_d4487a84:
 
     # "As Sayori passes me, I feel her hand brush against mine."
-    ""
+    "Cuando Sayori pasa al lado mía, siento que su mano roza la mía."
 
 # game/game_script.rpy:2533
 translate spanish game_script_fa62530c:
 
     # "A silent {i}thank you{/i}."
-    ""
+    "Puede que sea su forma de decirme 'gracias' de forma silenciosa..."
 
 # game/game_script.rpy:2534
 translate spanish game_script_1e1ad925:
 
     # "I head over to Natsuki."
-    ""
+    "Voy hacia Natsuki."
 
 # game/game_script.rpy:2536
 translate spanish game_script_59cc70d4:
 
     # "Yuri walks back to her desk and sighs, opening her book again."
-    ""
+    "Yuri vuelve a su escritorio, suspirando, mientras vuelve a abrir el libro que estaba leyendo."
 
 # game/game_script.rpy:2538
 translate spanish game_script_2b144597:
 
     # "Poor Natsuki..."
-    ""
+    "Pobre Natsuki..."
 
 # game/game_script.rpy:2539
 translate spanish game_script_e0a45c97:
 
     # "This is her first time hearing about it."
-    ""
+    "Como es la primera vez que escucha algo así...,"
 
 # game/game_script.rpy:2540
 translate spanish game_script_677b9c03:
 
     # "That and the things going on at home..."
-    ""
+    "se le mezclará con todo lo que tiene en su casa. Debe ser un desastre estar en su mente, pero,"
 
 # game/game_script.rpy:2541
 translate spanish game_script_4ac797a6:
 
     # "How is she this...{w}calm?"
-    ""
+    "¿cómo es posible que esté tranquila?"
 
 # game/game_script.rpy:2542
 translate spanish game_script_a25cedd8:
 
     # "I’d be in hysterics."
-    ""
+    "Si yo estaría tirándome de los pelos."
 
 # game/game_script.rpy:2543
 translate spanish game_script_0df35bc0:
 
     # "...Then again, I’m the one who’s been doing the most worrying this past week."
-    ""
+    "Pero es que he sido yo el que más se ha estado comiendo la cabeza la semana pasada."
 
 # game/game_script.rpy:2545
 translate spanish game_script_cab2da18:
 
     # "I think the best thing is to act normal."
-    ""
+    "Ahora mismo, lo mejor es actuar con normalidad."
 
 # game/game_script.rpy:2546
 translate spanish game_script_d30d384e:
 
     # "Yeah, {i}normal.{/i}"
-    ""
+    "Sí, con 'normalidad'..."
 
 # game/game_script.rpy:2547
 translate spanish game_script_67253e1b:
