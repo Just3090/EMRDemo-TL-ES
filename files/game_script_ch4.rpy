@@ -1328,133 +1328,133 @@ translate spanish game_script_3298379f:
 translate spanish game_script_ce1ba3e6:
 
     # mc "Nat, I don’t think a day’s gone by where I haven’t had some kind of anxious breakdown."
-    mc ""
+    mc "Nat, créeme si te digo que no ha pasado ni un solo día en el que no haya sufrido alguna crisis de ansiedad."
 
 # game/game_script.rpy:2588
 translate spanish game_script_7da51848:
 
     # mc "I’m {i}terrified{/i} where I wasn’t before."
-    mc ""
+    mc "Lo que me aterra y preocupa... es no llegar a tiempo."
 
 # game/game_script.rpy:2589
 translate spanish game_script_38358ea1:
 
     # mc "Seeing her here, though...{w}eases that a bit."
-    mc ""
+    mc "Tenerla aquí me...{w} me facilita las cosas."
 
 # game/game_script.rpy:2590
 translate spanish game_script_73ddae2c:
 
     # mc "This is like a second home for her."
-    mc ""
+    mc "El club es como su segunda casa."
 
 # game/game_script.rpy:2596
 translate spanish game_script_f1aa16ca:
 
     # "Nat closes her eyes and exhales."
-    ""
+    "Nat cierra los ojos y exhala."
 
 # game/game_script.rpy:2598
 translate spanish game_script_15b69a3e:
 
     # n "Crap..."
-    n ""
+    n "Mierda..."
 
 # game/game_script.rpy:2599
 translate spanish game_script_21dd6d0b:
 
     # n "I’m sorry, [player]."
-    n ""
+    n "Lo siento mucho, [player]."
 
 # game/game_script.rpy:2603
 translate spanish game_script_c9ec8ad4:
 
     # n "But those, uh, \"breakdowns\"..."
-    n ""
+    n "Que sepas que de esas... 'crisis' que has mencionado...,"
 
 # game/game_script.rpy:2604
 translate spanish game_script_31da5b7e:
 
     # n "You can talk to me about them, y’know."
-    n ""
+    n "puedes hablarme sin problemas, ya lo sabes."
 
 # game/game_script.rpy:2608
 translate spanish game_script_c657db58:
 
     # mc "I appreciate it, but my main worry right now is getting you out of that house."
-    mc ""
+    mc "Y lo aprecio, pero ahora mismo me preocupa que salgas de esa casa de una pieza."
 
 # game/game_script.rpy:2609
 translate spanish game_script_371a19da:
 
     # mc "We can talk about everything else later..."
-    mc ""
+    mc "Ya hablaremos de eso más tarde..."
 
 # game/game_script.rpy:2614
 translate spanish game_script_ecf15655:
 
     # "Natsuki opens her mouth, but pauses before talking."
-    ""
+    "Natsuki abre la boca y se detiene antes de hablar."
 
 # game/game_script.rpy:2615
 translate spanish game_script_06398373:
 
     # "She sighs."
-    ""
+    "Suspira."
 
 # game/game_script.rpy:2617
 translate spanish game_script_3353d124:
 
     # n "If you’re sure..."
-    n ""
+    n "Si estás tan seguro...,"
 
 # game/game_script.rpy:2618
 translate spanish game_script_bbc179a8:
 
     # n "Anyway..."
-    n ""
+    n "haz lo que veas."
 
 # game/game_script.rpy:2621
 translate spanish game_script_94a75864:
 
     # n "Page...{w}29, right?"
-    n ""
+    n "En fin, página veinti...{w} ¿nueve?"
 
 # game/game_script.rpy:2623
 translate spanish game_script_0dd5f904:
 
     # mc "I think so, yeah."
-    mc ""
+    mc "Creo que sí."
 
 # game/game_script.rpy:2625
 translate spanish game_script_5c6dbbca:
 
     # "We quickly pick up where we left off."
-    ""
+    "Con rapidez, continuamos desde donde lo dejamos."
 
 # game/game_script.rpy:2634
 translate spanish game_script_25e32c2b:
 
     # "Before we know it, a whole hour has passed."
-    ""
+    "Sin habernos percatado, ya ha pasado una hora entera."
 
 # game/game_script.rpy:2635
 translate spanish game_script_219c1c4e:
 
     # "I can’t tell if that was the shortest or longest one of my life."
-    ""
+    "No sabría decir si ha sido la más larga o la más corta."
 
 # game/game_script.rpy:2636
 translate spanish game_script_4e79388f:
 
     # "We must’ve only gotten through four or five pages..."
-    ""
+    "Apenas hemos avanzado cinco páginas..."
 
 # game/game_script.rpy:2637
 translate spanish game_script_4859d9c4:
 
     # "Neither of us could really focus."
-    ""
+    "Ninguno de los dos teníamos la capacidad de concentrarnos."
 
 # game/game_script.rpy:2638
 translate spanish game_script_4a86da75:
