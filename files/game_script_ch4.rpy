@@ -1232,97 +1232,97 @@ translate spanish game_script_d30d384e:
 translate spanish game_script_67253e1b:
 
     # "She can broach the subject if she so chooses."
-    ""
+    "Natsuki podría hablarlo conmigo si quisiese."
 
 # game/game_script.rpy:2553
 translate spanish game_script_d752c093:
 
     # "Natsuki and I quietly head to the closet and take our spots under the windowsill."
-    ""
+    "Natsuki y yo fuimos, en silencio absoluto, bajo el alféizar de la ventana para sentarnos donde siempre."
 
 # game/game_script.rpy:2554
 translate spanish game_script_30704bfb:
 
     # "She carefully plucks the volume of Parfait Girls from the collection."
-    ""
+    "Con cuidado, Natsuki saca el tomo de Parfait Girls de la caja."
 
 # game/game_script.rpy:2556
 translate spanish game_script_06e34a8f:
 
     # mc "Where were we last?"
-    mc ""
+    mc "¿Te acuerdas de dónde nos quedamos leyendo?"
 
 # game/game_script.rpy:2561
 translate spanish game_script_a51de77b_3:
 
     # n "[player]..."
-    n ""
+    n "[player]..."
 
 # game/game_script.rpy:2562
 translate spanish game_script_9064fd3e:
 
     # n "Are we seriously not gonna talk about..?"
-    n ""
+    n "¿Vas a obviar todo esto...?"
 
 # game/game_script.rpy:2567
 translate spanish game_script_febd4608:
 
     # "She looks over to Sayori, who is quietly writing into a small notebook."
-    ""
+    "Su mirada va hacia Sayori, quien se encuentra escribiendo en una libretita en silencio."
 
 # game/game_script.rpy:2568
 translate spanish game_script_bfcf0b77:
 
     # "I sigh deeply."
-    ""
+    "Profiero un largo suspiro."
 
 # game/game_script.rpy:2569
 translate spanish game_script_be5788d7:
 
     # "{i}That{/i} didn’t take long."
-    ""
+    "Pues no ha durado mucho."
 
 # game/game_script.rpy:2571
 translate spanish game_script_b441d7a6:
 
     # mc "I’m sorry that you were one of the last ones to find out."
-    mc ""
+    mc "No, no lo voy a obviar. Siento que seas una de las últimas en enterarte."
 
 # game/game_script.rpy:2572
 translate spanish game_script_17397b4a:
 
     # mc "She wanted to...{w}own it, I guess."
-    mc ""
+    mc "Imagino que Sayori quería...{w} domar al toro sin ayuda."
 
 # game/game_script.rpy:2573
 translate spanish game_script_99eb7596:
 
     # mc "Tell people herself."
-    mc ""
+    mc "Ya sabes, decirlo todo ella."
 
 # game/game_script.rpy:2576
 translate spanish game_script_6e920eb0:
 
     # n "...I can understand that."
-    n ""
+    n "Entiendo su forma de pensar..."
 
 # game/game_script.rpy:2578
 translate spanish game_script_f377b54f:
 
     # n "When all else fails, taking control is often the best thing you can do."
-    n ""
+    n "Cuando todo se va a la mierda, coger al toro por los cuernos es la mejor decisión que puedes tomar."
 
 # game/game_script.rpy:2579
 translate spanish game_script_61505717:
 
     # n "I’m glad she’s feeling better."
-    n ""
+    n "Me alegra que esté mejor."
 
 # game/game_script.rpy:2583
 translate spanish game_script_3298379f:
 
     # n "But...{w}are you not worried about her..?"
-    n ""
+    n "Aunque...{w} ¿no te preocupa?"
 
 # game/game_script.rpy:2587
 translate spanish game_script_ce1ba3e6:
