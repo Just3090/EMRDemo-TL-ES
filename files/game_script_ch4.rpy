@@ -1334,7 +1334,7 @@ translate spanish game_script_ce1ba3e6:
 translate spanish game_script_7da51848:
 
     # mc "I’m {i}terrified{/i} where I wasn’t before."
-    mc "Lo que me aterra y preocupa... es no llegar a tiempo."
+    mc "Siento una especie de 'miedo' que antes no tenía, no sentía..."
 
 # game/game_script.rpy:2589
 translate spanish game_script_38358ea1:
@@ -1370,7 +1370,7 @@ translate spanish game_script_21dd6d0b:
 translate spanish game_script_c9ec8ad4:
 
     # n "But those, uh, \"breakdowns\"..."
-    n "Que sepas que de esas... 'crisis' que has mencionado...,"
+    n "Que sepas que..., de esas... 'crisis' que has mencionado...,"
 
 # game/game_script.rpy:2604
 translate spanish game_script_31da5b7e:
@@ -1412,7 +1412,7 @@ translate spanish game_script_3353d124:
 translate spanish game_script_bbc179a8:
 
     # n "Anyway..."
-    n "haz lo que veas."
+    n "haz lo que mejor veas."
 
 # game/game_script.rpy:2621
 translate spanish game_script_94a75864:
@@ -1454,19 +1454,19 @@ translate spanish game_script_4e79388f:
 translate spanish game_script_4859d9c4:
 
     # "Neither of us could really focus."
-    "Ninguno de los dos teníamos la capacidad de concentrarnos."
+    "Nos era imposible concentrarnos."
 
 # game/game_script.rpy:2638
 translate spanish game_script_4a86da75:
 
     # "Constantly glancing back and forth at each other..."
-    ""
+    "Mirándonos el uno al otro cada dos por tres...,"
 
 # game/game_script.rpy:2639
 translate spanish game_script_7e97ab4f:
 
     # "Terrified about the night ahead."
-    ""
+    "por temor a la noche que se nos avecina."
 
 # game/game_script.rpy:2643
 translate spanish game_script_b5cdd9b2:
