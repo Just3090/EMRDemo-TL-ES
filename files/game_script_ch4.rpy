@@ -2,7 +2,7 @@
 translate spanish game_script_8993ee3b:
 
     # "I sit on my bed, trying to drown out my thoughts by scrolling aimlessly through my phone."
-    "Me siento en la cama, tratando de ahogar estos pensamientos moviéndome por los menús de mi teléfono."
+    "Me siento en la cama, tratando de ahogar mis pensamientos moviéndome por los menús de mi teléfono."
 
 # game/game_script.rpy:2111
 translate spanish game_script_daecabc3:
@@ -38,7 +38,7 @@ translate spanish game_script_350eb45a:
 translate spanish game_script_f83e5973:
 
     # "While scrolling through my phone, I come across the picture I took of Natsuki’s house."
-    "Desplazándome por los menús de mi teléfono, abro la galería y veo la foto de la casa de Natsuki."
+    "Aún en los menús, abro la galería y veo la foto de la casa de Natsuki."
 
 # game/game_script.rpy:2117
 translate spanish game_script_a20cefa7_5:
@@ -56,13 +56,13 @@ translate spanish game_script_6549366b:
 translate spanish game_script_374e800f:
 
     # "I sense a plan coming together in my head."
-    "Creo que tengo una idea..."
+    "Creo que tengo una idea...,"
 
 # game/game_script.rpy:2120
 translate spanish game_script_07520824:
 
     # "I may well have a way to get her out if..."
-    "Y creo que podría sacarla de allí si..."
+    "y creo que podría sacarla de allí si..."
 
 # game/game_script.rpy:2121
 translate spanish game_script_0ad93368:
@@ -722,7 +722,7 @@ translate spanish game_script_b17041b9:
 translate spanish game_script_fb5e2c66:
 
     # "Trying to push my fears to the back of my mind, we finally head into the clubroom."
-    "Intentando alejar mis miedos, hacemos cto de presencia en el club."
+    "Intentando alejar mis miedos, hacemos acto de presencia en el club."
 
 # game/game_script.rpy:2332
 translate spanish game_script_dd367414:
@@ -1130,7 +1130,7 @@ translate spanish game_script_0f022a9a:
 translate spanish game_script_2d873ced:
 
     # "She faces Sayori directly."
-    "Y con esto, mira directamente hacia Sayori."
+    "Y, con esto, mira directamente hacia Sayori."
 
 # game/game_script.rpy:2518
 translate spanish game_script_64c9c0b4:
@@ -1208,7 +1208,7 @@ translate spanish game_script_4ac797a6:
 translate spanish game_script_a25cedd8:
 
     # "I’d be in hysterics."
-    "Si yo estaría tirándome de los pelos."
+    "Si yo estaría tirándome de los pelos..."
 
 # game/game_script.rpy:2543
 translate spanish game_script_0df35bc0:
@@ -1238,7 +1238,7 @@ translate spanish game_script_67253e1b:
 translate spanish game_script_d752c093:
 
     # "Natsuki and I quietly head to the closet and take our spots under the windowsill."
-    "Natsuki y yo fuimos, en silencio absoluto, bajo el alféizar de la ventana para sentarnos donde siempre."
+    "Ambos fuimos, en silencio absoluto, bajo el alféizar de la ventana para sentarnos donde siempre."
 
 # game/game_script.rpy:2554
 translate spanish game_script_30704bfb:
@@ -1280,7 +1280,7 @@ translate spanish game_script_bfcf0b77:
 translate spanish game_script_be5788d7:
 
     # "{i}That{/i} didn’t take long."
-    "Pues no ha durado mucho."
+    "Pues no ha tardado mucho..."
 
 # game/game_script.rpy:2571
 translate spanish game_script_b441d7a6:
