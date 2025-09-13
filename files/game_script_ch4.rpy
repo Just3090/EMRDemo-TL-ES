@@ -1988,10 +1988,10 @@ translate spanish game_script_5eefe04f:
 translate spanish game_script_898d23d6:
 
     # "Uh...{w}{i}what{/i}?"
-    ""
+    "Que..., ¡¿qué?!"
 
 # game/game_script.rpy:2799
 translate spanish game_script_6bab7925:
 
     # "I play dumb."
-    ""
+    "Me hago el tonto."
