@@ -1478,133 +1478,133 @@ translate spanish game_script_b5cdd9b2:
 translate spanish game_script_9f30234c:
 
     # "Looking around, I see Sayori and Monika are talking closely with one another."
-    ""
+    "Echando un vistazo por el club, veo a Sayori y Monika hablar muy de cerca."
 
 # game/game_script.rpy:2646
 translate spanish game_script_d0d2c064:
 
     # "Silently, I gather up my things, and get ready to leave."
-    ""
+    "Completamente en silencio, recojo mis cosas y me preparo para irme."
 
 # game/game_script.rpy:2647
 translate spanish game_script_029de26b:
 
     # "Approaching Natsuki, I see she’s trying to stuff her Parfait Girls collection in her bag."
-    ""
+    "Acercándome a Natsuki, parece que intenta meter toda su colección de Parfait Girls en su bolsa."
 
 # game/game_script.rpy:2650
 translate spanish game_script_036f9b71:
 
     # mc "Hey, I’m sorry we didn’t really get to read much today..."
-    mc ""
+    mc "Oye, siento no haber podido avanzar mucho hoy..."
 
 # game/game_script.rpy:2652
 translate spanish game_script_411be913:
 
     # n "It’s okay, [player]."
-    n ""
+    n "Tranquilo, [player]."
 
 # game/game_script.rpy:2654
 translate spanish game_script_87d9dd37:
 
     # mc "Do you want me to walk you home?"
-    mc ""
+    mc "¿Quieres que te acompañe a casa?"
 
 # game/game_script.rpy:2656
 translate spanish game_script_198a959e:
 
     # n "I can’t..."
-    n ""
+    n "No puedo dejarte hacer eso..."
 
 # game/game_script.rpy:2658
 translate spanish game_script_ab1c4210:
 
     # n "In fact, I wasn’t even supposed to be here today..."
-    n ""
+    n "Para ser más exacta, ni siquiera debería haber venido al club hoy..."
 
 # game/game_script.rpy:2660
 translate spanish game_script_c32452f3:
 
     # n "But I needed to s-"
-    n ""
+    n "Pero necesitaba..."
 
 # game/game_script.rpy:2662
 translate spanish game_script_3f18a4eb:
 
     # n "I needed to..."
-    n ""
+    n "Necesitaba..."
 
 # game/game_script.rpy:2664
 translate spanish game_script_98aaaab2:
 
     # n "{i}Nnn...{/i}"
-    n ""
+    n "Aish..."
 
 # game/game_script.rpy:2666
 translate spanish game_script_3f18a4eb_1:
 
     # n "I needed to..."
-    n ""
+    n "Necesitaba..."
 
 # game/game_script.rpy:2668
 translate spanish game_script_13b512b3:
 
     # n "...leave a few minutes ago."
-    n ""
+    n "irme hace unos minutos."
 
 # game/game_script.rpy:2670
 translate spanish game_script_996d6e17:
 
     # n "You’ll be...{w}over later?"
-    n ""
+    n "¿Vendrás...{w} después?"
 
 # game/game_script.rpy:2672
 translate spanish game_script_3fe582e5:
 
     # mc "Yeah. Get your things ready."
-    mc ""
+    mc "Sí. Prepara tus cosas para cuándo esté allí."
 
 # game/game_script.rpy:2673
 translate spanish game_script_9a1b9369:
 
     # mc "I’ll give you a call."
-    mc ""
+    mc "Te llamaré."
 
 # game/game_script.rpy:2675
 translate spanish game_script_aa8c9433:
 
     # n "Alright."
-    n ""
+    n "Genial."
 
 # game/game_script.rpy:2678
 translate spanish game_script_0145b51b:
 
     # "She balks for a second, then hugs me."
-    ""
+    "Se resiste por un momento y me abraza."
 
 # game/game_script.rpy:2680
 translate spanish game_script_47c507ac:
 
     # mc "You’ll be okay."
-    mc ""
+    mc "Todo irá bien y estarás bien."
 
 # game/game_script.rpy:2682
 translate spanish game_script_40276d1a:
 
     # n "I’ll be waiting for you."
-    n ""
+    n "Estaré esperándote, ¿vale?"
 
 # game/game_script.rpy:2685
 translate spanish game_script_33c94c99:
 
     # "She lets go, and I watch her bolt out the door in a half-sprint."
-    ""
+    "Se aleja y la veo salir corriendo a toda velocidad hacia la puerta."
 
 # game/game_script.rpy:2686
 translate spanish game_script_0adf4c2a:
 
     # "I notice Sayori giving a quick goodbye to Monika, before following through the door."
-    ""
+    "Me percato de Sayori, que se despide de Monika rápidamente, antes de echar un vistazo a la puerta."
 
 # game/game_script.rpy:2690
 translate spanish game_script_5596d704:
