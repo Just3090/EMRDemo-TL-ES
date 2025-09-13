@@ -1610,145 +1610,145 @@ translate spanish game_script_0adf4c2a:
 translate spanish game_script_5596d704:
 
     # "A sinking feeling squeezes my lungs."
-    ""
+    "Siento que mis pulmones se están hundiendo en algo."
 
 # game/game_script.rpy:2691
 translate spanish game_script_36707738:
 
     # "I stave it off with a mental mantra."
-    ""
+    "Lo evito pensando en algo tranquilo."
 
 # game/game_script.rpy:2692
 translate spanish game_script_806657e6:
 
     # "Everything will be okay. It’ll be okay soon."
-    ""
+    "Todo va sobre ruedas, todo va a mejorar pronto."
 
 # game/game_script.rpy:2693
 translate spanish game_script_806657e6_1:
 
     # "Everything will be okay. It’ll be okay soon."
-    ""
+    "Todo va sobre ruedas, todo va a mejorar pronto."
 
 # game/game_script.rpy:2694
 translate spanish game_script_97abb99a:
 
     # "Every--{w=0.2}{nw}"
-    ""
+    "Tod{w=0.2}{nw}"
 
 # game/game_script.rpy:2701
 translate spanish game_script_321b2681:
 
     # y "[player]?"
-    y ""
+    y "¿[player]?"
 
 # game/game_script.rpy:2703
 translate spanish game_script_01196e39:
 
     # mc "A-Ah!"
-    mc ""
+    mc "¡A-Ay!"
 
 # game/game_script.rpy:2705
 translate spanish game_script_25f8c40f:
 
     # "Yuri’s sudden presence was unexpected."
-    ""
+    "No me esperaba la repentina presencia de Yuri."
 
 # game/game_script.rpy:2706
 translate spanish game_script_ec52b878:
 
     # "I guess I got lost in my own mind there."
-    ""
+    "Supongo que es porque estaba en Babia."
 
 # game/game_script.rpy:2708
 translate spanish game_script_34c1325e:
 
     # y lup rup e2a ml "S-Sorry!"
-    y lup rup e2a ml ""
+    y lup rup e2a ml "¡P-Perdona!"
 
 # game/game_script.rpy:2710
 translate spanish game_script_70638cde:
 
     # y "I-I didn’t mean to scare you!"
-    y ""
+    y "¡N-No pretendía a-asustarte!"
 
 # game/game_script.rpy:2712
 translate spanish game_script_e8fc0be5:
 
     # mc "Ah, uh..."
-    mc ""
+    mc "Ay, eh..."
 
 # game/game_script.rpy:2713
 translate spanish game_script_4abaadab:
 
     # mc "No, it was my fault."
-    mc ""
+    mc "No, tranquila. Ha sido culpa mía."
 
 # game/game_script.rpy:2714
 translate spanish game_script_4553c6f6:
 
     # mc "I was just trying to, um..."
-    mc ""
+    mc "Es que estaba..., eh..."
 
 # game/game_script.rpy:2716
 translate spanish game_script_d698471b:
 
     # y turned e1b b1b rup mh "Calm down?"
-    y turned e1b b1b rup mh ""
+    y turned e1b b1b rup mh "¿Relajado?"
 
 # game/game_script.rpy:2718
 translate spanish game_script_2e7ea505:
 
     # mc "I...{w}yeah."
-    mc ""
+    mc "Eh...,{w} ¡sí, eso! Relajado."
 
 # game/game_script.rpy:2719
 translate spanish game_script_374b1eb2:
 
     # mc "How did..?"
-    mc ""
+    mc "Espera, cómo has..."
 
 # game/game_script.rpy:2720
 translate spanish game_script_b8c3a2d1:
 
     # mc "You know what, nevermind."
-    mc ""
+    mc "¿Sabes qué? Mejor, déjalo."
 
 # game/game_script.rpy:2721
 translate spanish game_script_2e69a2a4:
 
     # mc "What’s up?"
-    mc ""
+    mc "¿Cómo estás?"
 
 # game/game_script.rpy:2723
 translate spanish game_script_dfcd9992:
 
     # y rdown mb "Well...I was just wondering if..."
-    y rdown mb ""
+    y rdown mb "Pues..., me preguntaba si...,"
 
 # game/game_script.rpy:2724
 translate spanish game_script_53a50e2f:
 
     # y shy e1 b1 m4 "If you would...{w}l-like to walk together?"
-    y shy e1 b1 m4 ""
+    y shy e1 b1 m4 "si te importaría...{w} i-ir a casa andando juntos."
 
 # game/game_script.rpy:2726
 translate spanish game_script_ade3dc87:
 
     # mc "Home?"
-    mc ""
+    mc "¿A casa?"
 
 # game/game_script.rpy:2728
 translate spanish game_script_94004a03:
 
     # "Oh."
-    ""
+    "Vaya."
 
 # game/game_script.rpy:2729
 translate spanish game_script_5af16da4:
 
     # "That’s certainly not like Yuri to just approach me like that."
-    ""
+    "A decir verdad, no es típico de Yuri acercarse a mí para decirme estas cosas..."
 
 # game/game_script.rpy:2731
 translate spanish game_script_c1a82151:
