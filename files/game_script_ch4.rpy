@@ -1772,217 +1772,217 @@ translate spanish game_script_0dc2db65:
 translate spanish game_script_e872b14c:
 
     # "Especially since I don’t really want to walk home alone."
-    ""
+    "Además, no me quiero ir solo a casa."
 
 # game/game_script.rpy:2736
 translate spanish game_script_b7ce8b36:
 
     # "Not right now."
-    ""
+    "Al menos, no ahora mismo."
 
 # game/game_script.rpy:2738
 translate spanish game_script_fd96d044:
 
     # mc "Sure, Yuri. That’d be nice, actually."
-    mc ""
+    mc "Sí, claro. No estaría mal, ¿sabes?"
 
 # game/game_script.rpy:2740
 translate spanish game_script_9c1b67f5:
 
     # "Yuri gives the tiniest of smiles, still avoiding direct eye contact."
-    ""
+    "Yuri esboza una leve sonrisa al mismo tiempo que trata de evitar mirarme directamente."
 
 # game/game_script.rpy:2742
 translate spanish game_script_454eabe6:
 
     # y rup e1a mb "Oh...{w}great! Let me pick up my things..."
-    y rup e1a mb ""
+    y rup e1a mb "Pues...,{w} ¡genial! Voy a recoger mis cosas y nos vamos..."
 
 # game/game_script.rpy:2744
 translate spanish game_script_67ce7fbc:
 
     # "She picks up her black bag and heads towards the door."
-    ""
+    "Tras recoger todo, se cuelga su bolso negro y va directamente hacia la puerta."
 
 # game/game_script.rpy:2745
 translate spanish game_script_c04f8aa3:
 
     # "I wave to Monika, who seems to be staring at her desk."
-    ""
+    "Me despido de Monika, la cual parece mirar fíjamente a su escritorio."
 
 # game/game_script.rpy:2746
 translate spanish game_script_eec13dbc:
 
     # "She doesn’t acknowledge us."
-    ""
+    "No se ha percatado de nuestra presencia."
 
 # game/game_script.rpy:2750
 translate spanish game_script_bd0a06fc:
 
     # "We head towards the school doors."
-    ""
+    "Nos dirigimos a la puerta de entrada del instituto."
 
 # game/game_script.rpy:2752
 translate spanish game_script_cb70afb1_1:
 
     # mc "So..."
-    mc ""
+    mc "Entonces...,"
 
 # game/game_script.rpy:2753
 translate spanish game_script_b3ae8984:
 
     # mc "Uhm..."
-    mc ""
+    mc "eh..."
 
 # game/game_script.rpy:2755
 translate spanish game_script_4d58b617:
 
     # "I’ve got nothing."
-    ""
+    "¿Qué iba a decir?"
 
 # game/game_script.rpy:2757
 translate spanish game_script_40c90505:
 
     # mc "Sorry, I don’t really know {i}what{/i} to talk about."
-    mc ""
+    mc "Perdona, es que no tengo ni idea de qué hablar."
 
 # game/game_script.rpy:2758
 translate spanish game_script_e042b5a2:
 
     # mc "You’ve always seemed like such a mysterious person."
-    mc ""
+    mc "Es que pareces una persona muy misteriosa."
 
 # game/game_script.rpy:2760
 translate spanish game_script_5110ea2f:
 
     # mc "In fact, I don’t really know what you like beyond horror novels and tea and...unique scents."
-    mc ""
+    mc "De hecho, aparte del té, novelas de terror y aceites esenciales de olor único... no sé qué te gusta."
 
 # game/game_script.rpy:2762
 translate spanish game_script_1be1c301:
 
     # mc "I suppose that’s my fault for not reaching out to you."
-    mc ""
+    mc "Supongo que es culpa mía por no tratar de averiguarlo."
 
 # game/game_script.rpy:2764
 translate spanish game_script_8a28e21a:
 
     # y me "It’s...{w}not your fault."
-    y me ""
+    y me "No es...{w} culpa tuya."
 
 # game/game_script.rpy:2765
 translate spanish game_script_79b14a12:
 
     # y b1a e4a n1 "I keep my personality fairly sequestered..."
-    y b1a e4a n1 ""
+    y b1a e4a n1 "Mantengo mi personalidad muy reprimida..."
 
 # game/game_script.rpy:2766
 translate spanish game_script_64bb864e:
 
     # y rup e1b b1b mg "Even my friends, like..."
-    y rup e1b b1b mg ""
+    y rup e1b b1b mg "Y no es solamente contigo. Pasa también con mis amigos, como...,"
 
 # game/game_script.rpy:2767
 translate spanish game_script_61212391:
 
     # y "Like Sayori, for example..."
-    y ""
+    y "como Sayori, por ejemplo..."
 
 # game/game_script.rpy:2768
 translate spanish game_script_62aaf7b9:
 
     # y e1d lup "They don’t know much about me, and that's quite deliberate."
-    y e1d lup ""
+    y e1d lup "No saben mucho de mí, lo que es bastante deliberado."
 
 # game/game_script.rpy:2769
 translate spanish game_script_7a56bd53:
 
     # y e4a b1a "I...{w}just feel much safer hiding away from people."
-    y e4a b1a ""
+    y e4a b1a "Es que me siento...{w} más segura escondiéndome de la gente."
 
 # game/game_script.rpy:2771
 translate spanish game_script_9d93c904:
 
     # "I chuckle at the irony of what she’s saying."
-    ""
+    "Me río de lo irónico de sus palabras."
 
 # game/game_script.rpy:2773
 translate spanish game_script_990b2616:
 
     # mc "And yet here you are talking about it."
-    mc ""
+    mc "Pues aquí estás, contándolo como si nada."
 
 # game/game_script.rpy:2775
 translate spanish game_script_2586e257:
 
     # y e2a b1c mh "Eh?!"
-    y e2a b1c mh ""
+    y e2a b1c mh "¡¿Eh?!"
 
 # game/game_script.rpy:2776
 translate spanish game_script_f3a01788:
 
     # y e1b n2 mb "Oh, well..."
-    y e1b n2 mb ""
+    y e1b n2 mb "Ah, es que..."
 
 # game/game_script.rpy:2777
 translate spanish game_script_148f301f:
 
     # y mk "Uuu..."
-    y mk ""
+    y mk "Uuuh..."
 
 # game/game_script.rpy:2778
 translate spanish game_script_95f56ecc:
 
     # y 2f "Y-you’re different. Both a stranger...{w}but an..."
-    y 2f ""
+    y 2f "E-Eres diferente. Sigues siendo un extraño, pero a la vez un...,"
 
 # game/game_script.rpy:2779
 translate spanish game_script_15f103e7:
 
     # y turned b1b e1b mb "A-Acquaintance."
-    y turned b1b e1b mb ""
+    y turned b1b e1b mb "un c-conocido."
 
 # game/game_script.rpy:2781
 translate spanish game_script_1b08bd9d:
 
     # y "I just feel quite...{w}comfortable around you."
-    y ""
+    y "Es como que me siento muy...,{w} cómoda cerca de ti."
 
 # game/game_script.rpy:2782
 translate spanish game_script_94e36cc2:
 
     # y rup e4a ma "It's nice being able to let my guard down when we're together."
-    y rup e4a ma ""
+    y rup e4a ma "Me gusta bajar la guardia cuando estamos juntos."
 
 # game/game_script.rpy:2784
 translate spanish game_script_3b147734:
 
     # "Her face then burns bright red, her mouth trying to spit something out but not quite managing to do so."
-    ""
+    "Su cara cambia a un color rojo chillón mientras que su boca trata de soltar algo pero lucha para no hacerlo."
 
 # game/game_script.rpy:2789
 translate spanish game_script_5dc0d783:
 
     # "She exhales deeply."
-    ""
+    "Exhala."
 
 # game/game_script.rpy:2791
 translate spanish game_script_773fb2da:
 
     # y turned b1b e1b mk "I’m...{w}sorry, I must sound crazy."
-    y turned b1b e1b mk ""
+    y turned b1b e1b mk "Lo siento,{w} debo de parecer loca."
 
 # game/game_script.rpy:2794
 translate spanish game_script_87dde60d:
 
     # "Her voice then begins to take on a more defeated tone."
-    ""
+    "Su voz pasa a un tono más abatido."
 
 # game/game_script.rpy:2796
 translate spanish game_script_5eefe04f:
 
     # y e1a n3 mb "But I think that’s why she likes you."
-    y e1a n3 mb ""
+    y e1a n3 mb "Creo que es por eso por lo que le gustas."
 
 # game/game_script.rpy:2798
 translate spanish game_script_898d23d6:
