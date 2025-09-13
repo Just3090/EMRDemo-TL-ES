@@ -1472,7 +1472,7 @@ translate spanish game_script_7e97ab4f:
 translate spanish game_script_b5cdd9b2:
 
     # "But I shake the feeling off, as Natsuki swipes the manga out of my hands, and replaces it in its box."
-    ""
+    "Pero vuelvo a la realidad cuando Natauki me arrebata el tomo de las manos y lo deja en la colección de nuevo."
 
 # game/game_script.rpy:2644
 translate spanish game_script_9f30234c:
