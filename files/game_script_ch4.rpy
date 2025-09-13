@@ -1754,19 +1754,19 @@ translate spanish game_script_5af16da4:
 translate spanish game_script_c1a82151:
 
     # y turned flus mh oe "I just noticed how Sayori and you walk home a lot, a-and was wondering if you’d want to since..."
-    y turned flus mh oe ""
+    y turned flus mh oe "Me di cuenta de que te ibas mucho a casa con Sayori, y m-me preguntaba si querías porque...,"
 
 # game/game_script.rpy:2732
 translate spanish game_script_8941bb7d:
 
     # y e1c me "Y-You know..."
-    y e1c me ""
+    y e1c me "y-ya sabes..."
 
 # game/game_script.rpy:2734
 translate spanish game_script_0dc2db65:
 
     # "Regardless, I appreciate the sentiment from Yuri, even if it is very...{w}{i}unlike{/i} her to ask such a thing."
-    ""
+    "A pesar de todo, aprecio enormemente la intención de Yuri, aunque no sea muy 'de ella' preguntar tal cosa."
 
 # game/game_script.rpy:2735
 translate spanish game_script_e872b14c:
