@@ -2,169 +2,169 @@
 translate spanish game_script_6f4a10cf:
 
     # mc "Wait, {i}who{/i} likes me?"
-    mc ""
+    mc "¿Cómo? ¿A quién dices que le gusto?"
 
 # game/game_script.rpy:2803
 translate spanish game_script_7e19fd45:
 
     # y b1a mh e4a rup n1 "[player], I know. I’ve watched you two."
-    y b1a mh e4a rup n1 ""
+    y b1a mh e4a rup n1 "Lo sé ya, [player]. Os he visto a los dos."
 
 # game/game_script.rpy:2805
 translate spanish game_script_afb407ab:
 
     # y "I heard a part of your discussion in the hallway on Tuesday."
-    y ""
+    y "Escuché algo de lo que hablábais el martes en los pasillos."
 
 # game/game_script.rpy:2807
 translate spanish game_script_c630c879:
 
     # y "But...I-I didn't mean to eavesdrop!"
-    y ""
+    y "¡N-No pretendía cotillear!"
 
 # game/game_script.rpy:2809
 translate spanish game_script_169af7cf:
 
     # "I sigh, laughing a bit while doing so."
-    ""
+    "Suspiro mientras me río."
 
 # game/game_script.rpy:2810
 translate spanish game_script_7847eb3d:
 
     # "Is it {i}that{/i} obvious?"
-    ""
+    "¿Era taaan obvio?"
 
 # game/game_script.rpy:2812
 translate spanish game_script_50f4c175:
 
     # mc "...Don’t hide it well, do we?"
-    mc ""
+    mc "Vaya, que no lo escondemos muy bien, ¿no?"
 
 # game/game_script.rpy:2814
 translate spanish game_script_4a6d2a62:
 
     # "Yuri then giggles as well."
-    ""
+    "Yuri empieza a reírse."
 
 # game/game_script.rpy:2816
 translate spanish game_script_83673209:
 
     # y rdown ldown e1a mb "The opposite of discretion."
-    y rdown ldown e1a mb ""
+    y rdown ldown e1a mb "Sois lo contrario a la discreción."
 
 # game/game_script.rpy:2818
 translate spanish game_script_44fa84c0:
 
     # mc "Heh."
-    mc ""
+    mc "Ja."
 
 # game/game_script.rpy:2819
 translate spanish game_script_0384b9b1:
 
     # y b1b e1b "I think that’s...{w}nice."
-    y b1b e1b ""
+    y b1b e1b "Creo que está...{w} genial."
 
 # game/game_script.rpy:2822
 translate spanish game_script_207122fb:
 
     # "I can’t help but notice a tinge of remorse in her words."
-    ""
+    "No puedo evitar notar un poco de remordimiento en sus palabras."
 
 # game/game_script.rpy:2823
 translate spanish game_script_f5def88f:
 
     # "Am I making her uncomfortable or something..?"
-    ""
+    "¿Es que estoy incomodándola...?"
 
 # game/game_script.rpy:2825
 translate spanish game_script_57592c9d:
 
     # y turned b1b e1b mg "Well, um..."
-    y turned b1b e1b mg ""
+    y turned b1b e1b mg "Bueno, es que...,"
 
 # game/game_script.rpy:2826
 translate spanish game_script_be033d17:
 
     # y e1a "Just know that if you two ever do...{w}get together..."
-    y e1a ""
+    y e1a "si algún día sales...,{w} sales con ella...,"
 
 # game/game_script.rpy:2828
 translate spanish game_script_2efb2264:
 
     # y lup rup e4a "I’ll be...{w}h-happy for you."
-    y lup rup e4a ""
+    y lup rup e4a "seré muy feliz por...{w} por ti."
 
 # game/game_script.rpy:2829
 translate spanish game_script_9ec5ddab:
 
     # y "Because, you’re..."
-    y ""
+    y "Porque eres..."
 
 # game/game_script.rpy:2830
 translate spanish game_script_8b85768f:
 
     # y mb e1a "You’re a kind person, [player]."
-    y mb e1a ""
+    y mb e1a "Eres una persona muy bondadosa, [player]."
 
 # game/game_script.rpy:2831
 translate spanish game_script_9a66390d:
 
     # y e1b "One of the nicest people I’ve met."
-    y e1b ""
+    y e1b "Una de las personas más bondadosas que he conocido."
 
 # game/game_script.rpy:2832
 translate spanish game_script_97d9b5ff:
 
     # y mk n4 "And...{w}I-I really..."
-    y mk n4 ""
+    y mk n4 "Y no me...,"
 
 # game/game_script.rpy:2834
 translate spanish game_script_3e1e8c8f:
 
     # "Her face starts to glow red yet again."
-    ""
+    "Su cara vuelve a brillar con un tono rojizo."
 
 # game/game_script.rpy:2835
 translate spanish game_script_a73999a0:
 
     # "It appears that she’s shut down entirely."
-    ""
+    "Parece como si se hubiese desconectado su fuente de alimentación interna."
 
 # game/game_script.rpy:2836
 translate spanish game_script_09344f33:
 
     # "I...{w}didn’t expect that to happen."
-    ""
+    "esperaba que pasase esto."
 
 # game/game_script.rpy:2837
 translate spanish game_script_01cd6be1:
 
     # "Although it’s nice of her to say that about me, I can’t help but think she’s made the whole conversation far more awkward as a result."
-    ""
+    "Aunque todo esto lo ha hecho con buenas intenciones, no puedo ignorar que Yuri ha hecho más incómoda la conversación."
 
 # game/game_script.rpy:2838
 translate spanish game_script_15e3e252:
 
     # mc "Hey, Yuri?"
-    mc ""
+    mc "Oye, Yuri."
 
 # game/game_script.rpy:2840
 translate spanish game_script_87678e6b:
 
     # y turned b1b lup rup e2a ml "A-AH!"
-    y turned b1b lup rup e2a ml ""
+    y turned b1b lup rup e2a ml "¡¡A-AY!!"
 
 # game/game_script.rpy:2842
 translate spanish game_script_0f999c17:
 
     # y e1c mk rdown ldown "S-Sorry!"
-    y e1c mk rdown ldown ""
+    y e1c mk rdown ldown "¡P-Perdona!"
 
 # game/game_script.rpy:2844
 translate spanish game_script_a8f8fd51:
 
     # mc "Hey, it’s alright."
-    mc ""
+    mc "Eh, no pasa nada. Tranquila."
 
 # game/game_script.rpy:2845
 translate spanish game_script_73d05893:
