@@ -718,7 +718,7 @@ translate spanish game_script_b064db71:
 translate spanish game_script_64c3c9bf:
 
     # "But she does need her privacy."
-    "Pero necesita su privcidad."
+    "Pero necesita su privacidad."
 
 # game/game_script.rpy:231
 translate spanish game_script_cf84f0ed:
