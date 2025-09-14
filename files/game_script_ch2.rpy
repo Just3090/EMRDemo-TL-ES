@@ -1736,7 +1736,7 @@ translate spanish game_script_36fc4a9d:
 translate spanish game_script_1557d4e9:
 
     # "As I come up to the final bend, I hear Monika conversing with someone."
-    "A medida que subo las escaleras, escucho a Monika haablar con alguien."
+    "A medida que subo las escaleras, escucho a Monika hablar con alguien."
 
 # game/game_script.rpy:1177
 translate spanish game_script_2a27aa9a:

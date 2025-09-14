@@ -548,7 +548,7 @@ translate spanish game_script_aa35c690:
 translate spanish game_script_bd32268f:
 
     # n "He has for as long as I can remember."
-    n "Y lo ha hecho desde que tengo consciencia propia."
+    n "Y lo ha hecho desde que tengo conciencia propia."
 
 # game/game_script.rpy:1483
 translate spanish game_script_0ab8ee76:
