@@ -1562,7 +1562,7 @@ translate spanish game_script_996d6e17:
 translate spanish game_script_3fe582e5:
 
     # mc "Yeah. Get your things ready."
-    mc "Sí. Prepara tus cosas para cuándo esté allí."
+    mc "Sí. Prepara tus cosas para cuando esté allí."
 
 # game/game_script.rpy:2673
 translate spanish game_script_9a1b9369:
