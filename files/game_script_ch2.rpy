@@ -500,7 +500,7 @@ translate spanish game_script_8994a7f3:
 translate spanish game_script_d5057a04:
 
     # mc "Something...{w}happened with Sayori."
-    mc "Halgo ha...{w} pasado con Sayori."
+    mc "Ha pasado algo...{w} con Sayori."
 
 # game/game_script.rpy:766
 translate spanish game_script_af0be58c:
