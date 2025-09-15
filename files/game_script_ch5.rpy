@@ -170,97 +170,97 @@ translate spanish game_script_a8f8fd51:
 translate spanish game_script_73d05893:
 
     # mc "...You okay?"
-    mc ""
+    mc "Y..., ¿todo bien?"
 
 # game/game_script.rpy:2847
 translate spanish game_script_963f966e:
 
     # y rup b1a e4a "U-Uh...{w}yeah."
-    y rup b1a e4a ""
+    y rup b1a e4a "P-Pues...{w} sí."
 
 # game/game_script.rpy:2848
 translate spanish game_script_c2bdf8f0:
 
     # y rdown e1b mh "A-As I was saying..."
-    y rdown e1b mh ""
+    y rdown e1b mh "C-Como te decía..."
 
 # game/game_script.rpy:2849
 translate spanish game_script_0d2bed8f:
 
     # y rup lup e1a b1b mb "...I know that you’ll be able to provide Natsuki with the security and comfort that she needs and deserves."
-    y rup lup e1a b1b mb ""
+    y rup lup e1a b1b mb "Sé que s-serás capaz de darle a Natsuki esa tranquilidad y seguridad que necesita y merece..."
 
 # game/game_script.rpy:2850
 translate spanish game_script_3f038898:
 
     # y "She's a good friend...even if we fight."
-    y ""
+    y "Pese a nuestros conflictos..., es una muy buena amiga."
 
 # game/game_script.rpy:2852
 translate spanish game_script_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ya..."
 
 # game/game_script.rpy:2854
 translate spanish game_script_6bf5d839:
 
     # "I hope I will..."
-    ""
+    "Espero, Yuri. Espero que sea como dices..."
 
 # game/game_script.rpy:2861
 translate spanish game_script_0d7b462f:
 
     # "Neither of us muster up any words for quite a while."
-    ""
+    "Tras esas últimas palabras, estuvimos un rato sin hablar."
 
 # game/game_script.rpy:2863
 translate spanish game_script_485d5afd:
 
     # "Having Yuri around is nice, but she often drifts off into some sort of daydream. If I even attempt to get her attention, I just frighten her."
-    ""
+    "Tener a Yuri al lado es de lo mejorcito, pero se emboba muy rápido. Si trato de llamar su atención, lo único que consigo es asustarla."
 
 # game/game_script.rpy:2864
 translate spanish game_script_8ffb0d43:
 
     # "I would much rather be able to calmly talk to her instead."
-    ""
+    "Me gustaría poder hablar tranquilamente con ella."
 
 # game/game_script.rpy:2865
 translate spanish game_script_9f7c5cc9:
 
     # "Even then, I think she finds it easier to talk to me than almost anyone else."
-    ""
+    "Aunque parece que le es más sencillo hablar conmigo que con cualquier otra persona."
 
 # game/game_script.rpy:2866
 translate spanish game_script_4fef9d30:
 
     # "Although, I think it’s safe to say that Yuri has definitely taken a liking to me, although I have no idea as to what extent that would be."
-    ""
+    "Estoy casi seguro de que Yuri me ha cogido cariño, pero no sé hasta qué punto puede llegar."
 
 # game/game_script.rpy:2867
 translate spanish game_script_fa6ae2b1:
 
     # "But I would much rather focus on other things first."
-    ""
+    "Prefiero centrarme en otras cosas, la verdad."
 
 # game/game_script.rpy:2868
 translate spanish game_script_82c70c5d:
 
     # "Like helping Natsuki escape her house without getting caught..."
-    ""
+    "Ayudar a Natsuki con los planes de escapada sin ser descubiertos, por ejemplo."
 
 # game/game_script.rpy:2869
 translate spanish game_script_fe279749:
 
     # "Hold on, that gives me an idea."
-    ""
+    "Un momento, se me acaba de ocurrir una cosa..."
 
 # game/game_script.rpy:2870
 translate spanish game_script_d8562a0b:
 
     # "I wait until we stop at a crosswalk and then try to get her attention."
-    ""
+    "Nos detenemos en un paso de peatones y trato de llamar la atención de Yuri."
 
 # game/game_script.rpy:2872
 translate spanish game_script_b92a323e:
