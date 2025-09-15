@@ -4,179 +4,180 @@ translate spanish strings:
 
     # game/screens.rpy:380
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:381
     old "Skip"
-    new ""
+    new "Omitir"
 
     # game/screens.rpy:382
     old "Save"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:383
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:385
     old "Hide UI"
-    new ""
+    new "Ocultar"
 
     # game/screens.rpy:388
     old "Settings"
-    new ""
+    new "Opciones"
 
     # game/screens.rpy:389
     old "Main Menu"
-    new ""
+    new "Menú Principal"
 
     # game/screens.rpy:390
     old "Exit"
-    new ""
+    new "Salir del Juego"
 
     # game/screens.rpy:441
     old "New Game"
-    new ""
+    new "Nueva Partida"
 
     # game/screens.rpy:446
     old "Save Game"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:448
     old "Load Game"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:452
     old "End Replay"
-    new ""
+    new "Finalizar repetición"
 
     # game/screens.rpy:465
     old "Quit"
-    new ""
+    new "Salir"
 
     # game/screens.rpy:630
     old "Return"
-    new ""
+    new "Volver"
 
     # game/screens.rpy:710
     old "About"
-    new ""
+    new "Acerca de"
 
     # game/screens.rpy:717
     old "Version [config.version!t]\n"
-    new ""
+    new "Versión [config.version!t]\n"
 
     # game/screens.rpy:723
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:817
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:817
     old "empty slot"
-    new ""
+    new "Espacio vacío"
 
     # game/screens.rpy:914
     old "Display"
-    new ""
+    new "Pantalla"
 
     # game/screens.rpy:915
     old "Window"
-    new ""
+    new "Ventana"
 
     # game/screens.rpy:916
     old "Fullscreen"
-    new ""
+    new "Pantalla completa"
 
     # game/screens.rpy:920
     old "Rollback Side"
-    new ""
+    new "Retroceder"
 
     # game/screens.rpy:921
     old "Disable"
-    new ""
+    new "Desactivar"
 
     # game/screens.rpy:922
     old "Left"
-    new ""
+    new "Izquierda"
 
     # game/screens.rpy:923
     old "Right"
-    new ""
+    new "Derecha"
 
     # game/screens.rpy:928
     old "Unseen Text"
-    new ""
+    new "Omitir texto no leído"
 
     # game/screens.rpy:929
     old "After Choices"
-    new ""
+    new "Omitir después de decisiones"
 
     # game/screens.rpy:943
     old "Text Speed"
-    new ""
+    new "Velocidad del texto"
 
     # game/screens.rpy:948
     old "Auto-Forward Time"
-    new ""
+    new "Saltos de tiempo automáticos"
 
     # game/screens.rpy:955
     old "Music Volume"
-    new ""
+    new "Volumen de música"
 
     # game/screens.rpy:962
     old "Sound Volume"
-    new ""
+    new "Volumen de sonido"
 
     # game/screens.rpy:968
     old "Test"
-    new ""
+    new "Test"
 
     # game/screens.rpy:972
     old "Voice Volume"
-    new ""
+    new "Voice Volume" # esto no se usa
 
     # game/screens.rpy:983
     old "Mute All"
-    new ""
+    new "Silenciar todo"
 
     # game/screens.rpy:994
     old "Language"
-    new ""
+    new "Idioma"
 
     # game/screens.rpy:1112
     old "The dialogue history is empty."
-    new ""
+    new "La historia está vacía."
 
     # game/screens.rpy:1444
     old "OK"
-    new ""
+    new "Vale"
 
     # game/screens.rpy:1447
     old "Cancel"
-    new ""
+    new "Cancelar"
 
     # game/screens.rpy:1515
     old "Yes"
-    new ""
+    new "Sí"
 
     # game/screens.rpy:1516
     old "No"
-    new ""
+    new "No"
 
     # game/screens.rpy:1569
     old "Skipping"
-    new ""
+    new "Omitiendo"
 
 # TODO: Translation updated at 2025-07-13 18:03
 
 translate spanish strings:
 
     # game/screens.rpy:441
+    ### conservar los espacios
     old "Please enter your name"
-    new ""
+    new "¿Cómo te llamas?          "
 
 # TODO: Translation updated at 2025-07-15 18:33
 
@@ -184,5 +185,5 @@ translate spanish strings:
 
     # game/screens.rpy:473
     old "Credits"
-    new ""
+    new "Créditos"
 
