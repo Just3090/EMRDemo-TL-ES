@@ -266,37 +266,37 @@ translate spanish game_script_d8562a0b:
 translate spanish game_script_b92a323e:
 
     # mc "Hey, Yuri..?"
-    mc ""
+    mc "Oye..."
 
 # game/game_script.rpy:2874
 translate spanish game_script_71aa0700:
 
     # "Her face once again lifts up and brings her back to reality."
-    ""
+    "Levanta la cabeza y vuelve a la realidad de un chasquido."
 
 # game/game_script.rpy:2875
 translate spanish game_script_31e08b64:
 
     # "Though instead of startling her, she seems unphased."
-    ""
+    "Aunque parece que, en lugar de asustada, ahora parece impasible."
 
 # game/game_script.rpy:2877
 translate spanish game_script_384f8d27:
 
     # y "Hm?"
-    y ""
+    y "¿Mmm?"
 
 # game/game_script.rpy:2879
 translate spanish game_script_ae36d490:
 
     # mc "Do you mind if I ask you something?"
-    mc ""
+    mc "¿Te importa si te hago una preguntilla de nada?"
 
 # game/game_script.rpy:2881
 translate spanish game_script_3f83f894:
 
     # y "Not at all, [player]."
-    y ""
+    y "Claro que no me importa, [player]."
 
 # game/game_script.rpy:2883
 translate spanish game_script_b681c607:
