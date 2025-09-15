@@ -302,73 +302,73 @@ translate spanish game_script_3f83f894:
 translate spanish game_script_b681c607:
 
     # mc "Uh, when you were talking about discretion..."
-    mc ""
+    mc "Pues..., era para preguntarte acerca de cuando hablabas de ser discreta..."
 
 # game/game_script.rpy:2885
 translate spanish game_script_f3b5f75f:
 
     # y "...Go ahead."
-    y ""
+    y "Dispara."
 
 # game/game_script.rpy:2887
 translate spanish game_script_8488eb7a:
 
     # mc "You like to hide away from people, right?"
-    mc ""
+    mc "Te gusta esconderte de la gente, ¿verdad?"
 
 # game/game_script.rpy:2889
 translate spanish game_script_c965688a:
 
     # y "If you call it that, then I suppose, yes."
-    y ""
+    y "Si lo prefieres llamar así, supongo que estás en lo cierto."
 
 # game/game_script.rpy:2891
 translate spanish game_script_0f9628c6:
 
     # mc "How do you do it?"
-    mc ""
+    mc "¿Cómo lo haces?"
 
 # game/game_script.rpy:2892
 translate spanish game_script_e775b8ee:
 
     # mc "Like...physically."
-    mc ""
+    mc "En plan... físico."
 
 # game/game_script.rpy:2894
 translate spanish game_script_85219951:
 
     # "Yuri’s brow furrows as she ponders the question."
-    ""
+    "Observo a Yuri fruncir el ceño mientras reflexiona la pregunta que acabo de hacerle."
 
 # game/game_script.rpy:2896
 translate spanish game_script_51b46c34:
 
     # y "Well...I usually take a look at my surroundings and try to find different routes to traverse."
-    y ""
+    y "A ver..., suelo echar un vistazo a mi alrededor para buscar la mejor ruta para recorrer."
 
 # game/game_script.rpy:2898
 translate spanish game_script_4d59ae10:
 
     # mc "Routes?"
-    mc ""
+    mc "¿Ruta?"
 
 # game/game_script.rpy:2900
 translate spanish game_script_66f151ed:
 
     # y "Hmm..."
-    y ""
+    y "Mmm..."
 
 # game/game_script.rpy:2902
 translate spanish game_script_e944ea90:
 
     # y "Maybe it will be easier to show you."
-    y ""
+    y "Puede que sea más fácil enseñártelo."
 
 # game/game_script.rpy:2904
 translate spanish game_script_10fdd01c:
 
     # y "Look at the people ahead of us."
-    y ""
+    y "Observa la gente que tenemos delante nuestra."
 
 # game/game_script.rpy:2906
 translate spanish game_script_265b7150:
