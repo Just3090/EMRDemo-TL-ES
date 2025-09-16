@@ -374,121 +374,121 @@ translate spanish game_script_10fdd01c:
 translate spanish game_script_265b7150:
 
     # "She briefly motions towards a moderately large crowd on the sidewalk, gathering around a street artist."
-    ""
+    "Me señala un grupo de personas bastante grande que se encuentra viendo a un artista callejero."
 
 # game/game_script.rpy:2908
 translate spanish game_script_a49ed4f8:
 
     # mc "Okay."
-    mc ""
+    mc "Vale."
 
 # game/game_script.rpy:2909
 translate spanish game_script_62a1adf9:
 
     # y b1d e1b mh "Look closely. There’s a path around them."
-    y b1d e1b mh ""
+    y b1d e1b mh "Si observas con atención, puedes atravesar el grupo a través de ellos."
 
 # game/game_script.rpy:2911
 translate spanish game_script_16e6c373:
 
     # "She takes the lead and has me follow, weaving through people effortlessly."
-    ""
+    "Tomando el liderazgo, Yuri me guía a través de la horda de personas sin apenas esfuerzo."
 
 # game/game_script.rpy:2912
 translate spanish game_script_adaed1a7:
 
     # "As she moves in, I see it."
-    ""
+    "Mientras se mueve, lo veo todo claro."
 
 # game/game_script.rpy:2913
 translate spanish game_script_3a393193:
 
     # "Natural corridors through the crowd as they bob and weave for a better view of the art."
-    ""
+    "Rutas naturales formadas por el grupo de gente gracias a que zigzaguean para ver mejor lo que hace el artista."
 
 # game/game_script.rpy:2914
 translate spanish game_script_91e05d9c:
 
     # "We make it through and stop a few feet away."
-    ""
+    "A apenas unos metros de distancia, nos detenemos."
 
 # game/game_script.rpy:2916
 translate spanish game_script_9f64164c:
 
     # y b1a e1a mb "Do you see what I mean?"
-    y b1a e1a mb ""
+    y b1a e1a mb "¿Ves a lo que me refería?"
 
 # game/game_script.rpy:2919
 translate spanish game_script_2d772256:
 
     # mc "Oddly enough...{w}I do."
-    mc ""
+    mc "Por más extraño que suene...,{w} sí."
 
 # game/game_script.rpy:2920
 translate spanish game_script_5226e789:
 
     # mc "They make little pathways."
-    mc ""
+    mc "Hacen pequeños caminitos."
 
 # game/game_script.rpy:2922
 translate spanish game_script_3821002b:
 
     # "She smiles and nods."
-    ""
+    "Yuri sonríe y asiente."
 
 # game/game_script.rpy:2927
 translate spanish game_script_2d66e046:
 
     # "We continue walking into the more suburban part of town."
-    ""
+    "Seguimos caminando hacia la parte más suburbana de la ciudad."
 
 # game/game_script.rpy:2929
 translate spanish game_script_35932c2d:
 
     # y "It isn’t limited to just crowds, either."
-    y ""
+    y "Que sepas que no solo se limita a las hordas de gente."
 
 # game/game_script.rpy:2930
 translate spanish game_script_dcfa9314:
 
     # y "Blind spots and side-streets work as well."
-    y ""
+    y "Los puntos ciegos y los callejones hacen el mismo trabajo."
 
 # game/game_script.rpy:2932
 translate spanish game_script_992de990:
 
     # y "I just look for other ways to get where I need."
-    y ""
+    y "Ya sabes, trato de buscarme la vida para llegar a mi destino."
 
 # game/game_script.rpy:2933
 translate spanish game_script_1c66598b:
 
     # y "When in doubt, I do some out-of-the-box thinking."
-    y ""
+    y "Y si tengo dudas, pienso de forma innovadora."
 
 # game/game_script.rpy:2935
 translate spanish game_script_550d692c:
 
     # y "Where would the least amount of people be?"
-    y ""
+    y "Por ejemplo: ¿Dónde habría la menor cantidad de personas?"
 
 # game/game_script.rpy:2937
 translate spanish game_script_c1055f0f:
 
     # "She looks away."
-    ""
+    "Mira hacia otro lado."
 
 # game/game_script.rpy:2940
 translate spanish game_script_8908a3ab:
 
     # y "Had I been alone, I...{w}normally wouldn’t have gone through them like that."
-    y ""
+    y "Estando sola...{w} no los hubiese atravesado así."
 
 # game/game_script.rpy:2942
 translate spanish game_script_b80b7d46:
 
     # y "Thank you for sticking close by."
-    y ""
+    y "Gracias por estar cerca."
 
 # game/game_script.rpy:2944
 translate spanish game_script_71ac5c24:
