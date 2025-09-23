@@ -494,7 +494,7 @@ translate spanish game_script_b80b7d46:
 translate spanish game_script_71ac5c24:
 
     # "Yuri pauses for a moment."
-    ""
+    "Yuri se detiene un momento."
 
 # game/game_script.rpy:2946
 translate spanish game_script_1e8b5852:
