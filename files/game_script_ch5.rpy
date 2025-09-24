@@ -518,7 +518,7 @@ translate spanish game_script_8161e8e9:
 translate spanish game_script_1f8d22e4:
 
     # mc "Not going to lie, that was kind of amazing."
-    mc "Y no te voy a mentir, ha estado guapísimo."
+    mc "Y no te voy a mentir, ha estado chulísimo."
 
 # game/game_script.rpy:2953
 translate spanish game_script_55a9b124:
@@ -722,133 +722,133 @@ translate spanish game_script_df96ec0a:
 translate spanish game_script_c90e2864:
 
     # "Yuri stares at my house, and then myself with some sort of intrigue."
-    ""
+    "Yuri se queda mirando a mi casa, y luego se me queda mirando, con cierta curiosidad."
 
 # game/game_script.rpy:3014
 translate spanish game_script_3f739613:
 
     # y "W-Well, thank you for walking with me, [player]."
-    y ""
+    y "P-Pues muchísimas gracias por acompañarme, [player]..."
 
 # game/game_script.rpy:3016
 translate spanish game_script_8506848f:
 
     # "She shyly plays with her hair and looks at me."
-    ""
+    "Se toca el pelo con timidez y me mira."
 
 # game/game_script.rpy:3018
 translate spanish game_script_a32bfe8b:
 
     # y "I think..."
-    y ""
+    y "Creo que..."
 
 # game/game_script.rpy:3020
 translate spanish game_script_a9edf50d:
 
     # y "We should do this again sometime."
-    y ""
+    y "deberíamos repetirlo otro día."
 
 # game/game_script.rpy:3022
 translate spanish game_script_a7182f61:
 
     # mc "Yeah, we should. It helped quite a bit."
-    mc ""
+    mc "Podríamos, estoy de acuerdo. Me ha ayudado bastante."
 
 # game/game_script.rpy:3028
 translate spanish game_script_cd2719c7:
 
     # y "I'd like that."
-    y ""
+    y "Más me encantaría a mí."
 
 # game/game_script.rpy:3030
 translate spanish game_script_44c2430f:
 
     # "I turn towards my door when I feel Yuri's hand on my shoulder."
-    ""
+    "Me giro hacia mi puerta cuando noto la mano de Yuri en mi hombro."
 
 # game/game_script.rpy:3032
 translate spanish game_script_1f691a8b:
 
     # y "Um...[player]?"
-    y ""
+    y "Y [player]..."
 
 # game/game_script.rpy:3034
 translate spanish game_script_7c709ce7:
 
     # y "Thank you."
-    y ""
+    y "Muchísimas gracias."
 
 # game/game_script.rpy:3035
 translate spanish game_script_77c1ab29:
 
     # y "For what you did for Sayori."
-    y ""
+    y "Gracias por lo que hiciste por Sayori."
 
 # game/game_script.rpy:3037
 translate spanish game_script_c7101c1d:
 
     # y "You’re a hero."
-    y ""
+    y "Eres un héroe."
 
 # game/game_script.rpy:3039
 translate spanish game_script_8d0800c8:
 
     # "I don’t fucking feel like one."
-    ""
+    "Una puta mierda soy."
 
 # game/game_script.rpy:3041
 translate spanish game_script_1b4fb35b:
 
     # mc "...Thanks."
-    mc ""
+    mc "Pues..., gracias."
 
 # game/game_script.rpy:3043
 translate spanish game_script_443b9a41:
 
     # "She awkwardly glances away, waves, and walks back towards town."
-    ""
+    "Mira para otro lado con torpeza, se despide y se marcha de vuelta a la ciudad."
 
 # game/game_script.rpy:3046
 translate spanish game_script_151e4c03:
 
     # "I hope she doesn’t live far. It’s getting dark out."
-    ""
+    "Espero que no viva lejos, se hace de noche."
 
 # game/game_script.rpy:3047
 translate spanish game_script_1b5dabe2:
 
     # "Speaking of getting dark..."
-    ""
+    "Y hablando del rey de Roma..."
 
 # game/game_script.rpy:3048
 translate spanish game_script_c923601f:
 
     # "Walking with Yuri was cathartic, avoiding the time I’d otherwise be fretting with mild panic."
-    ""
+    "Acompañar a Yuri ha hecho efecto catarsis en mí, evitando que ese tiempo que he estado con ella hubiesen sido agobios y ataques de pánico leves."
 
 # game/game_script.rpy:3049
 translate spanish game_script_4672a12e:
 
     # "I should start getting ready."
-    ""
+    "Debería prepararme ya."
 
 # game/game_script.rpy:3056
 translate spanish game_script_4a00f9d4:
 
     # "I kick off my school clothes and toss them into the corner."
-    ""
+    "Me quito la ropa del instituto y la lanzo a un rincón."
 
 # game/game_script.rpy:3057
 translate spanish game_script_6453cf01:
 
     # "I’ll wash and iron them later."
-    ""
+    "Ya las lavaré y plancharé. Ahora no es momento."
 
 # game/game_script.rpy:3058
 translate spanish game_script_adab36c5:
 
     # "I don the clothes I prepared yesterday."
-    ""
+    "Me pongo la ropa que me preparé ayer."
 
 # game/game_script.rpy:3059
 translate spanish game_script_a7ab86c3:
