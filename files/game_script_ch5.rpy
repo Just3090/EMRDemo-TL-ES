@@ -500,223 +500,223 @@ translate spanish game_script_71ac5c24:
 translate spanish game_script_1e8b5852:
 
     # y "Er, sorry if I’m lecturing!"
-    y ""
+    y "Eh... ¡perdóname si te estoy dando la chapa!"
 
 # game/game_script.rpy:2949
 translate spanish game_script_d67ad71f:
 
     # y "I do tend to ramble..."
-    y ""
+    y "Suelo enrollarme como una persiana..."
 
 # game/game_script.rpy:2951
 translate spanish game_script_8161e8e9:
 
     # mc "Yuri, you’re fine."
-    mc ""
+    mc "Yuri, no pasa nada."
 
 # game/game_script.rpy:2952
 translate spanish game_script_1f8d22e4:
 
     # mc "Not going to lie, that was kind of amazing."
-    mc ""
+    mc "Y no te voy a mentir, ha estado guapísimo."
 
 # game/game_script.rpy:2953
 translate spanish game_script_55a9b124:
 
     # mc "Did you pick this all up naturally?"
-    mc ""
+    mc "¿Aprendiste a hacer todo esto por ti misma?"
 
 # game/game_script.rpy:2955
 translate spanish game_script_992fa630:
 
     # "She goes red, yet smiles at my compliment."
-    ""
+    "Se sonroja y le sonríe a mi cumplido."
 
 # game/game_script.rpy:2956
 translate spanish game_script_0593216e:
 
     # "I take it she’s not used to getting those often."
-    ""
+    "No estará acostumbrada a que le hagan piropos..."
 
 # game/game_script.rpy:2959
 translate spanish game_script_300d70fc:
 
     # "We turn onto my road."
-    ""
+    "Giramos en dirección a mi calle."
 
 # game/game_script.rpy:2961
 translate spanish game_script_56626e8b:
 
     # y "I, um..."
-    y ""
+    y "Pues, eh..."
 
 # game/game_script.rpy:2963
 translate spanish game_script_e5dfeb7c:
 
     # y "Thank you..."
-    y ""
+    y "Gracias..."
 
 # game/game_script.rpy:2965
 translate spanish game_script_c26b8fdc:
 
     # y "It’s just, uh, something I’ve always had an eye for."
-    y ""
+    y "Es algo para lo que..., eh..., siempre he tenido ojo."
 
 # game/game_script.rpy:2967
 translate spanish game_script_ccf5ff21:
 
     # y "Just being...{w}there. A blind spot."
-    y ""
+    y "Estar...{w} ahí. Un punto ciego."
 
 # game/game_script.rpy:2969
 translate spanish game_script_054c5ee0:
 
     # mc "I see."
-    mc ""
+    mc "Ya..."
 
 # game/game_script.rpy:2971
 translate spanish game_script_a93394e0:
 
     # y mh e1b rdown ldown "I just don’t usually like being around a plethora of people..."
-    y mh e1b rdown ldown ""
+    y mh e1b rdown ldown "Simplemente no me gusta estar rodeada de tanta gente, ¿sabes...?"
 
 # game/game_script.rpy:2972
 translate spanish game_script_f422af98:
 
     # y "It makes me feel like..."
-    y ""
+    y "Me hace sentir..."
 
 # game/game_script.rpy:2974
 translate spanish game_script_84079e39:
 
     # mc "Anxious?"
-    mc ""
+    mc "¿ansiosa?"
 
 # game/game_script.rpy:2976
 translate spanish game_script_985b1c9d:
 
     # y "Oh, um..."
-    y ""
+    y "Ah, eh..."
 
 # game/game_script.rpy:2977
 translate spanish game_script_8ac6834f:
 
     # y "More or less..."
-    y ""
+    y "Sí, más o menos eso..."
 
 # game/game_script.rpy:2979
 translate spanish game_script_f7904c8f:
 
     # y "Is this something you struggle with as well, [player]?"
-    y ""
+    y "¿Es que tienes el mismo problema también, [player]?"
 
 # game/game_script.rpy:2981
 translate spanish game_script_d0a5d552:
 
     # mc "As of recently...yeah."
-    mc ""
+    mc "Pues desde hace poco..., sí."
 
 # game/game_script.rpy:2982
 translate spanish game_script_2485f494_4:
 
     # mc "I..."
-    mc ""
+    mc "Es que..."
 
 # game/game_script.rpy:2984
 translate spanish game_script_8b963ff6:
 
     # "I debate filling her in."
-    ""
+    "Me debato entre meterla de lleno en el asunto y no hacer nada."
 
 # game/game_script.rpy:2985
 translate spanish game_script_b0ea8a3b:
 
     # "She’s been nothing but supportive so far."
-    ""
+    "Hasta ahora me ha apoyado mucho..."
 
 # game/game_script.rpy:2986
 translate spanish game_script_a0bbf6ac:
 
     # "I give her the short version."
-    ""
+    "Voy a contarle la versión súperreducida."
 
 # game/game_script.rpy:2988
 translate spanish game_script_95e1cbdf:
 
     # mc "I...{w}found Sayori when she..."
-    mc ""
+    mc "Pillé a...,{w} a Sayori..., a punto de..."
 
 # game/game_script.rpy:2990
 translate spanish game_script_c8f45d71:
 
     # mc "It..."
-    mc ""
+    mc "Me ha..."
 
 # game/game_script.rpy:2991
 translate spanish game_script_2b35b6fe_4:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script.rpy:2992
 translate spanish game_script_2485f494_5:
 
     # mc "I..."
-    mc ""
+    mc "Me..."
 
 # game/game_script.rpy:2993
 translate spanish game_script_805ac284:
 
     # "I take a deep breath and focus."
-    ""
+    "Respiro profundamente y trato de centrarme en el tema."
 
 # game/game_script.rpy:2996
 translate spanish game_script_73a0a85b:
 
     # mc "It really messed with me."
-    mc ""
+    mc "Me ha fastidiado bastante."
 
 # game/game_script.rpy:2997
 translate spanish game_script_6590a13c:
 
     # mc "That’s all I really want to say right now."
-    mc ""
+    mc "Es lo único que quiero decirte ahora mismo."
 
 # game/game_script.rpy:2999
 translate spanish game_script_18d89b93:
 
     # y "Oh...heaven above."
-    y ""
+    y "Ay, Dios mío..."
 
 # game/game_script.rpy:3001
 translate spanish game_script_ead4e907:
 
     # y "I’m so sorry, [player]."
-    y ""
+    y "Lo siento muchísimo, [player]."
 
 # game/game_script.rpy:3003
 translate spanish game_script_6e8314b1:
 
     # mc "Don’t worry about it, I’m okay."
-    mc ""
+    mc "No te preocupes por eso, estoy bien."
 
 # game/game_script.rpy:3005
 translate spanish game_script_a893c9e0:
 
     # "I stop outside my house."
-    ""
+    "Me paro en frente de mi casa."
 
 # game/game_script.rpy:3007
 translate spanish game_script_a596cef2:
 
     # mc "Well, this is my place."
-    mc ""
+    mc "Pues nada, esta es mi parada."
 
 # game/game_script.rpy:3009
 translate spanish game_script_df96ec0a:
 
     # y "O-Oh."
-    y ""
+    y "A-Ah."
 
 # game/game_script.rpy:3012
 translate spanish game_script_c90e2864:
