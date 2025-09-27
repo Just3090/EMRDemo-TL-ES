@@ -710,7 +710,7 @@ translate spanish game_script_a893c9e0:
 translate spanish game_script_a596cef2:
 
     # mc "Well, this is my place."
-    mc "Pues nada, esta es mi parada."
+    mc "Pues nada, aquí me bajo yo."
 
 # game/game_script.rpy:3009
 translate spanish game_script_df96ec0a:
@@ -722,7 +722,7 @@ translate spanish game_script_df96ec0a:
 translate spanish game_script_c90e2864:
 
     # "Yuri stares at my house, and then myself with some sort of intrigue."
-    "Yuri se queda mirando a mi casa, y luego se me queda mirando, con cierta curiosidad."
+    "Yuri se queda mirando a mi casa, y luego me mira con cierta curiosidad."
 
 # game/game_script.rpy:3014
 translate spanish game_script_3f739613:
@@ -752,7 +752,7 @@ translate spanish game_script_a9edf50d:
 translate spanish game_script_a7182f61:
 
     # mc "Yeah, we should. It helped quite a bit."
-    mc "Podríamos, estoy de acuerdo. Me ha ayudado bastante."
+    mc "Podríamos, estoy de acuerdo. La verdad es que me ha ayudado bastante."
 
 # game/game_script.rpy:3028
 translate spanish game_script_cd2719c7:
@@ -770,7 +770,7 @@ translate spanish game_script_44c2430f:
 translate spanish game_script_1f691a8b:
 
     # y "Um...[player]?"
-    y "Y [player]..."
+    y "Y, [player]..."
 
 # game/game_script.rpy:3034
 translate spanish game_script_7c709ce7:
