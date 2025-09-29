@@ -1202,31 +1202,31 @@ translate spanish game_script_1504787e:
 translate spanish game_script_e8af5b3b:
 
     # "I flip the phone over, a web of cracks span across the screen."
-    ""
+    "Está del revés, pero al cogerlo... tiene la pantalla completamente destrozada."
 
 # game/game_script.rpy:3131
 translate spanish game_script_d75bdca8:
 
     # "Judging by the height of the window above, I have a strong hunch of where it came from."
-    ""
+    "A juzgar por la altura de la ventana de arriba, me da que ya sé desde dónde pudo ser lanzado."
 
 # game/game_script.rpy:3132
 translate spanish game_script_8cca26b6:
 
     # "Shit..."
-    ""
+    "Hijo de..."
 
 # game/game_script.rpy:3133
 translate spanish game_script_c0593a19:
 
     # "But {i}why?{/i}"
-    ""
+    "¿Por qué?"
 
 # game/game_script.rpy:3134
 translate spanish game_script_fd066e90:
 
     # "This must be some twisted penance for her attendance at the club today, most likely."
-    ""
+    "Estoy seguro de que ha sido alguna especie de castigo por venir hoy al club..."
 
 # game/game_script.rpy:3135
 translate spanish game_script_ca928447:
