@@ -824,7 +824,7 @@ translate spanish game_script_1b5dabe2:
 translate spanish game_script_c923601f:
 
     # "Walking with Yuri was cathartic, avoiding the time I’d otherwise be fretting with mild panic."
-    "Acompañar a Yuri ha hecho efecto catarsis en mí, evitando que ese tiempo que he estado con ella hubiesen sido agobios y ataques de pánico leves."
+    "Acompañar a Yuri ha sido catárquico. Ha evitado que ese tiempo que he estado con ella los hubiese pasado con agobios y ataques de pánico leves."
 
 # game/game_script.rpy:3049
 translate spanish game_script_4672a12e:
@@ -848,49 +848,49 @@ translate spanish game_script_6453cf01:
 translate spanish game_script_adab36c5:
 
     # "I don the clothes I prepared yesterday."
-    "Me pongo la ropa que me preparé ayer."
+    "Me pongo la ropa que preparé ayer."
 
 # game/game_script.rpy:3059
 translate spanish game_script_a7ab86c3:
 
     # "Black hoodie, jeans, shirt, shoes."
-    ""
+    "Una sudadera oscurita, unos vaqueros, una camiseta y unos zapatos."
 
 # game/game_script.rpy:3060
 translate spanish game_script_b4945f8c:
 
     # "Bandana too, but I shouldn’t need that."
-    ""
+    "Tengo aquí un pañuelo también, pero no creo necesitarlo."
 
 # game/game_script.rpy:3061
 translate spanish game_script_4c59a11a:
 
     # "Christ, I look like a home invader."
-    ""
+    "Joder, parezco un asalta casas."
 
 # game/game_script.rpy:3062
 translate spanish game_script_f5db54fb:
 
     # "{i}Isn’t that exactly what I’m doing?{/i}"
-    ""
+    "Eh..., ¿no es eso lo que justamente voy a hacer?"
 
 # game/game_script.rpy:3063
 translate spanish game_script_5099b157:
 
     # "Shut up, brain."
-    ""
+    "¡Que te calles, cerebro!"
 
 # game/game_script.rpy:3064
 translate spanish game_script_a5e8d1c4_1:
 
     # "I take a deep breath."
-    ""
+    "Respiro profundamente."
 
 # game/game_script.rpy:3065
 translate spanish game_script_140d0b9e:
 
     # "Here’s hoping that this isn’t a complete disaster."
-    ""
+    "Espero que esto no sea un completo desastre."
 
 # game/game_script.rpy:3066
 translate spanish game_script_8fd0fa02:
