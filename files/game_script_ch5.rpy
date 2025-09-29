@@ -1232,19 +1232,19 @@ translate spanish game_script_fd066e90:
 translate spanish game_script_ca928447:
 
     # "And the broken phone raises yet another issue."
-    ""
+    "Y el teléfono roto me hace plantearme algo..."
 
 # game/game_script.rpy:3136
 translate spanish game_script_9946eaf9:
 
     # "How am I supposed to get Natsuki’s attention, without also alerting her father?"
-    ""
+    "¿Cómo se supone que voy a contactar con ella sin llamar la atención de su padre?"
 
 # game/game_script.rpy:3137
 translate spanish game_script_721b18cc:
 
     # "It seems impossible, but my mind persists to try and think of a solution."
-    ""
+    "Parece imposible, pero no paro de pensar en alguna manera de hacerlo..."
 
 # game/game_script.rpy:3138
 translate spanish game_script_42d14d4e:
