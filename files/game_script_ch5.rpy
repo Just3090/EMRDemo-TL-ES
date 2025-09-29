@@ -1226,7 +1226,7 @@ translate spanish game_script_c0593a19:
 translate spanish game_script_fd066e90:
 
     # "This must be some twisted penance for her attendance at the club today, most likely."
-    "Estoy seguro de que ha sido alguna especie de castigo por venir hoy al club..."
+    "Estoy seguro de que ha sido alguna especie de castigo retorcido por venir hoy al club..."
 
 # game/game_script.rpy:3135
 translate spanish game_script_ca928447:
