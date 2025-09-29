@@ -896,49 +896,49 @@ translate spanish game_script_140d0b9e:
 translate spanish game_script_8fd0fa02:
 
     # "I’ve been messaging her since I got back home with no answer."
-    ""
+    "He estado mandando mensajes a Natsuki desde que entré a casa, pero no ha respondido a ninguno."
 
 # game/game_script.rpy:3067
 translate spanish game_script_1af90e36:
 
     # "A part of me thinks I should call it off."
-    ""
+    "Una parte de mí piensa que debería dejarlo y olvidarme de hacerlo...,"
 
 # game/game_script.rpy:3068
 translate spanish game_script_eccffbf3:
 
     # "But I cannot let her stay there."
-    ""
+    "pero ni de coña voy a permitir que pase un día más en esa casa."
 
 # game/game_script.rpy:3069
 translate spanish game_script_c50aed6f:
 
     # "All questions of doubt are pushed to the back of my mind."
-    ""
+    "Todas las preguntas y dudas que van surgiendo son apartadas a lo más profundo de mi mente."
 
 # game/game_script.rpy:3070
 translate spanish game_script_6376dff1:
 
     # "Her safety is my only concern right now."
-    ""
+    "Lo único que me preocupa ahora es su bienestar."
 
 # game/game_script.rpy:3071
 translate spanish game_script_735ccd26:
 
     # "God knows I’ve not been very lucky lately, but I’ll just have to make-do with what I have and hope things go well."
-    ""
+    "Dios sabe que no he tenido mucha suerte últimamente, pero tendré que conformarme con lo que tengo y esperar que las cosas salgan bien..."
 
 # game/game_script.rpy:3072
 translate spanish game_script_19e799b1:
 
     # "I take another breath."
-    ""
+    "Vuelvo a respirar hondo."
 
 # game/game_script.rpy:3073
 translate spanish game_script_4dcf4ab7:
 
     # "Here we go."
-    ""
+    "Al lío."
 
 # game/game_script.rpy:3074
 translate spanish game_script_74a38dda:
