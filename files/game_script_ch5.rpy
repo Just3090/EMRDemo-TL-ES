@@ -944,259 +944,259 @@ translate spanish game_script_4dcf4ab7:
 translate spanish game_script_74a38dda:
 
     # "I message Natsuki of my departure and head out the door."
-    ""
+    "Aviso a Natsuki de que voy a salir ya y me dirijo a la puerta de entrada."
 
 # game/game_script.rpy:3078
 translate spanish game_script_7732264e:
 
     # "The bus is oddly silent this evening."
-    ""
+    "El autobús está incómodamente silencioso esta noche..."
 
 # game/game_script.rpy:3079
 translate spanish game_script_e53cd0e4:
 
     # "Good enough for me, I suppose."
-    ""
+    "Pues bien por mí, digo yo."
 
 # game/game_script.rpy:3080
 translate spanish game_script_9b8c2afa:
 
     # "Less people to see me."
-    ""
+    "Menos personas se dan cuenta de mi presencia."
 
 # game/game_script.rpy:3081
 translate spanish game_script_ecc0b4fe:
 
     # "I feel like I’m committing a crime."
-    ""
+    "Siento que estoy a punto de cometer un crimen."
 
 # game/game_script.rpy:3082
 translate spanish game_script_dd6bd738:
 
     # "I should focus on my breathing for now."
-    ""
+    "Debería tratar de controlar mi respiración."
 
 # game/game_script.rpy:3083
 translate spanish game_script_00b7aada:
 
     # "I rest my face in my palms."
-    ""
+    "Descanso la cara en las palmas de mis manos."
 
 # game/game_script.rpy:3084
 translate spanish game_script_382924d3:
 
     # "With all that’s happened in the past couple days, I’ve needed a moment like this."
-    ""
+    "Con todo lo que ha pasado estos días, necesitaba un momento como este..."
 
 # game/game_script.rpy:3085
 translate spanish game_script_76211920:
 
     # "Heh."
-    ""
+    "Je."
 
 # game/game_script.rpy:3086
 translate spanish game_script_d6869c3f:
 
     # "I guess this would be the calm before the storm."
-    ""
+    "Imagino que toda esta calma avecina una tormenta..."
 
 # game/game_script.rpy:3087
 translate spanish game_script_97e103b4:
 
     # "Which isn’t a good thing, considering that my best friend almost killing herself also counts as before said storm."
-    ""
+    "Y no es que eso sea bueno, ¿eh? Si considero que mi mejor amiga casi se quita la vida..."
 
 # game/game_script.rpy:3088
 translate spanish game_script_375b438a:
 
     # "Then there’s the added worry of whether or not she’s gonna be alright..."
-    ""
+    "Y si añadimos la preocupación de no saber si todo va a salir bien..."
 
 # game/game_script.rpy:3089
 translate spanish game_script_ca58acb9:
 
     # "I shake at the thought."
-    ""
+    "Trato de espabilarme."
 
 # game/game_script.rpy:3090
 translate spanish game_script_716c663d:
 
     # "I shouldn’t worry about that right now."
-    ""
+    "No debería preocuparme ahora por esas cosas."
 
 # game/game_script.rpy:3091
 translate spanish game_script_a3064a15:
 
     # "I have to focus on how to get Natsuki out of that place."
-    ""
+    "Me tendría que estar preocupando en sacar a Natsuki de allí."
 
 # game/game_script.rpy:3092
 translate spanish game_script_ec65c5be:
 
     # "As if on cue, the bus arrives right where I need to get off."
-    ""
+    "Como si fuese una señal, el autobús se detiene donde necesito bajarme."
 
 # game/game_script.rpy:3093
 translate spanish game_script_0995dc77:
 
     # "Just at the bottom of the street Natsuki lives in."
-    ""
+    "Justo al final de la calle donde vive ella."
 
 # game/game_script.rpy:3094
 translate spanish game_script_3f739ce1_2:
 
     # "I sigh."
-    ""
+    "Profiero un suspiro."
 
 # game/game_script.rpy:3095
 translate spanish game_script_dfc4ff1e:
 
     # "I press the ‘stop’ button and wait until the doors open."
-    ""
+    "Pulso el botón de 'Stop' y espero a que se abran las puertas."
 
 # game/game_script.rpy:3096
 translate spanish game_script_9bf3a7f8:
 
     # "A sense of dread washes over me as the doors creak open."
-    ""
+    "El miedo me invade al mismo tiempo en que salgo del bus."
 
 # game/game_script.rpy:3097
 translate spanish game_script_48ed5a47:
 
     # "Well, it’s now or never..."
-    ""
+    "Es ahora o nunca, ¿no?"
 
 # game/game_script.rpy:3103
 translate spanish game_script_1f458b92:
 
     # "The cold breeze grazes me as I step out of the bus."
-    ""
+    "La brisa helada me golpea con fuerza."
 
 # game/game_script.rpy:3104
 translate spanish game_script_f3e75c54:
 
     # "I look around at my surroundings. The street is dimly lit and there's no one in sight."
-    ""
+    "Echo un vistazo alrededor mío. Apenas hay iluminación y las calles están muertas."
 
 # game/game_script.rpy:3105
 translate spanish game_script_9b59b387:
 
     # "These are the perfect conditions to remain unseen."
-    ""
+    "Parece que va a ser muy fácil pasar desapercibido."
 
 # game/game_script.rpy:3106
 translate spanish game_script_8ecae33e:
 
     # "Maybe luck really is on my side, after all."
-    ""
+    "Tengo la suerte de mi lado, diría yo."
 
 # game/game_script.rpy:3110
 translate spanish game_script_b74a86ce:
 
     # "This is the place."
-    ""
+    "Ya estoy aquí."
 
 # game/game_script.rpy:3111
 translate spanish game_script_d0845102:
 
     # "I shiver."
-    ""
+    "Trago saliva."
 
 # game/game_script.rpy:3112
 translate spanish game_script_ce75482b:
 
     # "I can’t believe I’m actually doing this."
-    ""
+    "Es increíble que vaya a hacerlo..."
 
 # game/game_script.rpy:3113
 translate spanish game_script_9103bd6f:
 
     # "I must be crazy."
-    ""
+    "Debo estar perdiendo el juicio."
 
 # game/game_script.rpy:3114
 translate spanish game_script_3f739ce1_3:
 
     # "I sigh."
-    ""
+    "Profiero un largo suspiro."
 
 # game/game_script.rpy:3115
 translate spanish game_script_f1d6463d:
 
     # "I get closer to the house and look at the windows to see if anyone is inside."
-    ""
+    "Me acerco a la casa y miro por las ventanas por si hay alguien."
 
 # game/game_script.rpy:3116
 translate spanish game_script_a20cefa7_7:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:3117
 translate spanish game_script_9850f53c:
 
     # "Nothing."
-    ""
+    "Nadie."
 
 # game/game_script.rpy:3118
 translate spanish game_script_37d3b378:
 
     # "I take a look at the front door, and then my eyes are drawn towards a car parked out front."
-    ""
+    "Echo un vistazo a la puerta de entrada y mis ojos se dirigen a un coche aparcado ahí."
 
 # game/game_script.rpy:3119
 translate spanish game_script_b8dafe95:
 
     # "It must be his."
-    ""
+    "Estoy seguro de que es suyo..."
 
 # game/game_script.rpy:3120
 translate spanish game_script_96440dc8:
 
     # "It’s old, but the design hints that it’s worth a substantial amount."
-    ""
+    "Parece antiguo, pero lo que no parece es barato..."
 
 # game/game_script.rpy:3121
 translate spanish game_script_b0b4d68f:
 
     # "At least, as far as I can tell. I’ve never been very interested in cars."
-    ""
+    "La verdad es que nunca me han interesado los coches."
 
 # game/game_script.rpy:3122
 translate spanish game_script_53d518b2:
 
     # "But that doesn’t matter."
-    ""
+    "Pero eso no importa ahora."
 
 # game/game_script.rpy:3123
 translate spanish game_script_611f3ba7:
 
     # "Now all I know is I have another thing to worry about."
-    ""
+    "Lo que importa ahora es otra cosa."
 
 # game/game_script.rpy:3124
 translate spanish game_script_1fa4d985:
 
     # "I quickly pull out my phone and give her a call."
-    ""
+    "Saco mi teléfono y llamo a Natsuki."
 
 # game/game_script.rpy:3127
 translate spanish game_script_8037e613:
 
     # "Just as I dial out, I feel something pulse right by my foot."
-    ""
+    "Tan pronto como marco su número y pulso en 'llamar', siento algo en mi pie."
 
 # game/game_script.rpy:3128
 translate spanish game_script_5b1ce91c:
 
     # "I peer down to take a look, and I see what is undoubtedly her phone."
-    ""
+    "Bajo la mirada y veo lo que, indudablemente, es su teléfono."
 
 # game/game_script.rpy:3129
 translate spanish game_script_1504787e:
 
     # "Or {i}was{/i}."
-    ""
+    "O bueno, ERA su teléfono."
 
 # game/game_script.rpy:3130
 translate spanish game_script_e8af5b3b:
