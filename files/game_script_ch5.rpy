@@ -1232,7 +1232,7 @@ translate spanish game_script_fd066e90:
 translate spanish game_script_ca928447:
 
     # "And the broken phone raises yet another issue."
-    "Y el teléfono roto me hace plantearme algo..."
+    "Y el teléfono roto me hace plantearme algo:"
 
 # game/game_script.rpy:3136
 translate spanish game_script_9946eaf9:
