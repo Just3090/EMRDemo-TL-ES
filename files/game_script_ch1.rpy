@@ -640,7 +640,7 @@ translate spanish game_script_eca9793e:
 translate spanish game_script_e4980b51:
 
     # "I let out a deep sigh, while my adrenaline slowly subsides."
-    "Profano un largo y pesado suspiro mientras mi adrenalina empieza a descender poco a poco."
+    "Profiero un largo y pesado suspiro mientras mi adrenalina empieza a descender poco a poco."
 
 # game/game_script.rpy:206
 translate spanish game_script_59008570:
