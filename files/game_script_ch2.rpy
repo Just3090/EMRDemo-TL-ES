@@ -1178,7 +1178,7 @@ translate spanish game_script_72fbdc70:
 translate spanish game_script_bd492e3d:
 
     # n "Can’t wait to get chewed out by Monika..."
-    n "estoy súper ansiosa de que Monika me eche la bronca."
+    n "me mueeero de ganas de que Monika me eche la bronca."
 
 # game/game_script.rpy:1000
 translate spanish game_script_b91d60fb:
