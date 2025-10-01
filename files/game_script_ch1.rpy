@@ -1582,7 +1582,7 @@ translate spanish game_script_eabc28ba:
 translate spanish game_script_8210b50f:
 
     # s "I...{w}think I’ll tell her."
-    s "Creo que...{nw} se lo diré."
+    s "Creo que...{w} se lo diré."
 
 # game/game_script.rpy:482
 translate spanish game_script_6aece9a9:
