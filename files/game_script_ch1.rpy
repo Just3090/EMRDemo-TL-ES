@@ -742,7 +742,7 @@ translate spanish game_script_5865ec9e:
 translate spanish game_script_d84e4e6b:
 
     # "My hands are shaking the entire time, they're barely able to undo the knot."
-    "No dejan de temblarme las manos, que eran apenas capaces de hacerlo."
+    "No dejan de temblarme las manos, que eran apenas capaces de desatarlo."
 
 # game/game_script.rpy:235
 translate spanish game_script_c44fa2e5:
