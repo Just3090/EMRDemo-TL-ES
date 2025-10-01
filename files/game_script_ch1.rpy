@@ -1042,7 +1042,7 @@ translate spanish game_script_39088847:
 translate spanish game_script_070af8a4:
 
     # mc "I’m sorry it’s a personal issue"
-    mc "Lo siento mucho, monika, es un asunto personal."
+    mc "Lo siento mucho, Monika, es un asunto personal."
 
 # game/game_script.rpy:324
 translate spanish game_script_4a202c90:
