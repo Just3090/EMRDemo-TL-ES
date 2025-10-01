@@ -748,7 +748,7 @@ translate spanish game_script_d84e4e6b:
 translate spanish game_script_c44fa2e5:
 
     # "How did she learn to do that..?"
-    "¿Cuándo aprendió a hacer estos nudos...?"
+    "¿Cuándo aprendió a hacerlos...?"
 
 # game/game_script.rpy:236
 translate spanish game_script_11892a07:
