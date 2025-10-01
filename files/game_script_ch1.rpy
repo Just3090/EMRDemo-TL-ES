@@ -1636,7 +1636,7 @@ translate spanish game_script_42c3de85:
 translate spanish game_script_2299f5fa:
 
     # s "Did you...{w}tell my parents?"
-    s "¿Se lo has dicho...{nw} a mis padres?"
+    s "¿Se lo has dicho...{w} a mis padres?"
 
 # game/game_script.rpy:502
 translate spanish game_script_3f739ce1_1:
