@@ -1346,121 +1346,121 @@ translate spanish game_script_e502b171:
 translate spanish game_script_21b41651:
 
     # "As soon as I begin to doubt this is going to work, I see some movement from behind the curtains."
-    "Cuando empiezo a pensar en el dudoso acierto de haber tirado una piedra con fuerza a una ventana, veo algo moverse a través de las cortinas."
+    "Cuando empiezo a pensar en el dudoso acierto de haber tirado una piedra con fuerza a una ventana, veo algo moverse a través de las cortinas...,"
 
 # game/game_script.rpy:3155
 translate spanish game_script_7352a287:
 
     # "Before I even have the chance to think about it, the window swings open....{w}and all my tension melts away."
-    ""
+    "y antes de sin siquiera tener la oportunidad de pensar en quién o qué se ha movido, la ventana se abre de golpe y toda la tensión desaparece."
 
 # game/game_script.rpy:3156
 translate spanish game_script_fbebd22a:
 
     # "It’s Natsuki."
-    ""
+    "Es Natsuki."
 
 # game/game_script.rpy:3164
 translate spanish game_script_4a895c2f:
 
     # "I can just barely see her, but I know that short stature anywhere."
-    ""
+    "Apenas se la ve, pero reconocería su baja estatura a kilómetros."
 
 # game/game_script.rpy:3165
 translate spanish game_script_e2a46146:
 
     # "She speaks in a whisper that’s still loud enough for me to barely hear."
-    ""
+    "Susurra, pero es un susurro fuerte que me es suficiente para escucharla sin problemas."
 
 # game/game_script.rpy:3167
 translate spanish game_script_3c541b1c:
 
     # n "Psst!"
-    n ""
+    n "¡Shhh!"
 
 # game/game_script.rpy:3168
 translate spanish game_script_4731ed1e:
 
     # n "What the hell do you think you’re doing?!"
-    n ""
+    n "¡¿Qué coño te crees que haces?!"
 
 # game/game_script.rpy:3169
 translate spanish game_script_3ae71b64:
 
     # mc "I’m doing what {i}we{/i} planned."
-    mc ""
+    mc "Pues lo que acordamos, ¿no?"
 
 # game/game_script.rpy:3174
 translate spanish game_script_e26a6062:
 
     # n "Oh, really? Because I don’t remember planning for you to chuck shit at my window!"
-    n ""
+    n "Ah, ¿sí? No recordaba que en ese acuerdo hubiesen piedras en mi ventana, ¿sabes?"
 
 # game/game_script.rpy:3176
 translate spanish game_script_dd974313:
 
     # "She looks away for a moment."
-    ""
+    "Mira a otro lado por un instante."
 
 # game/game_script.rpy:3178
 translate spanish game_script_f20ba26d:
 
     # n "You could’ve woken my dad up!"
-    n ""
+    n "¡Que podrías haberlo despertado!"
 
 # game/game_script.rpy:3179
 translate spanish game_script_b29f4a9e:
 
     # mc "I didn’t really have another way..."
-    mc ""
+    mc "¿Qué querías que hiciese entonces?"
 
 # game/game_script.rpy:3180
 translate spanish game_script_dc0ff26a_1:
 
     # mc "Sorry."
-    mc ""
+    mc "Perdona..."
 
 # game/game_script.rpy:3181
 translate spanish game_script_d2170159:
 
     # n "No, no, I’m sorry for snapping..."
-    n ""
+    n "Ay, no, no. Lo siento yo por enfadarme contigo."
 
 # game/game_script.rpy:3186
 translate spanish game_script_65fee595:
 
     # n "We just need to be {i}really{/i} careful about this."
-    n ""
+    n "Entiéndeme, hemos de ser muy cautelosos."
 
 # game/game_script.rpy:3187
 translate spanish game_script_4499ba20:
 
     # n "Whatever. You’re here now."
-    n ""
+    n "En fin, supongo que ya no importa mucho porque ya estás aquí."
 
 # game/game_script.rpy:3188
 translate spanish game_script_0e71ac17:
 
     # n "We just need to get you up here..."
-    n ""
+    n "Ahora tenemos que preocuparnos en buscar una manera de que subas a mi habitación..."
 
 # game/game_script.rpy:3189
 translate spanish game_script_de73387c:
 
     # mc "For your stuff, right?"
-    mc ""
+    mc "Para coger tus cosas, ¿no?"
 
 # game/game_script.rpy:3194
 translate spanish game_script_2fe1bf98_2:
 
     # n "Yeah."
-    n ""
+    n "Claro."
 
 # game/game_script.rpy:3195
 translate spanish game_script_33229008:
 
     # n "Give me a sec..."
-    n ""
+    n "Dame un segundito..."
 
 # game/game_script.rpy:3200
 translate spanish game_script_e42d993d:
