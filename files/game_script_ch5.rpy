@@ -1250,103 +1250,103 @@ translate spanish game_script_721b18cc:
 translate spanish game_script_42d14d4e:
 
     # "I look down to see several pebbles scattered over the concrete pavement."
-    ""
+    "Miro hacia abajo y veo algunas piedrecillas esparcidas por el suelo."
 
 # game/game_script.rpy:3139
 translate spanish game_script_7793103b:
 
     # "I could always just throw one of these at the window to try and get her attention..."
-    ""
+    "¿Y si pruebo a tirarle alguna a la ventana...?"
 
 # game/game_script.rpy:3140
 translate spanish game_script_26e77ef9:
 
     # "I pick up the pebble, but hesitate when going for a throw."
-    ""
+    "Cojo una, pero empiezo a arrepentirme de la idea."
 
 # game/game_script.rpy:3141
 translate spanish game_script_bba0efe5:
 
     # "I should {i}really{/i} be having second thoughts about this."
-    ""
+    "Creo que 'lo normal' es pensarse dos veces hacer algo así."
 
 # game/game_script.rpy:3142
 translate spanish game_script_9a7fd873:
 
     # "I mean, her dad may well end up hearing the pebble hit the window."
-    ""
+    "Su padre podría escuchar los impactos en la ventana."
 
 # game/game_script.rpy:3143
 translate spanish game_script_bd480219:
 
     # "What’s even worse is that this could be {i}his room{/i} I’m about to chuck the pebble at."
-    ""
+    "Y la gota que colmaría el vaso sería que esta fuese su habitación y no la de su hija."
 
 # game/game_script.rpy:3144
 translate spanish game_script_cee23ae9:
 
     # "But, I don’t exactly have many options here."
-    ""
+    "Pero claro, no tengo nucho donde elegir."
 
 # game/game_script.rpy:3145
 translate spanish game_script_aeedfacb:
 
     # "The hell with it."
-    ""
+    "A la mierda."
 
 # game/game_script.rpy:3146
 translate spanish game_script_0ba841dd:
 
     # "I have to try."
-    ""
+    "Voy a tirar una."
 
 # game/game_script.rpy:3147
 translate spanish game_script_a5e8d1c4_2:
 
     # "I take a deep breath."
-    ""
+    "Respiro hondo."
 
 # game/game_script.rpy:3148
 translate spanish game_script_57fcdf25:
 
     # "I just...{w}have to be careful."
-    ""
+    "Tengo que... {w}tener cuidado."
 
 # game/game_script.rpy:3149
 translate spanish game_script_f6883467:
 
     # "I throw it with enough force to make a loud bang."
-    ""
+    "Tiro la piedra con la fuerza suficiente como para hacer bastante ruido."
 
 # game/game_script.rpy:3150
 translate spanish game_script_b7535dc3:
 
     # "Too loud."
-    ""
+    "Mierda, demasiado ruido."
 
 # game/game_script.rpy:3151
 translate spanish game_script_a20cefa7_8:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:3152
 translate spanish game_script_9850f53c_1:
 
     # "Nothing."
-    ""
+    "Nada."
 
 # game/game_script.rpy:3153
 translate spanish game_script_e502b171:
 
     # "Crap. I thought that was gonna do at least {i}something.{/i}"
-    ""
+    "Joder, pensaba que tanto ruido iba a valer de algo..."
 
 # game/game_script.rpy:3154
 translate spanish game_script_21b41651:
 
     # "As soon as I begin to doubt this is going to work, I see some movement from behind the curtains."
-    ""
+    "Cuando empiezo a pensar en el dudoso acierto de haber tirado una piedra con fuerza a una ventana, veo algo moverse a través de las cortinas."
 
 # game/game_script.rpy:3155
 translate spanish game_script_7352a287:
