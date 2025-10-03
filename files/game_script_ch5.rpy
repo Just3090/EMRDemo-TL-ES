@@ -1466,145 +1466,145 @@ translate spanish game_script_33229008:
 translate spanish game_script_e42d993d:
 
     # "Natsuki disappears out of view for two, maybe three agonizing minutes."
-    ""
+    "Natsuki desaparece de mi vista durante un par o tres de agonizantes minutos."
 
 # game/game_script.rpy:3203
 translate spanish game_script_ae4fd58c:
 
     # "When she returns, she’s carrying two large lengths of cloth, bound together at the middle."
-    ""
+    "Cuando vuelve, lleva a cuestas dos grandes trozos de tela atados por la mitad."
 
 # game/game_script.rpy:3206
 translate spanish game_script_862cb660:
 
     # "She launches one end out of the window, and starts tying the other to the window railing."
-    ""
+    "Uno de los extremos lo lanza por la ventana y el otro lo anuda a la barandilla."
 
 # game/game_script.rpy:3208
 translate spanish game_script_84aebf87:
 
     # mc "Natsuki, I don’t think I’m gonna be able to---{w=0.3}{nw}"
-    mc ""
+    mc "Oye, Natsuki, no creo que pue...{w=0.3}{nw}"
 
 # game/game_script.rpy:3213
 translate spanish game_script_e9109b78:
 
     # n "We can’t use the stairs, they creak a ton."
-    n ""
+    n "Si piensas en subir por las escaleras, ni de coña. Crujen mucho al pisarlas."
 
 # game/game_script.rpy:3214
 translate spanish game_script_015c6589:
 
     # n "And I haven’t got any better ideas..."
-    n ""
+    n "No tengo más formas de que subas, solo esta."
 
 # game/game_script.rpy:3216
 translate spanish game_script_8ce61eb8_1:
 
     # "I nod."
-    ""
+    "Asiento."
 
 # game/game_script.rpy:3218
 translate spanish game_script_c0052b5c:
 
     # mc "Okay, okay."
-    mc ""
+    mc "Vale, vale."
 
 # game/game_script.rpy:3219
 translate spanish game_script_4b3f904e:
 
     # mc "Just give me a second."
-    mc ""
+    mc "Dame un momento."
 
 # game/game_script.rpy:3221
 translate spanish game_script_4dcf4ab7_1:
 
     # "Here we go."
-    ""
+    "Al lío."
 
 # game/game_script.rpy:3227
 translate spanish game_script_240ef7b0:
 
     # "I grab hold of the bedsheets with both hands, before stopping and preparing myself."
-    ""
+    "Cojo lo que parecen sábanas con ambas manos y me mentalizo."
 
 # game/game_script.rpy:3228
 translate spanish game_script_e468b3df:
 
     # "I look left and right, scanning the street for any car lights."
-    ""
+    "Miro a izquierda y derecha con la intención de evitar las luces de los coches."
 
 # game/game_script.rpy:3229
 translate spanish game_script_1b48f6db:
 
     # "None that I see coming."
-    ""
+    "Y no veo ninguna. Todo permanece a oscuras."
 
 # game/game_script.rpy:3230
 translate spanish game_script_b1b028de:
 
     # "Now’s my chance."
-    ""
+    "Es ahora o nunca."
 
 # game/game_script.rpy:3231
 translate spanish game_script_a43a0e39:
 
     # "I lift my right leg to prop it against the wall, and I adjust my grip, pulling myself up a little."
-    ""
+    "Levanto la pierna derecha, ajusto mi agarre y me impulso un poco."
 
 # game/game_script.rpy:3232
 translate spanish game_script_5ed4a5f5:
 
     # "My hands are starting to ache already."
-    ""
+    "Empiezo a sentir dolor en las manos."
 
 # game/game_script.rpy:3233
 translate spanish game_script_38f74e47:
 
     # "I pull again, this time stepping up with my left."
-    ""
+    "Vuelvo a impulsarme, esta vez con la pierna izquierda."
 
 # game/game_script.rpy:3234
 translate spanish game_script_c7e0fc7e:
 
     # "I quickly get into the pattern."
-    ""
+    "Se trata de repetir el mismo patrón de movimientos."
 
 # game/game_script.rpy:3239
 translate spanish game_script_a1bda7b6:
 
     # "Right. Up. Left. Up."
-    ""
+    "Derecha. Arriba. Izquierda. Arriba."
 
 # game/game_script.rpy:3240
 translate spanish game_script_a1bda7b6_1:
 
     # "Right. Up. Left. Up."
-    ""
+    "Derecha. Arriba. Izquierda. Arriba de nuevo."
 
 # game/game_script.rpy:3241
 translate spanish game_script_275e7943:
 
     # "Looking down, I realize I’m already most of the way there."
-    ""
+    "Cuando miro abajo, me doy cuenta de cuánto he subido."
 
 # game/game_script.rpy:3242
 translate spanish game_script_1977d11d:
 
     # "I clench my eyes shut, trying not to focus on the pain in my hands."
-    ""
+    "Cierro los ojos con fuerza y trato de no pensar en que me duelen las manos."
 
 # game/game_script.rpy:3247
 translate spanish game_script_a506b149:
 
     # "After a couple more tugs, I reach the top."
-    ""
+    "Tras un par de empujones más, he llegado arriba."
 
 # game/game_script.rpy:3248
 translate spanish game_script_8d732469:
 
     # "Now, to get over the railing."
-    ""
+    "Muy bien, ahora toca saltar la barandilla."
 
 # game/game_script.rpy:3254
 translate spanish game_script_95712abc:
