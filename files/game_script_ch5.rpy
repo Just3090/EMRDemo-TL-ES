@@ -116,7 +116,7 @@ translate spanish game_script_9a66390d:
 translate spanish game_script_97d9b5ff:
 
     # y mk n4 "And...{w}I-I really..."
-    y mk n4 "Y no me...,"
+    y mk n4 "Y no me..."
 
 # game/game_script.rpy:2834
 translate spanish game_script_3e1e8c8f:
@@ -134,7 +134,7 @@ translate spanish game_script_a73999a0:
 translate spanish game_script_09344f33:
 
     # "I...{w}didn’t expect that to happen."
-    "esperaba que pasase esto."
+    "No...{w} esperaba que pasase esto."
 
 # game/game_script.rpy:2837
 translate spanish game_script_01cd6be1:
@@ -308,7 +308,7 @@ translate spanish game_script_b681c607:
 translate spanish game_script_f3b5f75f:
 
     # y "...Go ahead."
-    y "Dispara."
+    y "D-Dispara."
 
 # game/game_script.rpy:2887
 translate spanish game_script_8488eb7a:

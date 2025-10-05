@@ -1604,7 +1604,7 @@ translate spanish game_script_33c94c99:
 translate spanish game_script_0adf4c2a:
 
     # "I notice Sayori giving a quick goodbye to Monika, before following through the door."
-    "Me percato de Sayori, que se despide de Monika rápidamente, antes de echar un vistazo a la puerta."
+    "Me percato de Sayori, que se despide de Monika rápidamente, antes de irse por la puerta."
 
 # game/game_script.rpy:2690
 translate spanish game_script_5596d704:
@@ -1958,7 +1958,7 @@ translate spanish game_script_94e36cc2:
 translate spanish game_script_3b147734:
 
     # "Her face then burns bright red, her mouth trying to spit something out but not quite managing to do so."
-    "Su cara cambia a un color rojo chillón mientras que su boca trata de soltar algo pero lucha para no hacerlo."
+    "Su cara cambia a un color rojo chillón mientras que su boca trata de soltar algo... pero lucha al mismo tiempo para no hacerlo."
 
 # game/game_script.rpy:2789
 translate spanish game_script_5dc0d783:
