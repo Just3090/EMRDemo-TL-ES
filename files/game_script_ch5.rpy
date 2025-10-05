@@ -710,7 +710,7 @@ translate spanish game_script_a893c9e0:
 translate spanish game_script_a596cef2:
 
     # mc "Well, this is my place."
-    mc "Pues nada, aquí me bajo yo."
+    mc "Pues nada, hemos llegado a mi humilde morada."
 
 # game/game_script.rpy:3009
 translate spanish game_script_df96ec0a:
