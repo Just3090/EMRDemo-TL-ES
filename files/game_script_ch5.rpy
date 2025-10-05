@@ -1742,7 +1742,7 @@ translate spanish game_script_4b7d6436:
 translate spanish game_script_44f3b580:
 
     # "I walk over to help, but feel something crinkle under my foot."
-    "Trato de ayudarla, pero siento que algo cruje bajo mi pie."
+    "Al ir a ayudarla, siento que algo cruje bajo mi pie."
 
 # game/game_script.rpy:3297
 translate spanish game_script_67aaa788:
@@ -1754,73 +1754,73 @@ translate spanish game_script_67aaa788:
 translate spanish game_script_6322e3c6:
 
     # "It’s...a book binding......{w} from Parfait Girls."
-    ""
+    "Es el encuadernado de un libro... {w} y pone Parfait Girls."
 
 # game/game_script.rpy:3299
 translate spanish game_script_e46ba377:
 
     # "Oh {i}Jesus{/i}..."
-    ""
+    "Jo{w}der..."
 
 # game/game_script.rpy:3300
 translate spanish game_script_a3702147:
 
     # "Torn crinkled pages are scattered across the floor."
-    ""
+    "Hay un montón de páginas arrugadas y rotas esparcidas por el suelo."
 
 # game/game_script.rpy:3301
 translate spanish game_script_d2f8b50e:
 
     # "Some covers are intact, but horribly bent and creased."
-    ""
+    "Algunas parecen no estar rotas, pero sí arrugadas y bastante dobladas."
 
 # game/game_script.rpy:3302
 translate spanish game_script_bb84df28:
 
     # "My heart wrenches."
-    ""
+    "Me parte el corazón ver esto..."
 
 # game/game_script.rpy:3303
 translate spanish game_script_7f49c3e5:
 
     # "The books that we read the first time we really talked."
-    ""
+    "Los libros que leíamos la primera vez que pudimos hablar de verdad...,"
 
 # game/game_script.rpy:3304
 translate spanish game_script_e12a50c0:
 
     # "Gone."
-    ""
+    "se han ido."
 
 # game/game_script.rpy:3305
 translate spanish game_script_6a20a80d:
 
     # "I shake my head."
-    ""
+    "Niego con la cabeza."
 
 # game/game_script.rpy:3306
 translate spanish game_script_d3932f00:
 
     # "Help now, worry later."
-    ""
+    "Lo primero es lo primero, ya habrá tiempo de preocuparse."
 
 # game/game_script.rpy:3307
 translate spanish game_script_7e9944af:
 
     # "As I join Natsuki to pack clothes with her, something catches my attention."
-    ""
+    "Vuelvo a intentar ayudarla cuando me fijo en algo."
 
 # game/game_script.rpy:3308
 translate spanish game_script_6d30ff4e:
 
     # "Her school blazer, ripped at the sleeve."
-    ""
+    "La chaqueta del instituto... con las mangas arrancadas."
 
 # game/game_script.rpy:3309
 translate spanish game_script_7112e96e:
 
     # "Just like everything else, broken."
-    ""
+    "Como absolutamente todo, roto."
 
 # game/game_script.rpy:3310
 translate spanish game_script_b0f0b8e7:
