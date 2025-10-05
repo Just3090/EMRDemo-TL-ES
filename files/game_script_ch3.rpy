@@ -632,7 +632,7 @@ translate spanish game_script_00314fc2:
 translate spanish game_script_0d0f2bf8:
 
     # "She flinches slightly at first, but then reciprocates, gripping me firmly."
-    "Al principio no quería, pero acaba cediendo y se me agarra con firmeza."
+    "Al principio no quería, pero acaba cediendo y me agarra con firmeza."
 
 # game/game_script.rpy:1560
 translate spanish game_script_4a7fbabe:
@@ -842,13 +842,13 @@ translate spanish game_script_ecc93fc8:
 translate spanish game_script_64567b68:
 
     # n "He would never let me go."
-    n "Suma a eso que no me dejaría irme."
+    n "Mi padre no me dejaría irme."
 
 # game/game_script.rpy:1670
 translate spanish game_script_848b1c13:
 
     # n "{cps=8}He'll {i}never{i} let me go.{/cps}"
-    n "{cps=8}Es que {i}no{i} me deja irme.{/cps}"
+    n "{cps=8}{i}No{i} me deja irme.{/cps}"
 
 # game/game_script.rpy:1675
 translate spanish game_script_59637adf:
