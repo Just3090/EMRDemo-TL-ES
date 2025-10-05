@@ -1820,178 +1820,178 @@ translate spanish game_script_6d30ff4e:
 translate spanish game_script_7112e96e:
 
     # "Just like everything else, broken."
-    "Como absolutamente todo, roto."
+    "Como absolutamente todo: roto."
 
 # game/game_script.rpy:3310
 translate spanish game_script_b0f0b8e7:
 
     # "I toss it in regardless, and start zipping up the suitcase, being as quiet as I can."
-    ""
+    "Cojo la chaqueta y la echo en la maleta igualmente. Después, trato de cerrarla lo más silenciosamente posible."
 
 # game/game_script.rpy:3312
 translate spanish game_script_8a8167e2:
 
     # "Natsuki glances across her room and sighs."
-    ""
+    "Natsuki echa un vistazo a la habitación y suspira."
 
 # game/game_script.rpy:3314
 translate spanish game_script_a9dd1fe1:
 
     # "She gives me an \"okay\" sign."
-    ""
+    "Me hace un gesto de 'vale', indicando que ya está lista."
 
 # game/game_script.rpy:3315
 translate spanish game_script_04d91d57:
 
     # "I nod and peer out the window."
-    ""
+    "Asiento y me asomo por la ventana."
 
 # game/game_script.rpy:3318
 translate spanish game_script_a0749709:
 
     # "Her bag isn’t light...and that’s a long way down."
-    ""
+    "Su maleta pesa un quintal... y queda un buen trecho hasta mi casa."
 
 # game/game_script.rpy:3319
 translate spanish game_script_31c63a0e:
 
     # "My shoulders hurt just thinking about it."
-    ""
+    "Me duelen los hombros solo de pensarlo."
 
 # game/game_script.rpy:3320
 translate spanish game_script_633fc4ce:
 
     # "I look at Nat, then down to the ground."
-    ""
+    "Miro a Nat y miro al suelo."
 
 # game/game_script.rpy:3321
 translate spanish game_script_a7a4574a:
 
     # "She frowns for a moment...{w}then quickly picks up a bed pillow, tossing it out the window."
-    ""
+    "Frunce el ceño por un instante...{w} y coge una almohada y la lanza por la ventana."
 
 # game/game_script.rpy:3322
 translate spanish game_script_2c25a950:
 
     # "It’s a sizable one too..."
-    ""
+    "Es una almohada grandecita."
 
 # game/game_script.rpy:3323
 translate spanish game_script_94004a03_1:
 
     # "Oh."
-    ""
+    "Espera."
 
 # game/game_script.rpy:3324
 translate spanish game_script_6b2ed1a3:
 
     # "Oh Nat, you genius."
-    ""
+    "¡Ya lo entiendo! ¡Eres muy lista, Nat!"
 
 # game/game_script.rpy:3325
 translate spanish game_script_376acc73:
 
     # "I put the bag on the sill, looking for the pillow."
-    ""
+    "Apoyo la mochila en el alféizar buscando dónde ha caído la almohada."
 
 # game/game_script.rpy:3326
 translate spanish game_script_5223cdb3:
 
     # "{i}Not too far from the sidewalk...{/i}"
-    ""
+    "No está muy lejos de la acera..."
 
 # game/game_script.rpy:3327
 translate spanish game_script_050a854b:
 
     # "If it lands on the concrete..."
-    ""
+    "Como caiga en la carretera..."
 
 # game/game_script.rpy:3328
 translate spanish game_script_0a6d6d28:
 
     # "I don’t think about it."
-    ""
+    "Trato de no pensar en ello."
 
 # game/game_script.rpy:3329
 translate spanish game_script_493fc1a7:
 
     # "I take a second to aim and...{w}drop it."
-    ""
+    "Tras un rato apuntando a la almohada...{w} tiro la maleta."
 
 # game/game_script.rpy:3330
 translate spanish game_script_ccb7a8c2:
 
     # "It seems to fall in slow-motion."
-    ""
+    "Parece caer a cámara lenta...,"
 
 # game/game_script.rpy:3331
 translate spanish game_script_6b14ecb2:
 
     # "...or at least that’s how it feels."
-    ""
+    "o así lo siento yo."
 
 # game/game_script.rpy:3332
 translate spanish game_script_25d8b99f:
 
     # "But it lands on the pillow."
-    ""
+    "Ha caído en la almohada."
 
 # game/game_script.rpy:3333
 translate spanish game_script_122f19c2:
 
     # "I breathe a sigh of relief."
-    ""
+    "Profiero un suspiro de alivio."
 
 # game/game_script.rpy:3334
 translate spanish game_script_1c4fa519:
 
     # "I motion Natsuki to go."
-    ""
+    "Señalo la ventana a Natsuki."
 
 # game/game_script.rpy:3346
 translate spanish game_script_0965678c:
 
     # "She looks worried, but walks over and grips the makeshift bedsheet rope."
-    ""
+    "Parece preocupada, pero se acerca y coge la cuerda improvisada de sábanas."
 
 # game/game_script.rpy:3347
 translate spanish game_script_85d869bc:
 
     # "She takes a last look at her room and her eyes water up."
-    ""
+    "Echa un último vistazo a su habitación y sus ojos se humedecen."
 
 # game/game_script.rpy:3348
 translate spanish game_script_b88ae854:
 
     # "I feel terrible. She has to leave everything in here."
-    ""
+    "Me siento fatal. Ha de dejar todo aquí."
 
 # game/game_script.rpy:3349
 translate spanish game_script_10183443:
 
     # "But it’s for the best."
-    ""
+    "Pero es por su bienestar."
 
 # game/game_script.rpy:3354
 translate spanish game_script_baca7dc0:
 
     # "She nods and descends."
-    ""
+    "Asiente y comienza a descender."
 
 # game/game_script.rpy:3359
 translate spanish game_script_75423e3e:
 
     # "I keep a hand on the bedsheet for safety."
-    ""
+    "Aguanto la cuerda improvisada por si las moscas."
 
 # game/game_script.rpy:3364
 translate spanish game_script_ecf8a68e:
 
     # "A minute goes by before I feel a tug."
-    ""
+    "Pasa un minuto entero antes de sentir un tirón."
 
 # game/game_script.rpy:3369
 translate spanish game_script_f0fbed8e:
 
     # "She’s made it."
-    ""
+    "Lo ha conseguido. Ha bajado con éxito."
