@@ -770,7 +770,7 @@ translate spanish game_script_80b6ae8c:
 translate spanish game_script_4e1884a9:
 
     # s "O-Oh, [player]!"
-    s "¡A-ay, [player]!"
+    s "¡A-Ay, [player]!"
 
 # game/game_script.rpy:2352
 translate spanish game_script_d21a4d26:
@@ -1010,7 +1010,7 @@ translate spanish game_script_e612037c:
 translate spanish game_script_c89156ed:
 
     # "She stops mid-sentence and blinks."
-    "Se para ella misma mientras parpadea."
+    "Se detiene a mitad de la frase y parpadea."
 
 # game/game_script.rpy:2464
 translate spanish game_script_8e62db32:
@@ -1526,13 +1526,13 @@ translate spanish game_script_ab1c4210:
 translate spanish game_script_c32452f3:
 
     # n "But I needed to s-"
-    n "Pero necesitaba..."
+    n "Pero tendría que..."
 
 # game/game_script.rpy:2662
 translate spanish game_script_3f18a4eb:
 
     # n "I needed to..."
-    n "Necesitaba..."
+    n "Tendría que..."
 
 # game/game_script.rpy:2664
 translate spanish game_script_98aaaab2:
@@ -1544,19 +1544,19 @@ translate spanish game_script_98aaaab2:
 translate spanish game_script_3f18a4eb_1:
 
     # n "I needed to..."
-    n "Necesitaba..."
+    n "Tendría que..."
 
 # game/game_script.rpy:2668
 translate spanish game_script_13b512b3:
 
     # n "...leave a few minutes ago."
-    n "irme hace unos minutos."
+    n "haberme ido hace ya unos minutos."
 
 # game/game_script.rpy:2670
 translate spanish game_script_996d6e17:
 
     # n "You’ll be...{w}over later?"
-    n "¿Vendrás...{w} después?"
+    n "¿Vendrás a mi casa...{w} después?"
 
 # game/game_script.rpy:2672
 translate spanish game_script_3fe582e5:
