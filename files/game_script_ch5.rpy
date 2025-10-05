@@ -1610,145 +1610,145 @@ translate spanish game_script_8d732469:
 translate spanish game_script_95712abc:
 
     # "I haul my left leg up and over the railing, managing to get it inside."
-    ""
+    "Levanto la pierna izquierda por encima tratando de dejarla dentro."
 
 # game/game_script.rpy:3255
 translate spanish game_script_3a1aceae:
 
     # "I’m now most of the way through."
-    ""
+    "Ya casi lo tengo..."
 
 # game/game_script.rpy:3256
 translate spanish game_script_19663251:
 
     # "Straightening myself out so I’m now sitting upright in the middle of the window, I pull my right leg over too."
-    ""
+    "Trato de enderezarme para quedarme sentado en la barandilla, lo que hace que pueda levantar la pierna derecha y meterla dentro también."
 
 # game/game_script.rpy:3263
 translate spanish game_script_1c14201e:
 
     # "And like that, I’m inside Natsuki’s room."
-    ""
+    "Y así, estoy dentro de su habitación."
 
 # game/game_script.rpy:3268
 translate spanish game_script_f34ed511:
 
     # "My arms and shoulders ache like hell, but I did it."
-    ""
+    "Me duele hasta el alma, pero... qué cojones, lo he conseguido."
 
 # game/game_script.rpy:3269
 translate spanish game_script_29a00425:
 
     # "I get a good look at Natsuki."
-    ""
+    "Le echo un vistazo a Natsuki."
 
 # game/game_script.rpy:3272
 translate spanish game_script_1687cf73_1:
 
     # mc "Oh my God..."
-    mc ""
+    mc "Me cago en..."
 
 # game/game_script.rpy:3275
 translate spanish game_script_cdece66e:
 
     # n "Shh!!"
-    n ""
+    n "¡Shhh!"
 
 # game/game_script.rpy:3276
 translate spanish game_script_e6e80650:
 
     # n "It’s...{w} not as bad as it looks."
-    n ""
+    n "No...{w} no duele tanto. Por fuera parece peor."
 
 # game/game_script.rpy:3277
 translate spanish game_script_b6f32797:
 
     # n ff uniform2 lhip e1a b1b mg z1 x1 "Let’s just focus on getting out of here, okay?"
-    n ff uniform2 lhip e1a b1b mg z1 x1 ""
+    n ff uniform2 lhip e1a b1b mg z1 x1 "Centrémonos en largarnos de aquí, ¿vale?"
 
 # game/game_script.rpy:3279
 translate spanish game_script_77afd32e:
 
     # mc "O-okay..."
-    mc ""
+    mc "C-Claro..."
 
 # game/game_script.rpy:3281
 translate spanish game_script_67c1c9a4:
 
     # "She looks like she’s been kicked in the face."
-    ""
+    "Parece como si le hubiesen pegado un rodillazo en la cara."
 
 # game/game_script.rpy:3282
 translate spanish game_script_6b575e8d:
 
     # "The blood from her nose looks dry. She hasn’t been able to clean herself up."
-    ""
+    "A juzgar por la sangre seca que emana de su nariz, no ha podido limpiársela."
 
 # game/game_script.rpy:3283
 translate spanish game_script_9f0a2ead:
 
     # "Jesus..."
-    ""
+    "Dios..."
 
 # game/game_script.rpy:3284
 translate spanish game_script_f891418b:
 
     # "A seething anger boils up within me, but I choke it down."
-    ""
+    "Me hierve la sangre ahora mismo, pero trato de relajarme."
 
 # game/game_script.rpy:3285
 translate spanish game_script_e74a7c35:
 
     # "I just want to hold her and tell her it’s going to be okay."
-    ""
+    "Lo único que quiero ahora mismo es abrazarla y decirle que todo va a ir bien."
 
 # game/game_script.rpy:3286
 translate spanish game_script_4489885e:
 
     # "I try to focus myself between my worry and physical pain."
-    ""
+    "Trato de focalizarme a pesar de mi preocupación y mi dolor físico."
 
 # game/game_script.rpy:3288
 translate spanish game_script_74d24aa9:
 
     # "Natsuki looks at me with pleading eyes."
-    ""
+    "Natsuki me mira como si me estuviese suplicando."
 
 # game/game_script.rpy:3290
 translate spanish game_script_80740bdd:
 
     # "Getting out of here. Right."
-    ""
+    "Salir de aquí. Ya."
 
 # game/game_script.rpy:3291
 translate spanish game_script_86677404:
 
     # "I motion towards Natsuki’s bed, where her suitcase lays open."
-    ""
+    "Hago un gesto hacia su cama, que tiene una maleta abierta."
 
 # game/game_script.rpy:3292
 translate spanish game_script_ca96959a:
 
     # "It’s mostly packed, but there’s more clothes on the bed."
-    ""
+    "Está casi hecha, pero aún queda ropa fuera."
 
 # game/game_script.rpy:3293
 translate spanish game_script_4b7d6436:
 
     # "She nods and starts throwing more in."
-    ""
+    "Natsuki asiente y empieza a guardarla."
 
 # game/game_script.rpy:3296
 translate spanish game_script_44f3b580:
 
     # "I walk over to help, but feel something crinkle under my foot."
-    ""
+    "Trato de ayudarla, pero siento que algo cruje bajo mi pie."
 
 # game/game_script.rpy:3297
 translate spanish game_script_67aaa788:
 
     # "What?"
-    ""
+    "Pero, ¿qué...?"
 
 # game/game_script.rpy:3298
 translate spanish game_script_6322e3c6:
