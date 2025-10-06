@@ -2,49 +2,49 @@
 translate spanish game_script_cec6b568:
 
     # "I peer out the window."
-    ""
+    "Me asomo por la ventana."
 
 # game/game_script.rpy:3375
 translate spanish game_script_422d1f55:
 
     # "Car."
-    ""
+    "Mierda, un coche."
 
 # game/game_script.rpy:3382
 translate spanish game_script_e81c4126:
 
     # "I duck back into the window, seeing Natsuki take cover behind the wall."
-    ""
+    "Me tumbo en el suelo de la habitación cuando veo a Natsuki cubrirse tras una pared."
 
 # game/game_script.rpy:3383
 translate spanish game_script_143be163:
 
     # "It comes closer..."
-    ""
+    "Se acerca...,"
 
 # game/game_script.rpy:3395
 translate spanish game_script_69e369fb:
 
     # "And passes by without incident."
-    ""
+    "y se aleja sin causar problemas."
 
 # game/game_script.rpy:3401
 translate spanish game_script_9bc622b5_1:
 
     # "Jesus Christ."
-    ""
+    "Dios mío."
 
 # game/game_script.rpy:3402
 translate spanish game_script_a5e8d1c4_3:
 
     # "I take a deep breath."
-    ""
+    "Respiro profundamente."
 
 # game/game_script.rpy:3407
 translate spanish game_script_4cef9c91:
 
     # "Back to amateur rappelling."
-    ""
+    "Pues nada, a seguir haciendo rapel amateur."
 
 # game/game_script.rpy:3412
 translate spanish game_script_0849431d:

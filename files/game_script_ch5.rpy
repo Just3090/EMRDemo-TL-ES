@@ -1862,7 +1862,7 @@ translate spanish game_script_31c63a0e:
 translate spanish game_script_633fc4ce:
 
     # "I look at Nat, then down to the ground."
-    "Miro a Nat y miro al suelo."
+    "Miro a Nat y después al suelo de la calle."
 
 # game/game_script.rpy:3321
 translate spanish game_script_a7a4574a:
