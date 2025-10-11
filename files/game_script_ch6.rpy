@@ -44,7 +44,7 @@ translate spanish game_script_a5e8d1c4_3:
 translate spanish game_script_4cef9c91:
 
     # "Back to amateur rappelling."
-    "Pues nada, a seguir haciendo rapel amateur."
+    "De vuelta al rapel amateur."
 
 # game/game_script.rpy:3412
 translate spanish game_script_0849431d:
