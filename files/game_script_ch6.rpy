@@ -14,7 +14,7 @@ translate spanish game_script_422d1f55:
 translate spanish game_script_e81c4126:
 
     # "I duck back into the window, seeing Natsuki take cover behind the wall."
-    "Me tumbo en el suelo de la habitación cuando veo a Natsuki cubrirse tras una pared."
+    "Me agacho cuando veo a Natsuki hacer lo mismo detrás de la pared"
 
 # game/game_script.rpy:3383
 translate spanish game_script_143be163:
