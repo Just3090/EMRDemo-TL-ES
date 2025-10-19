@@ -164,85 +164,85 @@ translate spanish game_script_b000e81d:
 translate spanish game_script_f760296b:
 
     # "Natsuki takes a couple of deep breaths and sighs before speaking."
-    ""
+    "Natsuki inspira y espira un par de veces antes de hablar."
 
 # game/game_script.rpy:3469
 translate spanish game_script_63bef60a:
 
     # n "O...{w}okay..."
-    n ""
+    n "V...{w} Vale..."
 
 # game/game_script.rpy:3472
 translate spanish game_script_ef6249c4:
 
     # "Her words wheeze out as her breathing settles."
-    ""
+    "Sus palabras flaquean mientras se va calmando su respiración."
 
 # game/game_script.rpy:3473
 translate spanish game_script_436e0046:
 
     # "She’s been through so much today."
-    ""
+    "Ha pasado por mucho hoy..."
 
 # game/game_script.rpy:3474
 translate spanish game_script_7bb3030c:
 
     # "I feel awful about her leaving her things behind..."
-    ""
+    "Y me sienta peor que haya tenido que dejarlo todo atrás."
 
 # game/game_script.rpy:3475
 translate spanish game_script_e56d2045:
 
     # "But she didn’t have much choice."
-    ""
+    "Aunque tampoco había mucho que hacer..."
 
 # game/game_script.rpy:3476
 translate spanish game_script_ba416127:
 
     # "At least the hard part is over with."
-    ""
+    "Lo más difícil ya está hecho."
 
 # game/game_script.rpy:3477
 translate spanish game_script_5e1f030f_1:
 
     # "She’s safe."
-    ""
+    "Está a salvo."
 
 # game/game_script.rpy:3479
 translate spanish game_script_935ce67f:
 
     # mc "Come on, I think I know the way back to my place from here."
-    mc ""
+    mc "Vamos, creo que sé por dónde se va a mi casa desde aquí."
 
 # game/game_script.rpy:3481
 translate spanish game_script_88db5725:
 
     # n "Will it take long?"
-    n ""
+    n "¿Tardaremos mucho?"
 
 # game/game_script.rpy:3483
 translate spanish game_script_5d49f273:
 
     # mc "It’ll be about half an hour ‘til we get there."
-    mc ""
+    mc "No más de media hora."
 
 # game/game_script.rpy:3485
 translate spanish game_script_15c7f2db:
 
     # n "A-Alright..."
-    n ""
+    n "A-Ah..."
 
 # game/game_script.rpy:3491
 translate spanish game_script_23dcb18f:
 
     # "It takes us nearly an hour to get back home."
-    ""
+    "Al final, tardamos casi una hora en volver."
 
 # game/game_script.rpy:3492
 translate spanish game_script_c3e383f8:
 
     # "An hour of silence, save for our exhausted panting, and the occasional wince whenever the stabbing pain in my shoulder spiked."
-    ""
+    "Casi una hora de silencio absoluto que se veía interrumpido por algún jadeo puntual y quejidos de dolor cada vez que el hombro me daba punzadas."
 
 # game/game_script.rpy:3493
 translate spanish game_script_a6d36649:
