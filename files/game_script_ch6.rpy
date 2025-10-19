@@ -14,7 +14,7 @@ translate spanish game_script_422d1f55:
 translate spanish game_script_e81c4126:
 
     # "I duck back into the window, seeing Natsuki take cover behind the wall."
-    "Me agacho cuando veo a Natsuki hacer lo mismo detrás de la pared"
+    "Me agacho cuando veo a Natsuki hacer lo mismo detrás de la pared."
 
 # game/game_script.rpy:3383
 translate spanish game_script_143be163:
@@ -50,115 +50,115 @@ translate spanish game_script_4cef9c91:
 translate spanish game_script_0849431d:
 
     # "I slowly inch my way down as I did before."
-    ""
+    "Empiezo a bajar lentamente, tal y como hice antes."
 
 # game/game_script.rpy:3413
 translate spanish game_script_9ccf321a:
 
     # "My arms are begging for mercy."
-    ""
+    "Mis brazos me suplican piedad en 10 idiomas distintos."
 
 # game/game_script.rpy:3414
 translate spanish game_script_c6ec4501:
 
     # "I’m so close, I can just abou--{nw}"
-    ""
+    "Ya casi..., me queda mu{nw}"
 
 # game/game_script.rpy:3418
 translate spanish game_script_a3013b85:
 
     # "{i}Shitshitsh{i}{nw}"
-    ""
+    "Mierdamierdami{nw}"
 
 # game/game_script.rpy:3432
 translate spanish game_script_0f300251:
 
     # "I land on the concrete, pain shooting up my side."
-    ""
+    "Caigo de pleno en la carretera mientras el dolor recorre todo mi cuerpo."
 
 # game/game_script.rpy:3433
 translate spanish game_script_a46cc9a6:
 
     # "The bedsheet rope piles on top of me. Seems like it came loose."
-    ""
+    "La cuerda improvisada de sábanas empieza a caer encima mía. Imagino que acabó cediendo por todo el lío que hemos montado."
 
 # game/game_script.rpy:3434
 translate spanish game_script_9668d282:
 
     # "Natsuki gasps."
-    ""
+    "Natsuki jadea."
 
 # game/game_script.rpy:3436
 translate spanish game_script_425100e7:
 
     # n "[player]! Are you okay?!"
-    n ""
+    n "¡[player]! ¡¿Estás bien!?"
 
 # game/game_script.rpy:3437
 translate spanish game_script_81e5ab4f:
 
     # mc "Yeah, I’m good..."
-    mc ""
+    mc "Sí, genial..."
 
 # game/game_script.rpy:3443
 translate spanish game_script_fb0d7f3d:
 
     # "Natsuki helps me up, grabbing the bedsheet and the pillow."
-    ""
+    "Natsuki me ayuda a levantarme y coge las sábanas y la almohada."
 
 # game/game_script.rpy:3444
 translate spanish game_script_e20f53d4:
 
     # "No sense in leaving any more traces, I suppose."
-    ""
+    "Así elimina todas las pruebas que queden de nuestra presencia."
 
 # game/game_script.rpy:3447
 translate spanish game_script_d127e6c4:
 
     # mc "Come on, we need to go."
-    mc ""
+    mc "Vamos, tenemos que largarnos ya de aquí."
 
 # game/game_script.rpy:3454
 translate spanish game_script_db11ee4f:
 
     # "I pick up her bag and sprint towards the bus stop."
-    ""
+    "Me cuelgo su mochila y corro hacia la parada de autobús."
 
 # game/game_script.rpy:3457
 translate spanish game_script_d0b575f4:
 
     # "As I move further down the street, I can help but notice a loud heaving behind me."
-    ""
+    "A medida que avanzo por la calle, no puedo evitar notar jadeos tras de mí."
 
 # game/game_script.rpy:3459
 translate spanish game_script_960a1316:
 
     # "I look back and sure enough, Natsuki’s struggling to keep up with my pace."
-    ""
+    "Miro hacia atrás y, efectivamente, Natsuki trata de seguir mi ritmo."
 
 # game/game_script.rpy:3460
 translate spanish game_script_a7264be6:
 
     # "We’re both in pretty rough shape."
-    ""
+    "Estamos en bastante mal estado."
 
 # game/game_script.rpy:3461
 translate spanish game_script_08629a00:
 
     # "I make sure she’s with me, though."
-    ""
+    "De rodas formas, me aseguro de que me siga."
 
 # game/game_script.rpy:3462
 translate spanish game_script_809c3366:
 
     # "We make it out of sight of the house before I stop and catch my breath."
-    ""
+    "Tal y como conseguimos alejarnos lo suficiente de la casa, paro de correr y recupero el aliento."
 
 # game/game_script.rpy:3466
 translate spanish game_script_b000e81d:
 
     # mc "We can walk the rest of the way. I think we’ll be alright."
-    mc ""
+    mc "Podemos dejar de correr si quieres, estamos a salvo."
 
 # game/game_script.rpy:3467
 translate spanish game_script_f760296b:
