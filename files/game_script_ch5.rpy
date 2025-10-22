@@ -8,7 +8,7 @@ translate spanish game_script_6f4a10cf:
 translate spanish game_script_7e19fd45:
 
     # y b1a mh e4a rup n1 "[player], I know. I’ve watched you two."
-    y b1a mh e4a rup n1 "Lo sé ya, [player]. Os he visto a los dos."
+    y b1a mh e4a rup n1 "Es un secreto a voces, [player]. Os he visto a los dos."
 
 # game/game_script.rpy:2805
 translate spanish game_script_afb407ab:
@@ -1400,7 +1400,7 @@ translate spanish game_script_e26a6062:
 translate spanish game_script_dd974313:
 
     # "She looks away for a moment."
-    "Mira a otro lado por un instante."
+    "Mira hacia otro lado por un instante."
 
 # game/game_script.rpy:3178
 translate spanish game_script_f20ba26d:
@@ -1466,7 +1466,7 @@ translate spanish game_script_33229008:
 translate spanish game_script_e42d993d:
 
     # "Natsuki disappears out of view for two, maybe three agonizing minutes."
-    "Natsuki desaparece de mi vista durante un par o tres de agonizantes minutos."
+    "Natsuki desaparece de mi vista durante un par o tres agonizantes minutos."
 
 # game/game_script.rpy:3203
 translate spanish game_script_ae4fd58c:
@@ -1490,7 +1490,7 @@ translate spanish game_script_84aebf87:
 translate spanish game_script_e9109b78:
 
     # n "We can’t use the stairs, they creak a ton."
-    n "Si piensas en subir por las escaleras, ni de coña. Crujen mucho al pisarlas."
+    n "Si piensas en subir por las escaleras, ni se te pase por la cabeza. Crujen mucho al pisarlas."
 
 # game/game_script.rpy:3214
 translate spanish game_script_015c6589:
@@ -1718,13 +1718,13 @@ translate spanish game_script_74d24aa9:
 translate spanish game_script_80740bdd:
 
     # "Getting out of here. Right."
-    "Salir de aquí. Ya."
+    "Salir de aquí. Ya, lo pillo."
 
 # game/game_script.rpy:3291
 translate spanish game_script_86677404:
 
     # "I motion towards Natsuki’s bed, where her suitcase lays open."
-    "Hago un gesto hacia su cama, que tiene una maleta abierta."
+    "Hago un gesto hacia su cama, en la que tiene una maleta abierta."
 
 # game/game_script.rpy:3292
 translate spanish game_script_ca96959a:
@@ -1820,7 +1820,7 @@ translate spanish game_script_6d30ff4e:
 translate spanish game_script_7112e96e:
 
     # "Just like everything else, broken."
-    "Como absolutamente todo: roto."
+    "Como absolutamente todo: {w}roto."
 
 # game/game_script.rpy:3310
 translate spanish game_script_b0f0b8e7:

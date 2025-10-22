@@ -146,7 +146,7 @@ translate spanish game_script_a7264be6:
 translate spanish game_script_08629a00:
 
     # "I make sure she’s with me, though."
-    "De rodas formas, me aseguro de que me siga."
+    "De todas formas, me aseguro de que me siga."
 
 # game/game_script.rpy:3462
 translate spanish game_script_809c3366:
@@ -242,7 +242,7 @@ translate spanish game_script_23dcb18f:
 translate spanish game_script_c3e383f8:
 
     # "An hour of silence, save for our exhausted panting, and the occasional wince whenever the stabbing pain in my shoulder spiked."
-    "Casi una hora de silencio absoluto que se veía interrumpido por algún jadeo puntual y quejidos de dolor cada vez que el hombro me daba punzadas."
+    "Casi una hora de silencio absoluto que se veía interrumpido por algún jadeo puntual y quejidos de dolor cada vez que el hombro me punzaba."
 
 # game/game_script.rpy:3493
 translate spanish game_script_a6d36649:
