@@ -236,445 +236,445 @@ translate spanish game_script_15c7f2db:
 translate spanish game_script_23dcb18f:
 
     # "It takes us nearly an hour to get back home."
-    "Al final, tardamos casi una hora en volver."
+    "En realidad, tardamos casi una hora en volver."
 
 # game/game_script.rpy:3492
 translate spanish game_script_c3e383f8:
 
     # "An hour of silence, save for our exhausted panting, and the occasional wince whenever the stabbing pain in my shoulder spiked."
-    "Casi una hora de silencio absoluto que se veía interrumpido por algún jadeo puntual y quejidos de dolor cada vez que el hombro me punzaba."
+    "Casi una hora de silencio absoluto que se veía interrumpido por algún jadeo puntual y ocasionales quejidos de dolor cada vez que el hombro me daba alguna punzada."
 
 # game/game_script.rpy:3493
 translate spanish game_script_a6d36649:
 
     # "With Natsuki as she was, we couldn’t take the bus."
-    ""
+    "Sabiendo cómo está Natsuki, coger un bus es la peor de las ideas."
 
 # game/game_script.rpy:3494
 translate spanish game_script_6d0d0d92:
 
     # "I remember the advice Yuri gave me and took more side-streets."
-    ""
+    "Se me vino a la cabeza lo que me dijo Yuri y nos metimos en callejones."
 
 # game/game_script.rpy:3495
 translate spanish game_script_336e8d2b:
 
     # "Blind spots."
-    ""
+    "Exacto, puntos ciegos."
 
 # game/game_script.rpy:3496
 translate spanish game_script_562d8020:
 
     # "If we were walking down main roads, someone could have seen Natsuki’s bruised face."
-    ""
+    "Si hubiésemos ido por las calles principales, estábamos más que seguros de que alguien hubiera visto las magulladuras de su cara."
 
 # game/game_script.rpy:3497
 translate spanish game_script_f0fb32d7:
 
     # "The downside being the hour of walking, of course."
-    ""
+    "La hora de caminata estaba desgraciadamente asegurada, claro está."
 
 # game/game_script.rpy:3498
 translate spanish game_script_8da4c972:
 
     # "Thankfully, we’re nearly there."
-    ""
+    "Por suerte, ya casi estamos."
 
 # game/game_script.rpy:3501
 translate spanish game_script_fd337298:
 
     # mc "It’s just a bit down the road."
-    mc ""
+    mc "Mi casa está un poquito más adelante."
 
 # game/game_script.rpy:3503
 translate spanish game_script_33c3158a:
 
     # n "Y-yeah, I remember."
-    n ""
+    n "L-Lo sé, t-tranquilo..."
 
 # game/game_script.rpy:3507
 translate spanish game_script_d9c915f3:
 
     # "Finally, I recognize the familiar view of my house."
-    ""
+    "Finalmente, consigo reconocer mi casa."
 
 # game/game_script.rpy:3508
 translate spanish game_script_aeefa1be:
 
     # "I fumble with my keys for a moment, before I frantically unlock the door."
-    ""
+    "Al llegar a la puerta, busco rápidamente mis llaves antes de abrirla de golpe."
 
 # game/game_script.rpy:3509
 translate spanish game_script_1e8a961e:
 
     # "I let Natsuki through."
-    ""
+    "Dejo pasar a Natsuki."
 
 # game/game_script.rpy:3510
 translate spanish game_script_5e1f030f_2:
 
     # "She’s safe."
-    ""
+    "Está a salvo."
 
 # game/game_script.rpy:3511
 translate spanish game_script_652ea841:
 
     # "{i}We’re safe.{/i}"
-    ""
+    "Mejor dicho, 'estamos' a salvo."
 
 # game/game_script.rpy:3514
 translate spanish game_script_eb0814ae:
 
     # "I set down Natsuki’s suitcase while the door gently closes behind me."
-    ""
+    "Suelto la maleta de Natsuki mientras que la puerta se cierra con cuidado."
 
 # game/game_script.rpy:3519
 translate spanish game_script_9dda2e8b:
 
     # "The motion makes me wince as the stinging pain in my shoulder sets in."
-    ""
+    "Al moverme, me estremezco del dolor. El hombro me está matando..."
 
 # game/game_script.rpy:3522
 translate spanish game_script_fb90d775:
 
     # n "[player], you okay?"
-    n ""
+    n "¿Estás bien, [player]?"
 
 # game/game_script.rpy:3524
 translate spanish game_script_7e3a6542:
 
     # mc "Yeah, just my arm’s a little-..."
-    mc ""
+    mc "No te preocupes, es que tengo el brazo un po..."
 
 # game/game_script.rpy:3526
 translate spanish game_script_52074245:
 
     # n "...I’m sorry, [player]."
-    n ""
+    n "Lo siento, [player]."
 
 # game/game_script.rpy:3528
 translate spanish game_script_3c267800:
 
     # mc "You don’t need to apologize, it’s over now."
-    mc ""
+    mc "No quiero que te disculpes, ya ha pasado todo."
 
 # game/game_script.rpy:3529
 translate spanish game_script_dbb5a627:
 
     # mc "Besides, we should probably focus on moving your stuff in..."
-    mc ""
+    mc "Aparte, deberíamos centrarnos en completar tu mudanza..."
 
 # game/game_script.rpy:3531
 translate spanish game_script_44b6de04:
 
     # "She nods, and wheels her suitcase down the hall, before stopping."
-    ""
+    "Asiente y recorre todo el pasillo con la maleta. De pronto, se detiene."
 
 # game/game_script.rpy:3534
 translate spanish game_script_ad3ae354:
 
     # n "Uhm...where do I..?"
-    n ""
+    n "Eh... ¿Dónde la...?"
 
 # game/game_script.rpy:3536
 translate spanish game_script_aaba303a:
 
     # mc "Spare room’s upstairs. First door on the left."
-    mc ""
+    mc "Habitación de invitados. Subiendo las escaleras, primera puerta que te encuentres a mano izquierda."
 
 # game/game_script.rpy:3537
 translate spanish game_script_63dcad17:
 
     # mc "Give me a second."
-    mc ""
+    mc "Un momento."
 
 # game/game_script.rpy:3539
 translate spanish game_script_dc43fc5d:
 
     # "I take the suitcase from her and haul it up the stairs."
-    ""
+    "Le quito la maleta y la cargo escaleras arriba."
 
 # game/game_script.rpy:3540
 translate spanish game_script_cf5b2597:
 
     # "Ow."
-    ""
+    "Ay."
 
 # game/game_script.rpy:3541
 translate spanish game_script_163d3e13:
 
     # "Natsuki follows me, albeit a few steps behind."
-    ""
+    "Natsuki me sigue a unos pasos detrás de mí."
 
 # game/game_script.rpy:3542
 translate spanish game_script_84564eb2:
 
     # "She’s fidgeting with her arm, looking away from me, as though she’s nervous."
-    ""
+    "Está jugueteando con su brazo y apartándome la mirada. Imagino que estará nerviosa."
 
 # game/game_script.rpy:3543
 translate spanish game_script_b8aeab14:
 
     # "I mean, who the hell wouldn’t be in this situation?"
-    ""
+    "A ver, ¿quién no estaría así en esta situación?"
 
 # game/game_script.rpy:3545
 translate spanish game_script_7dfbdd80:
 
     # "Once I’ve reached the top, I take it down the hall and open the door to the spare room with my free hand."
-    ""
+    "Una vez arriba, bajo la maleta al suelo y abro la puerta de la habitación de invitados con la mano que tengo libre."
 
 # game/game_script.rpy:3548
 translate spanish game_script_53cb79bc:
 
     # n "Okay, in the drawers, right?"
-    n ""
+    n "Dejo todo en los cajones, ¿no?"
 
 # game/game_script.rpy:3550
 translate spanish game_script_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Claro."
 
 # game/game_script.rpy:3552
 translate spanish game_script_02b4793d:
 
     # "Natsuki pauses at the doorway."
-    ""
+    "Natsuki se queda quieta en la puerta."
 
 # game/game_script.rpy:3554
 translate spanish game_script_2ed83991:
 
     # mc "Something wrong?"
-    mc ""
+    mc "¿Pasa algo?"
 
 # game/game_script.rpy:3556
 translate spanish game_script_90fee360:
 
     # n "It’s..."
-    n ""
+    n "Supongo que...,"
 
 # game/game_script.rpy:3557
 translate spanish game_script_7d8c575e:
 
     # n "Just...{w}shock, I guess."
-    n ""
+    n "es...{w} shock, digo yo."
 
 # game/game_script.rpy:3559
 translate spanish game_script_a5ee6449:
 
     # n "{i}This is my room now.{/i}"
-    n ""
+    n "En plan: 'mi habitación' es ahora este cuarto."
 
 # game/game_script.rpy:3560
 translate spanish game_script_c7fa33a9:
 
     # n "{i}I can’t go back.{/i}"
-    n ""
+    n "Y no puedo volver."
 
 # game/game_script.rpy:3563
 translate spanish game_script_e0dffbe2:
 
     # "I can’t imagine what she must be feeling right now."
-    ""
+    "No puedo imaginar lo que debe estar sintiendo..."
 
 # game/game_script.rpy:3564
 translate spanish game_script_685b1eba:
 
     # "No doubt, she will need time to adjust."
-    ""
+    "Está más que claro que va a necesitar tiempo para adaptarse a esto."
 
 # game/game_script.rpy:3565
 translate spanish game_script_2815d089:
 
     # "As will I."
-    ""
+    "Y yo también..."
 
 # game/game_script.rpy:3568
 translate spanish game_script_a28869be_2:
 
     # n "But..."
-    n ""
+    n "Aunque..."
 
 # game/game_script.rpy:3569
 translate spanish game_script_8ca87477:
 
     # n "I’m...{w}here."
-    n ""
+    n "Ya estoy...{w} aquí."
 
 # game/game_script.rpy:3571
 translate spanish game_script_93142da0:
 
     # n "With you."
-    n ""
+    n "Contigo."
 
 # game/game_script.rpy:3572
 translate spanish game_script_6009292e:
 
     # n "I haven’t felt this...{w}{i}safe{/i} in a long time."
-    n ""
+    n "No he sentido tanta seguridad en...{w} años."
 
 # game/game_script.rpy:3574
 translate spanish game_script_7de46e88:
 
     # n "[player]. Thank you."
-    n ""
+    n "Gracias, [player]."
 
 # game/game_script.rpy:3581
 translate spanish game_script_5255e524:
 
     # "She leans up and kisses me on the cheek."
-    ""
+    "Se inclina y me ds un beso en la mejilla."
 
 # game/game_script.rpy:3584
 translate spanish game_script_1af39105:
 
     # n "Now if you don’t mind, I’d prefer if you {i}didn’t{/i} stare at me changing."
-    n ""
+    n "Y ahora, si no te importa, me gustaría cambiarme de ropa sin que me estés viendo."
 
 # game/game_script.rpy:3586
 translate spanish game_script_712474b4:
 
     # mc "Ah, right. Sorry."
-    mc ""
+    mc "Ah, es verdad. Perdona."
 
 # game/game_script.rpy:3587
 translate spanish game_script_6c0cda5f:
 
     # mc "I’ll heat you up some soup or something. Come down whenever you’re ready."
-    mc ""
+    mc "Estaré abajo haciéndote algo para comer. Quizá sopa o algo. Cuando estés lista, vienes."
 
 # game/game_script.rpy:3588
 translate spanish game_script_1c9aea11:
 
     # mc "There's some tissue paper in the bathroom, so you can clean yourself up."
-    mc ""
+    mc "Hay papel higiénico en el baño, así que puedes limpiarte..."
 
 # game/game_script.rpy:3591
 translate spanish game_script_6ef544a2:
 
     # "She gives me a weak smile."
-    ""
+    "Esboza una débil sonrisa."
 
 # game/game_script.rpy:3594
 translate spanish game_script_093c6a2c:
 
     # n "Okay."
-    n ""
+    n "Claro."
 
 # game/game_script.rpy:3597
 translate spanish game_script_8837233b:
 
     # "Heading downstairs, I enter the kitchen and swing open one of the cupboards."
-    ""
+    "Bajando las escaleras, voy a la cocina y abro uno de los armarios."
 
 # game/game_script.rpy:3598
 translate spanish game_script_e6c35731:
 
     # "I pull out a can of chicken soup."
-    ""
+    "Saco una lata de sopa de pollo."
 
 # game/game_script.rpy:3599
 translate spanish game_script_fb070b17:
 
     # "This’ll have to do. I’ll hit the grocery store tomorrow and pick up some things."
-    ""
+    "Con esto tiraré. Mañana me acerco al súper y compro más cositas."
 
 # game/game_script.rpy:3603
 translate spanish game_script_a1eb042e:
 
     # "I put the soup in a plastic bowl and set the microwave."
-    ""
+    "Pongo el contenido de la lata en un bol de plástico y lo pongo en el microondas."
 
 # game/game_script.rpy:3604
 translate spanish game_script_c9fd4589:
 
     # "As I wait, I take a deep breath."
-    ""
+    "Mientras espero, respiro hondo."
 
 # game/game_script.rpy:3605
 translate spanish game_script_51cc5d6b:
 
     # "Strangely...I don’t feel anxious."
-    ""
+    "Parecerá raro, pero no me siento nervioso..."
 
 # game/game_script.rpy:3606
 translate spanish game_script_eb18f1af:
 
     # "By how my week has been going, my heart should be on the fritz right now."
-    ""
+    "Por cómo ha ido todo esta semana, mi corazón tendría que haber reventado ya."
 
 # game/game_script.rpy:3607
 translate spanish game_script_eb299c91:
 
     # "But I’m oddly calm."
-    ""
+    "Pero... estoy extrañamente calmado."
 
 # game/game_script.rpy:3608
 translate spanish game_script_b9bca3af:
 
     # "In fact...I even feel good."
-    ""
+    "De hecho, me siento genial."
 
 # game/game_script.rpy:3609
 translate spanish game_script_fca3f8e3:
 
     # "Despite my aching shoulder, I...got her out of that house."
-    ""
+    "Quitando el dolor punzante de mi hombro, la he sacado... la he sacado de esa casa."
 
 # game/game_script.rpy:3610
 translate spanish game_script_7eea6489:
 
     # "We planned it and pulled it off."
-    ""
+    "Todo salió tal cual se planeó."
 
 # game/game_script.rpy:3611
 translate spanish game_script_444ac360:
 
     # "There might be consequences later but..."
-    ""
+    "Podrán haber consecuencias más tarde, pero..."
 
 # game/game_script.rpy:3612
 translate spanish game_script_5af16fec:
 
     # "She’s here."
-    ""
+    "Natsuki está aquí."
 
 # game/game_script.rpy:3613
 translate spanish game_script_5e1f030f_3:
 
     # "She’s safe."
-    ""
+    "A salvo."
 
 # game/game_script.rpy:3614
 translate spanish game_script_326f17d4:
 
     # "We're sa-{nw}"
-    ""
+    "A sal{w}"
 
 # game/game_script.rpy:3618
 translate spanish game_script_f3b00d38:
 
     # mc "{i}Shit!{/i}"
-    mc ""
+    mc "¡MIERDA!"
 
 # game/game_script.rpy:3622
 translate spanish game_script_b388cf20:
 
     # "...It was the microwave."
-    ""
+    "El microondas..."
 
 # game/game_script.rpy:3623
 translate spanish game_script_dbfa0351:
 
     # "I don’t know how that managed to--{w=0.2}{nw}"
-    ""
+    "No tengo ni idea de cómo ha...{w=0.2}{nw}"
 
 # game/game_script.rpy:3626
 translate spanish game_script_48fc95e3_1:
 
     # n "[player]?"
-    n ""
+    n "¿[player]?"
 
 # game/game_script.rpy:3629
 translate spanish game_script_48a1c698:
