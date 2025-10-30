@@ -680,211 +680,211 @@ translate spanish game_script_48fc95e3_1:
 translate spanish game_script_48a1c698:
 
     # "Natsuki had made her way downstairs, and was now waiting at the door."
-    ""
+    "Al parecer Natsuki ya ha bajado las escaleras y está esperándome en la puerta."
 
 # game/game_script.rpy:3630
 translate spanish game_script_b1b245c8:
 
     # "She shoots me a concerned look."
-    ""
+    "Me mira con preocupación."
 
 # game/game_script.rpy:3633
 translate spanish game_script_cc226e8a:
 
     # n "You okay..?"
-    n ""
+    n "¿Todo guay...?"
 
 # game/game_script.rpy:3635
 translate spanish game_script_69c25b65_1:
 
     # mc "Yeah..."
-    mc ""
+    mc "Sí..."
 
 # game/game_script.rpy:3636
 translate spanish game_script_06cfc04e:
 
     # mc "Just got a little startled, is all."
-    mc ""
+    mc "Algo asustado, la verdad."
 
 # game/game_script.rpy:3638
 translate spanish game_script_185fd05d:
 
     # "We both share a sigh of relief."
-    ""
+    "Tanto ella como yo suspiramos de alivio."
 
 # game/game_script.rpy:3639
 translate spanish game_script_2fc76533:
 
     # "Standing there for a moment, we’re both dead silent."
-    ""
+    "Nos quedamos ahí embobados, en completo silencio, mirando a la nada."
 
 # game/game_script.rpy:3643
 translate spanish game_script_53175f7d:
 
     # mc "The...{w}your soup’s ready."
-    mc ""
+    mc "Tienes el...{w} la sopa lista."
 
 # game/game_script.rpy:3645
 translate spanish game_script_bbbb2d3b:
 
     # n "Okay..."
-    n ""
+    n "Claro..."
 
 # game/game_script.rpy:3646
 translate spanish game_script_527e1928:
 
     # n "Just..."
-    n ""
+    n "Pero trata de..."
 
 # game/game_script.rpy:3648
 translate spanish game_script_c3e07e06:
 
     # n "Try not to strain yourself too much."
-    n ""
+    n "Trata de no exigirte demasiado."
 
 # game/game_script.rpy:3650
 translate spanish game_script_3ba9ec0d:
 
     # n "It’s been a...{w}{i}rough{/i} day."
-    n ""
+    n "Hoy hemos tenido un día bastante duro."
 
 # game/game_script.rpy:3653
 translate spanish game_script_f7c62c6b:
 
     # "I can’t help but draw my attention back to her swollen eye."
-    ""
+    "Se me van los ojos hacia su ojo hinchado, es inevitable."
 
 # game/game_script.rpy:3655
 translate spanish game_script_8a15a937:
 
     # mc "For both of us."
-    mc ""
+    mc "Eso va por los dos, no solamente por mí."
 
 # game/game_script.rpy:3656
 translate spanish game_script_b1632332:
 
     # mc "I guess the best thing we can do now is just..."
-    mc ""
+    mc "Creo que lo mejor que podemos hacer ahora es...,"
 
 # game/game_script.rpy:3657
 translate spanish game_script_c0aa49f5:
 
     # mc "Get some rest."
-    mc ""
+    mc "descansar."
 
 # game/game_script.rpy:3658
 translate spanish game_script_fd7d67e5:
 
     # mc "After all, we’ve got a long day tomo--..."
-    mc ""
+    mc "Ya sabes, mañana será un d..."
 
 # game/game_script.rpy:3660
 translate spanish game_script_6a0ed89c:
 
     # "Oh crap."
-    ""
+    "Me cago en..."
 
 # game/game_script.rpy:3661
 translate spanish game_script_ac34c991:
 
     # "What’re we gonna do about her eye for tomorrow?"
-    ""
+    "¿Qué vamos a hacer mañana con ese ojo?"
 
 # game/game_script.rpy:3664
 translate spanish game_script_4450bbb4:
 
     # n "{i}I can’t go to school, [player]...{/i}"
-    n ""
+    n "No puedo pisar el insti, [player]..."
 
 # game/game_script.rpy:3666
 translate spanish game_script_e294519e:
 
     # n "Not like...{w}well, like {i}this.{/i}"
-    n ""
+    n "No voy a pisarlo... bueno,{w} con el ojo así."
 
 # game/game_script.rpy:3667
 translate spanish game_script_65e924bd:
 
     # n "And not tomorrow, at least."
-    n ""
+    n "Por lo menos, no mañana."
 
 # game/game_script.rpy:3670
 translate spanish game_script_523c40d7:
 
     # "Great, now I’m worrying again."
-    ""
+    "Genial, ahora me estoy comiendo más la cabeza."
 
 # game/game_script.rpy:3671
 translate spanish game_script_b84481d1:
 
     # "The only difference is that it isn’t about Sayori this time."
-    ""
+    "La única diferencia es que ahora no es por Sayori."
 
 # game/game_script.rpy:3673
 translate spanish game_script_c3687045:
 
     # mc "We can figure something out."
-    mc ""
+    mc "Ya buscaremos algo."
 
 # game/game_script.rpy:3674
 translate spanish game_script_1480cb77:
 
     # mc "We’ve gotten this far already."
-    mc ""
+    mc "Hemos llegado hasta este punto, no vamos a echarnos atrás."
 
 # game/game_script.rpy:3677
 translate spanish game_script_884cc4ba:
 
     # "Natsuki doesn't look entirely convinced, but doesn't question me either."
-    ""
+    "No parece muy convencida, pero no me cuestiona nada."
 
 # game/game_script.rpy:3680
 translate spanish game_script_d5a8a5e7:
 
     # n "I guess we’ll just have to see how it looks tomorrow."
-    n ""
+    n "Supongo que tendremos que esperar a mañana para ver cómo tengo el ojo."
 
 # game/game_script.rpy:3682
 translate spanish game_script_73366f6f:
 
     # mc "Yeah...{w}yeah, I guess you’re right."
-    mc ""
+    mc "Claro, tienes...{w} tienes razón."
 
 # game/game_script.rpy:3683
 translate spanish game_script_c0352714:
 
     # mc "Worst case scenario, you won’t be going to school."
-    mc ""
+    mc "En el peor de los casos, te quedas en casa."
 
 # game/game_script.rpy:3685
 translate spanish game_script_6a5fe1ce:
 
     # "There’s something oddly relieving about that."
-    ""
+    "Hay algo extrañamente reconfortante en eso."
 
 # game/game_script.rpy:3686
 translate spanish game_script_0dd23410:
 
     # "It gives us time to figure out what to do next."
-    ""
+    "Nos daría tiempo para planear lo próximo que haremos,"
 
 # game/game_script.rpy:3689
 translate spanish game_script_7ba25478:
 
     # "And right about now, time is exactly what we need."
-    ""
+    "y tiempo es lo que precisamente necesitamos."
 
 # game/game_script.rpy:3690
 translate spanish game_script_a986962c:
 
     # "Though unlikely to happen, I can’t help but speculate on how I can get Natsuki’s dad behind bars."
-    ""
+    "Aunque es poco probable que suceda, no paro de pensar en alguna forma de meter a ese animal entre rejas."
 
 # game/game_script.rpy:3691
 translate spanish game_script_3f739ce1_4:
 
     # "I sigh."
-    ""
+    "Profiero un largo suspiro."
 
 # game/game_script.rpy:3694
 translate spanish game_script_eec75f50:
