@@ -890,493 +890,493 @@ translate spanish game_script_3f739ce1_4:
 translate spanish game_script_eec75f50:
 
     # "The idea of simply waiting is gnawing away at my nerves."
-    ""
+    "El hecho de simplemente esperar me pone de los nervios..."
 
 # game/game_script.rpy:3695
 translate spanish game_script_1063ad3a:
 
     # "I can’t shake this idea that something bad will happen to Natsuki...{w}or to me."
-    ""
+    "Aunque no me quito de la cabeza que algo malo puede pasarle a Natauki...{w} o a mí."
 
 # game/game_script.rpy:3696
 translate spanish game_script_f25944d8:
 
     # "I mean, I can’t exactly {i}guarantee{/i} our safety."
-    ""
+    "A ver, no puedo garantizarnos seguridad total..."
 
 # game/game_script.rpy:3697
 translate spanish game_script_e2610be7:
 
     # "God dammit."
-    ""
+    "Me cago en Dios..."
 
 # game/game_script.rpy:3698
 translate spanish game_script_d5dd8ac7:
 
     # "Deep breaths, [player]."
-    ""
+    "Respira hondo, [player], respira hondo."
 
 # game/game_script.rpy:3699
 translate spanish game_script_2cbdaf44:
 
     # "Don’t lose your nerve."
-    ""
+    "No pierdas los estribos."
 
 # game/game_script.rpy:3701
 translate spanish game_script_b1459aa6:
 
     # "I look back towards Natsuki to see that she hasn’t even touched her food."
-    ""
+    "Me doy la vuelta y veo que Natsuki ni siquiera ha tocado su comida."
 
 # game/game_script.rpy:3704
 translate spanish game_script_72fd0b8b:
 
     # mc "Natsuki, are you alright?"
-    mc ""
+    mc "Natsuki, ¿Estás bien?"
 
 # game/game_script.rpy:3705
 translate spanish game_script_b3d62be0:
 
     # mc "I mean, you must be at least a {i}little{/i} hungry after all that."
-    mc ""
+    mc "Me refiero a que no has tocado la comida. Deberías tener, al menos, un poquito de hambre después de toda la mierda que hemos pasado."
 
 # game/game_script.rpy:3707
 translate spanish game_script_75af6fcb:
 
     # n "It’s not that, I’m starving."
-    n ""
+    n "No es eso. En realidad, me estoy muriendo de hambre."
 
 # game/game_script.rpy:3710
 translate spanish game_script_b266d658:
 
     # "She then raises her head in my direction, her black eye staring straight through me."
-    ""
+    "Al terminar de decir eso, levanta la cabeza en mi dirección. Su ojo ennegrecido me mira fijamente."
 
 # game/game_script.rpy:3711
 translate spanish game_script_774a7bbc:
 
     # "It’s a stark reminder of the hell she’s been through."
-    ""
+    "Es un crudo recordatorio de toda la mierda que ha tenido que soportar."
 
 # game/game_script.rpy:3712
 translate spanish game_script_45614442:
 
     # "I grimace at the thought."
-    ""
+    "Hago una mueca al pensarlo."
 
 # game/game_script.rpy:3716
 translate spanish game_script_e0c17718:
 
     # n "I just...{w}don’t feel like I’m free, [player]."
-    n ""
+    n "Lo que pasa es que...{w} no siento verdadera libertad, [player]."
 
 # game/game_script.rpy:3717
 translate spanish game_script_77e28c7e:
 
     # n "I’m afraid he’ll find a way to take me back."
-    n ""
+    n "Me aterra pensar en que encontrará alguna manera de hacerme volver a esa casa."
 
 # game/game_script.rpy:3720
 translate spanish game_script_48bfd2ad:
 
     # "Natsuki takes a deep breath."
-    ""
+    "Natsuki profiere un profundo suspiro."
 
 # game/game_script.rpy:3723
 translate spanish game_script_c34ebfc5:
 
     # n "I just feel so useless."
-    n ""
+    n "Me siento inútil..."
 
 # game/game_script.rpy:3724
 translate spanish game_script_3930a581:
 
     # n "I’ve only ever been mean to you, [player]."
-    n ""
+    n "Me he portado siempre muy mal contigo, [player]."
 
 # game/game_script.rpy:3725
 translate spanish game_script_b9a4bcc5:
 
     # n e1b mg "Even though y-you actually care about me..."
-    n e1b mg ""
+    n e1b mg "Y a pesar d-de eso, te preocupas p-por mí..."
 
 # game/game_script.rpy:3728
 translate spanish game_script_82a50af7:
 
     # "Natsuki's face begins to form a much more melancholic expression."
-    ""
+    "Noto una expresión mucho más melancólica formándose en la cara de Natsuki."
 
 # game/game_script.rpy:3729
 translate spanish game_script_93c2e334:
 
     # "It looks as if she's holding something back."
-    ""
+    "Parece como si se estuviese aguantando algo..."
 
 # game/game_script.rpy:3730
 translate spanish game_script_72f3d428:
 
     # "{i}I feel so sorry for her...{/i}"
-    ""
+    "Siento muchísima pena por ella ahora mismo..."
 
 # game/game_script.rpy:3733
 translate spanish game_script_dc8bddd0:
 
     # n "H-He ripped the first volume of Parfait Girls to pieces...{w}a-and {i}made{/i} me watch."
-    n ""
+    n "Destrozó el primer tomo de Parfait Girls en mi cara y m-me...{w} me hizo m-mirarlo..."
 
 # game/game_script.rpy:3736
 translate spanish game_script_42743d8a:
 
     # "Shit...{w}I remember seeing the torn pieces of manga littered across the floor."
-    ""
+    "Mierda...,{w} recuerdo ver trocitos de manga esparcidos por el suelo."
 
 # game/game_script.rpy:3737
 translate spanish game_script_deb3ce96:
 
     # "Guess I just didn't really react to it because I was too focused on getting her out."
-    ""
+    "Sacarla de allí era mi prioridad y no reaccioné cuando lo vi."
 
 # game/game_script.rpy:3738
 translate spanish game_script_bc34d5d5:
 
     # "And when it comes to how her father treats her, I’m left more confused than angry."
-    ""
+    "Y en cuanto a cómo la trata su padre, me siento más confundido que realmente cabreado."
 
 # game/game_script.rpy:3739
 translate spanish game_script_f73ff358:
 
     # "What sort of person would even consider doing that to someone, let alone their own daughter?"
-    ""
+    "¿Qué clase de persona consideraría hacerle eso a alguien? Y lo que es peor, ¿A su propia hija?"
 
 # game/game_script.rpy:3740
 translate spanish game_script_ecbfd9da:
 
     # "What sort of sick mindset justifies such a thing?"
-    ""
+    "¿Qué clase de enfermedad mental es capaz de justificar a semejante animal?"
 
 # game/game_script.rpy:3743
 translate spanish game_script_d57f8365:
 
     # n "That was the first manga I e-ever bought for myself..."
-    n ""
+    n "Fue el p-primer manga que me c-compré...,"
 
 # game/game_script.rpy:3744
 translate spanish game_script_ea0ab85a:
 
     # n "It was also the first manga I ever got to read with someone else, too..."
-    n ""
+    n "y el primero que leí con alguien..."
 
 # game/game_script.rpy:3747
 translate spanish game_script_c808fe24:
 
     # mc "Who's that?"
-    mc ""
+    mc "¿Con quién?"
 
 # game/game_script.rpy:3750
 translate spanish game_script_d66b6745:
 
     # "Natsuki then gives me a sincere look."
-    ""
+    "Natsuki me mira con sinceridad."
 
 # game/game_script.rpy:3751
 translate spanish game_script_f4683af6:
 
     # "{i}Oh.{/i}"
-    ""
+    "Ah."
 
 # game/game_script.rpy:3754
 translate spanish game_script_2297bda4:
 
     # n "No one was ever interested in what I liked."
-    n ""
+    n "A nadie le interesaban mis gustos, ¿sabes?"
 
 # game/game_script.rpy:3755
 translate spanish game_script_655f0bdf:
 
     # n "And when you joined the club, I thought that was gonna be the same."
-    n ""
+    n "Cuando te uniste al club, pensé que sería lo mismo."
 
 # game/game_script.rpy:3756
 translate spanish game_script_c8bae4f2:
 
     # n n4 mb e1a "But...{w}it wasn't."
-    n n4 mb e1a ""
+    n n4 mb e1a "La realidad es que...{w} no lo fue."
 
 # game/game_script.rpy:3757
 translate spanish game_script_fa5f6649:
 
     # n "...You cared."
-    n ""
+    n "Te interesaban."
 
 # game/game_script.rpy:3758
 translate spanish game_script_8ea1e3d1:
 
     # n "You actually took the time to like it."
-    n ""
+    n "Y te tomaste tu tiempo para que te gustasen."
 
 # game/game_script.rpy:3759
 translate spanish game_script_c28a4c70:
 
     # n lhip b1a mh e1b "That's never happened to me before..."
-    n lhip b1a mh e1b ""
+    n lhip b1a mh e1b "Y no es algo que me ocurriese antes..."
 
 # game/game_script.rpy:3760
 translate spanish game_script_93b20dcd:
 
     # n b1b n4 mb "I...{w}liked that."
-    n b1b n4 mb ""
+    n b1b n4 mb "Me...{w} me gustó."
 
 # game/game_script.rpy:3761
 translate spanish game_script_bc9e3b9e:
 
     # n ldown mh e1b "...Even if I didn't show it."
-    n ldown mh e1b ""
+    n ldown mh e1b "Aunque no lo dejase notar."
 
 # game/game_script.rpy:3762
 translate spanish game_script_67459c60:
 
     # n mg n1 "But..."
-    n mg n1 ""
+    n mg n1 "Pero...,"
 
 # game/game_script.rpy:3763
 translate spanish game_script_62d51007:
 
     # n "Now I keep on doubting as to whether it was worth it."
-    n ""
+    n "sigo con la duda de si valió o no la pena."
 
 # game/game_script.rpy:3764
 translate spanish game_script_c86c1d0e:
 
     # n "17 years...{w} and only one person I can call a good friend."
-    n ""
+    n "En mis 17 años...{w} solo existe una persona a la que pueda considerar un buen amigo."
 
 # game/game_script.rpy:3765
 translate spanish game_script_d4b5e7af:
 
     # n lhip rhip n2 mh e1a "D-Don't get me wrong or anything, the club members are nice."
-    n lhip rhip n2 mh e1a ""
+    n lhip rhip n2 mh e1a "Y no te confundas, las chicas del club son geniales."
 
 # game/game_script.rpy:3766
 translate spanish game_script_3eae8a49:
 
     # n ldown rdown n1 e1b "Yet...{w} I still don't feel they actually {i}care{/i}."
-    n ldown rdown n1 e1b ""
+    n ldown rdown n1 e1b "Pero no siento que a ellas...{w} les importe mucho."
 
 # game/game_script.rpy:3767
 translate spanish game_script_59a89373:
 
     # n n4 me b2b "Not as much as you."
-    n n4 me b2b ""
+    n n4 me b2b "Por lo menos, no tanto como a ti."
 
 # game/game_script.rpy:3768
 translate spanish game_script_9071b404:
 
     # n n1 "But now I'm thinking..."
-    n n1 ""
+    n n1 "Y ahora pienso..."
 
 # game/game_script.rpy:3770
 translate spanish game_script_0d9dade1:
 
     # "Natsuki then starts to mumble, I’m barely able to hear what she says."
-    ""
+    "Natsuki empieza a murmurar y es casi imposible entender lo que dice."
 
 # game/game_script.rpy:3772
 translate spanish game_script_a443482e:
 
     # n e4a z3 "Maybe he was right. Maybe I should just grow up."
-    n e4a z3 ""
+    n e4a z3 "Puede que tuviese razón y que realmente sí necesite madurar."
 
 # game/game_script.rpy:3774
 translate spanish game_script_3338fab1:
 
     # "I interrupt before she can continue."
-    ""
+    "La interrumpo antes de que siga hablando."
 
 # game/game_script.rpy:3777
 translate spanish game_script_d9bf8368:
 
     # mc "{i}Hey.{/i}"
-    mc ""
+    mc "Eh."
 
 # game/game_script.rpy:3778
 translate spanish game_script_1bdf3e91:
 
     # "Natsuki looks a bit scared by my sudden change in tone, but at least it managed to get her attention."
-    ""
+    "Natsuki se asusta un poco por mi cambio de tono repentino, pero he conseguido llamar su atención."
 
 # game/game_script.rpy:3780
 translate spanish game_script_7f757ec0:
 
     # n rhip me e1a "Y-Yeah?"
-    n rhip me e1a ""
+    n rhip me e1a "¿S-Sí?"
 
 # game/game_script.rpy:3783
 translate spanish game_script_8047bbfb:
 
     # mc "It’s not stupid to have an interest in something."
-    mc ""
+    mc "No es de inmaduros tener gustos."
 
 # game/game_script.rpy:3784
 translate spanish game_script_4c437ac2:
 
     # mc "You remember why you wrote, uhh, what was it called...Amy Likes Spiders?"
-    mc ""
+    mc "¿Recuerdas por qué escribiste...? Ay, ¿Cómo se llamaba? ¿'A Amy le gustan las arañas'?"
 
 # game/game_script.rpy:3785
 translate spanish game_script_5e0a6b19:
 
     # n lhip n2 md "..."
-    n lhip n2 md ""
+    n lhip n2 md "..."
 
 # game/game_script.rpy:3786
 translate spanish game_script_63422668:
 
     # mc "Because you thought people shouldn’t judge others for their interests."
-    mc ""
+    mc "Porque pensabas que la gente no debería juzgar a otra por sus gustos, ¿verdad?"
 
 # game/game_script.rpy:3788
 translate spanish game_script_f8acd21e:
 
     # mc "And if I recall correctly, you actually said that {i}those{/i} people were the stupid ones."
-    mc ""
+    mc "Y si recuerdo correctamente, dijiste que la gente que lo hacía era estúpida."
 
 # game/game_script.rpy:3789
 translate spanish game_script_78aae6be:
 
     # mc "Am I wrong?"
-    mc ""
+    mc "¿Me equivoco?"
 
 # game/game_script.rpy:3791
 translate spanish game_script_53a7f4fc:
 
     # "{cps=1.5}...{/cps}"
-    ""
+    "{cps=1.5}...{/cps}"
 
 # game/game_script.rpy:3792
 translate spanish game_script_11b0f9bc:
 
     # "A sigh escapes me."
-    ""
+    "Se escapa un suspiro de mi boca."
 
 # game/game_script.rpy:3795
 translate spanish game_script_068ae123:
 
     # mc "You’re a good person, Natsuki."
-    mc ""
+    mc "Eres muy buena persona, Natsuki."
 
 # game/game_script.rpy:3796
 translate spanish game_script_6e848601:
 
     # mc "Please don’t beat yourself up over something you had no control over."
-    mc ""
+    mc "Hazme el favor de no culparte por cosas que escapan de tu control."
 
 # game/game_script.rpy:3800
 translate spanish game_script_106e4e78:
 
     # "An awkward silence permeates the room."
-    ""
+    "Un silencio incómodo inunda el cuarto."
 
 # game/game_script.rpy:3801
 translate spanish game_script_9950bbf2:
 
     # "Did I upset her?"
-    ""
+    "¿Le ha molestado lo que he dicho?"
 
 # game/game_script.rpy:3802
 translate spanish game_script_a468bb02:
 
     # "I certainly hope not."
-    ""
+    "Espero que no."
 
 # game/game_script.rpy:3803
 translate spanish game_script_10c9d275:
 
     # "Should I try to say anything el--{w=0.2}{nw}"
-    ""
+    "¿Debería decirle algo más eleg...{w=0.2}{nw}"
 
 # game/game_script.rpy:3806
 translate spanish game_script_ceccb846:
 
     # n "Heh."
-    n ""
+    n "Je."
 
 # game/game_script.rpy:3809
 translate spanish game_script_51ab0b9c:
 
     # "Natsuki gives me a light shove."
-    ""
+    "Natsuki me propina un ligero empujón."
 
 # game/game_script.rpy:3812
 translate spanish game_script_3a4d9398:
 
     # n "Dummy."
-    n ""
+    n "Idiota."
 
 # game/game_script.rpy:3814
 translate spanish game_script_6e9bc282:
 
     # mc "E-Eh?"
-    mc ""
+    mc "¿Q-Qué?"
 
 # game/game_script.rpy:3816
 translate spanish game_script_ed740fd0:
 
     # n "You used my own poem against me."
-    n ""
+    n "Has usado mi propio poema contra mí."
 
 # game/game_script.rpy:3817
 translate spanish game_script_eaa2907c:
 
     # n "That’s no fair."
-    n ""
+    n "No me parece justo."
 
 # game/game_script.rpy:3820
 translate spanish game_script_601ef3f0:
 
     # "Relief is just about the only thing I feel right now."
-    ""
+    "Lo único que siento ahora es alivio."
 
 # game/game_script.rpy:3821
 translate spanish game_script_a0be1693:
 
     # "I’m just glad that I finally got through to her."
-    ""
+    "Me alegra haber podido llegar dentro suya."
 
 # game/game_script.rpy:3822
 translate spanish game_script_6944e50f:
 
     # "Even if it may only be for a short while."
-    ""
+    "Aunque sea por poco tiempo."
 
 # game/game_script.rpy:3823
 translate spanish game_script_9eac5ce7:
 
     # "Wait a minute..."
-    ""
+    "Un momento..."
 
 # game/game_script.rpy:3826
 translate spanish game_script_99895726:
 
     # mc "Hey, Natsuki. You said it was the first volume of Parfait Girls you uh...{w}{i}lost,{/i} right?"
-    mc ""
+    mc "Oye, Natsuki. Mencionaste que{w} 'perdiste'{w} tu primer tomo de Parfait, ¿verdad?"
 
 # game/game_script.rpy:3829
 translate spanish game_script_f5d1e9ac:
 
     # n "Y-Yeah, why?"
-    n ""
+    n "S-Sí, ¿por?"
 
 # game/game_script.rpy:3832
 translate spanish game_script_e577e8fa:
 
     # mc "Well, I got my own copy."
-    mc ""
+    mc "Pues porque tengo mi propia copia."
 
 # game/game_script.rpy:3833
 translate spanish game_script_b47cf1d9:
 
     # mc "Do you uh...{w}wanna read it together?"
-    mc ""
+    mc "¿Quieres...{w} leer juntos?"
 
 # game/game_script.rpy:3836
 translate spanish game_script_dc088225:
