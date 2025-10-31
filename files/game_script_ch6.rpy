@@ -1376,145 +1376,145 @@ translate spanish game_script_e577e8fa:
 translate spanish game_script_b47cf1d9:
 
     # mc "Do you uh...{w}wanna read it together?"
-    mc "¿Quieres...{w} leer juntos?"
+    mc "¿Quieres...{w} leerla conmigo?"
 
 # game/game_script.rpy:3836
 translate spanish game_script_dc088225:
 
     # "She smiles faintly."
-    ""
+    "Sonríe vagamente."
 
 # game/game_script.rpy:3839
 translate spanish game_script_2fe1bf98_3:
 
     # n "Yeah."
-    n ""
+    n "Sí."
 
 # game/game_script.rpy:3840
 translate spanish game_script_2279eb32:
 
     # n mc "I’d like that."
-    n mc ""
+    n mc "Por qué no."
 
 # game/game_script.rpy:3841
 translate spanish game_script_311d4e06:
 
     # n lhip n1 b1c "I’ll just finish this before we do."
-    n lhip n1 b1c ""
+    n lhip n1 b1c "Termino de comer y nos ponemos a leer."
 
 # game/game_script.rpy:3844
 translate spanish game_script_b320c05c:
 
     # "She points towards the soup on the table that’s more than likely lukewarm by now."
-    ""
+    "Señala la sopa al decirlo, que probablemente ya esté más que fría."
 
 # game/game_script.rpy:3846
 translate spanish game_script_51c6b5b9:
 
     # mc "Yeah, of course."
-    mc ""
+    mc "Claro, sin problemas."
 
 # game/game_script.rpy:3847
 translate spanish game_script_b49fee2b:
 
     # mc "I’ll get a blanket and some snacks set up. That sound good?"
-    mc ""
+    mc "Voy a preparar una manta y algo para picar, ¿te parece?"
 
 # game/game_script.rpy:3850
 translate spanish game_script_d56e5212:
 
     # n "Yeah, sure."
-    n ""
+    n "Claro."
 
 # game/game_script.rpy:3854
 translate spanish game_script_5a72ae9e:
 
     # "I walk to one of the cupboards where there should {i}hopefully{/i} be some snacks available."
-    ""
+    "Voy hacia uno de los armarios donde 'espero' que haya algo que picotear mientras leemos."
 
 # game/game_script.rpy:3855
 translate spanish game_script_a20cefa7_9:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:3856
 translate spanish game_script_009f461e:
 
     # "Crisps. Bingo."
-    ""
+    "Patatas fritas. Genial."
 
 # game/game_script.rpy:3857
 translate spanish game_script_2681aa6e:
 
     # mc "I’ll be waiting up in the spare room, alright?"
-    mc ""
+    mc "Te espero en la habitación de invitados, ¿vale?"
 
 # game/game_script.rpy:3859
 translate spanish game_script_07e78d06:
 
     # "Natsuki's head tilts towards me while she's eating the soup faster than I would've thought possible for a human being."
-    ""
+    "Natsuki asiente mientras come sopa a destajo. No he visto humano capaz de comer tan rápido como ella."
 
 # game/game_script.rpy:3861
 translate spanish game_script_a39f69b5:
 
     # n "Okay, I’ll be there in a minute."
-    n ""
+    n "Vale, tardo un minuto."
 
 # game/game_script.rpy:3865
 translate spanish game_script_bf6ea090:
 
     # "I walk up the stairs and head towards the spare room, reflecting on the past couple days."
-    ""
+    "Subo las escaleras y me dirijo a la habitación de invitados, reflexionando sobre los últimos días."
 
 # game/game_script.rpy:3866
 translate spanish game_script_8cc01c73:
 
     # "All the stress that has accumulated in me has drained me."
-    ""
+    "Todo el estrés acumulado me ha hecho mella."
 
 # game/game_script.rpy:3867
 translate spanish game_script_4522bf87:
 
     # "Despite my fatigue, I'd love nothing more than to stay up and read with Natsuki."
-    ""
+    "A pesar de la fatiga, lo único que quiero ahora mismo es leer con Natsuki."
 
 # game/game_script.rpy:3868
 translate spanish game_script_0bf9e27d:
 
     # "We could use a distraction to ease our minds."
-    ""
+    "Podemos usar esto como una distracción y así relajarnos."
 
 # game/game_script.rpy:3869
 translate spanish game_script_3649b8e8:
 
     # "I enter the room, and begin to get everything set up."
-    ""
+    "Una vez entro, empiezo a prepararlo todo."
 
 # game/game_script.rpy:3875
 translate spanish game_script_9f15bfd6:
 
     # "With everything in its right place and the blanket laid over me, I sit down on the sofa and wait for Natsuki to arrive."
-    ""
+    "Con todo preparado y la manta sobre mí, me siento en el sofá y espero a Natsuki."
 
 # game/game_script.rpy:3876
 translate spanish game_script_d5f0f25e:
 
     # "The blanket is large enough to wrap around us both thankfully, so things probably won’t be {i}too{/i} awkward between us."
-    ""
+    "Afortunadamente, la longitud de la manta es considerable y cabemos los dos, así que no será muy incómodo que digamos."
 
 # game/game_script.rpy:3877
 translate spanish game_script_326120ed:
 
     # "This gives me time to breathe a little, which I’m grateful for."
-    ""
+    "Tengo algo de tiempo pars respirar, y lo agradezco."
 
 # game/game_script.rpy:3878
 translate spanish game_script_ae5f243b:
 
     # "I grab the Parfait Girls volume and begin to stare at the cover."
-    ""
+    "Cojo el tomo y me quedo mirando la portada."
 
 # game/game_script.rpy:3879
 translate spanish game_script_b71b8f09:
