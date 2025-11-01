@@ -1694,79 +1694,79 @@ translate spanish game_script_1bf60051:
 translate spanish game_script_3c8785c0:
 
     # mc "If anything, it’s the absolute {i}least{/i} I can do to repay you for getting me into this series."
-    mc ""
+    mc "mc "En todo caso, es lo mínimo que puedo hacer para agradecerte que me hayas introducido en esta serie."
 
 # game/game_script.rpy:3938
 translate spanish game_script_5bdd6312:
 
     # "Natsuki’s eyes light up as her face glows red."
-    ""
+    "Los ojos de Natsuki se iluminan y su cara se enrojece."
 
 # game/game_script.rpy:3939
 translate spanish game_script_e798bd70:
 
     # "She takes the manga from my lending hand and holds it close to her chest."
-    ""
+    "Coge el tomo de mi mano extendida y lo coloca en su pecho."
 
 # game/game_script.rpy:3942
 translate spanish game_script_6bb4e70b:
 
     # n "Wait...{w}do you {i}actually{/i} like it..?"
-    n ""
+    n "Un momento...{w} ¿eso quiere decir que te ha gustado...?"
 
 # game/game_script.rpy:3944
 translate spanish game_script_7a6d41cc:
 
     # mc "Well, yeah."
-    mc ""
+    mc "Pues... sí, claro."
 
 # game/game_script.rpy:3946
 translate spanish game_script_d5d5c77d:
 
     # mc "Why else do you think I bought it?"
-    mc ""
+    mc "¿Lo hubiese comprado si no me gustase?"
 
 # game/game_script.rpy:3948
 translate spanish game_script_925966b6:
 
     # n "I dunno..."
-    n ""
+    n "A saber..."
 
 # game/game_script.rpy:3949
 translate spanish game_script_8b0fe54c:
 
     # n "I thought you were just trying to impress me, or something."
-    n ""
+    n "Pensaba que solo intentabas impresionarme... o algo así."
 
 # game/game_script.rpy:3951
 translate spanish game_script_85b87e0d:
 
     # mc "Really? What made you think that?"
-    mc ""
+    mc "¿Qué? ¿Qué te ha hecho pensar eso?"
 
 # game/game_script.rpy:3953
 translate spanish game_script_87dd66a3:
 
     # n "I-I dunno, it’s not like I can read your mind, dummy."
-    n ""
+    n "A s-saber qué, tampoco es que pueda leerte la mente, idiota."
 
 # game/game_script.rpy:3955
 translate spanish game_script_d98d9cec:
 
     # "The two of us erupt into a hearty chuckle."
-    ""
+    "Ambos soltamos una muy sonora carcajada."
 
 # game/game_script.rpy:3957
 translate spanish game_script_78e5e2a2:
 
     # "Once our laughter dies down, her smile dissipates into a somber expression."
-    ""
+    "Una vez que nuestra risa se apaga, su sonrisa desaparece y se transforma en una expresión sombría."
 
 # game/game_script.rpy:3958
 translate spanish game_script_a99b8274:
 
     # "She then speaks up once more."
-    ""
+    "De pronto, vuelve a hablar."
 
 # game/game_script.rpy:3961
 translate spanish game_script_21dd6d0b_1:
