@@ -1520,109 +1520,109 @@ translate spanish game_script_ae5f243b:
 translate spanish game_script_b71b8f09:
 
     # "It’s the same as the copy that Natsuki owned. The same girls striking the same animated poses."
-    ""
+    "Es la misma portada que tenía la copia de Natsuki. Las mismas chicas posando de la misma manera."
 
 # game/game_script.rpy:3880
 translate spanish game_script_73018084:
 
     # "I let out a light chuckle remembering when I first really got to talk to her."
-    ""
+    "Río levemente cuando recuerdo la primera vez que pude hablar con ella de verdad."
 
 # game/game_script.rpy:3881
 translate spanish game_script_8faf0c9f:
 
     # "She was definitely the most difficult to get a good understanding of out of all the club members."
-    ""
+    "Era de las más incomprensibles del club sin lugar a dudas."
 
 # game/game_script.rpy:3882
 translate spanish game_script_7a78d47b:
 
     # "Fortunately for me, however, we found common ground with our interest in manga."
-    ""
+    "Afortunadamente para mí, teníamos un gusto en común:{w} el manga."
 
 # game/game_script.rpy:3883
 translate spanish game_script_f092f60c:
 
     # "She’s actually really nice, once you get past the initial barriers, that is."
-    ""
+    "En realidad, Natsuki es muy simpática... siempre y cuando superes las barreras iniciales."
 
 # game/game_script.rpy:3884
 translate spanish game_script_e24f8152:
 
     # "Which makes it hurt even more to hear what she’s had to endure."
-    ""
+    "Y eso hace que duela mucho más cuando sabes todo lo que ha tenido que soportar."
 
 # game/game_script.rpy:3885
 translate spanish game_script_a20cefa7_10:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:3887
 translate spanish game_script_5b022629:
 
     # "Finished with my recollection, I lay the volume of manga beside me, close my eyes, and unwind for the first time in days."
-    ""
+    "Tras terminar de recordar, dejé el tomo al lado mía, cerré los ojos y me relajé por primera vez en días."
 
 # game/game_script.rpy:3888
 translate spanish game_script_aacd3089:
 
     # "Yet before I know it, I hear the door creak open, and a faint giggle emanating from the doorway."
-    ""
+    "Y antes de siquiera darme cuenta, escucho la puerta crujir junto a una risita que emana del umbral."
 
 # game/game_script.rpy:3894
 translate spanish game_script_f6e83b99:
 
     # n "You look comfy."
-    n ""
+    n "Muy cómodo estás tú, ¿eh?"
 
 # game/game_script.rpy:3897
 translate spanish game_script_c1cc24b6:
 
     # "I decide to play along with her more joyful attitude."
-    ""
+    "Opto por seguirle el rollo."
 
 # game/game_script.rpy:3899
 translate spanish game_script_24d3fba3:
 
     # mc "Well, I certainly {i}feel{/i} comfortable."
-    mc ""
+    mc "Ahora que lo dices... sí es cierto que estoy cómodo."
 
 # game/game_script.rpy:3900
 translate spanish game_script_657295f2:
 
     # mc "Wanna hop in and find out for yourself?"
-    mc ""
+    mc "¿Quieres venir... y lo descubres por ti misma?"
 
 # game/game_script.rpy:3902
 translate spanish game_script_ef380d26:
 
     # "I only just realise that what I said probably sounds really weird."
-    ""
+    "Acabo de darme cuenta de lo mal que ha sonado lo que he dicho."
 
 # game/game_script.rpy:3903
 translate spanish game_script_96830d41:
 
     # "Even if I {i}know{/i} that the blanket’s big enough, I still can’t help but feel like an absolute creep saying that to her."
-    ""
+    "Aunque yo sepa que lo he mencionado porque la manta es grande y cabemos los dos, ella no lo sabe y he quedado como un completo idiota habiéndole dicho eso."
 
 # game/game_script.rpy:3906
 translate spanish game_script_bc30fb18:
 
     # n "Heh. You bet!"
-    n ""
+    n "¡Ja! ¡Y que lo digas!"
 
 # game/game_script.rpy:3909
 translate spanish game_script_e11a1ebf:
 
     # "She then slides under the covers of the blanket with me."
-    ""
+    "Acto seguido, se desliza bajo las sábanas conmigo."
 
 # game/game_script.rpy:3910
 translate spanish game_script_e2e0f9be:
 
     # "I guess she either didn’t think it was weird at all or simply didn’t care."
-    ""
+    "Imagino que, o no le ha parecido raro, o no le ha importado lo más mínimo..."
 
 # game/game_script.rpy:3911
 translate spanish game_script_0c051773:
