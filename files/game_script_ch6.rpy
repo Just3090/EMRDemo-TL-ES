@@ -1628,67 +1628,67 @@ translate spanish game_script_e2e0f9be:
 translate spanish game_script_0c051773:
 
     # "Either way, I feel more at-ease around her, even if it's only for the time being."
-    ""
+    "De todas formas, me siento relajado con ella aquí... aunque sea por el momento."
 
 # game/game_script.rpy:3914
 translate spanish game_script_55dc80b7:
 
     # n "You’ve got the volume, right?"
-    n ""
+    n "¿Tienes el tomo?"
 
 # game/game_script.rpy:3916
 translate spanish game_script_5431091d:
 
     # mc "I sure do."
-    mc ""
+    mc "Pues claro que lo tengo."
 
 # game/game_script.rpy:3918
 translate spanish game_script_17abf402:
 
     # "I grab the manga laying next to me and show it to Natsuki."
-    ""
+    "Lo cojo para enseñárselo."
 
 # game/game_script.rpy:3921
 translate spanish game_script_e7e09d31:
 
     # n "U-Umm..."
-    n ""
+    n "E-Eh..."
 
 # game/game_script.rpy:3923
 translate spanish game_script_2e69a2a4_1:
 
     # mc "What’s up?"
-    mc ""
+    mc "¿Pasa algo?"
 
 # game/game_script.rpy:3926
 translate spanish game_script_f2777a18:
 
     # n "T-This is gonna sound really stupid, but...{w}would it be okay if I hold it?"
-    n ""
+    n "Es que s-sé que va a sonar estúpido, pero...{w} ¿te importaría que fuera yo quien sujete el tomo?"
 
 # game/game_script.rpy:3928
 translate spanish game_script_994d0e33:
 
     # n "Just for a bit."
-    n ""
+    n "Aunque sea un ratito."
 
 # game/game_script.rpy:3931
 translate spanish game_script_8fa1b836:
 
     # "I immediately understand why she’s asking this."
-    ""
+    "Entiendo de inmediato el motivo de su pregunta."
 
 # game/game_script.rpy:3932
 translate spanish game_script_63feb4ea:
 
     # "Without hesitation, I offer her the volume of manga."
-    ""
+    "Sin quejas, le ofrezo el manga."
 
 # game/game_script.rpy:3934
 translate spanish game_script_1bf60051:
 
     # mc "Of course."
-    mc ""
+    mc "Claro, ¿por qué iba a negarme?"
 
 # game/game_script.rpy:3935
 translate spanish game_script_3c8785c0:
