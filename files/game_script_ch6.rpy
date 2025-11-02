@@ -1904,94 +1904,94 @@ translate spanish game_script_7088a8c0:
 translate spanish game_script_4b4f8f6b:
 
     # n "S-So...{w}I guess we should actually {i}read{/i} Parfait Girls now..."
-    n ""
+    n "P-Pues...{w} creo que deberíamos empezar a leer ya Parfait Girls..."
 
 # game/game_script.rpy:4003
 translate spanish game_script_fce3b2f7:
 
     # mc "Yeah, I’d like that."
-    mc ""
+    mc "Claro, me encantaría."
 
 # game/game_script.rpy:4006
 translate spanish game_script_ed66f241:
 
     # "Natsuki retrieves the first volume, and eagerly opens it to the first page."
-    ""
+    "Natsuki vuelve a coger el tomo y lo abre entusiasmada por la primera página."
 
 # game/game_script.rpy:4007
 translate spanish game_script_c1fafe0c:
 
     # "Now that I’ve read a decent portion of the manga, I can finally joke and talk with her about certain characters, situations, and set-ups for different arcs."
-    ""
+    "Ahora que he leído una buena parte del manga, por fin puedo bromear y hablar con ella sobre ciertos personajes, situaciones y planteamientos de diferentes arcos argumentales."
 
 # game/game_script.rpy:4008
 translate spanish game_script_77b3df17:
 
     # "It’s really nice to talk with her like this."
-    ""
+    "Y es genial hablar con ella así."
 
 # game/game_script.rpy:4014
 translate spanish game_script_63dfd5ac:
 
     # "It’s been just over an hour, and we’ve finished reading through the first volume of Parfait Girls."
-    ""
+    "Ha pasado poco más de una hora y hemos terminado de leer el primer tomo de Parfait Girls."
 
 # game/game_script.rpy:4015
 translate spanish game_script_86b0bc02:
 
     # "It’s getting late, and it’s clear that we’re both very tired."
-    ""
+    "Se está haciendo tarde y es evidente que ambos estamos muy cansados."
 
 # game/game_script.rpy:4017
 translate spanish game_script_db347bc2:
 
     # mc "Hey, you wanna call this a night?"
-    mc ""
+    mc "¿Quieres que demos por terminado este día?"
 
 # game/game_script.rpy:4020
 translate spanish game_script_91137277:
 
     # "Natsuki looks towards me and speaks groggily."
-    ""
+    "Natsuki me mira y habla con tono adormilado."
 
 # game/game_script.rpy:4023
 translate spanish game_script_90369dcf:
 
     # n "Yeah..."
-    n ""
+    n "Porfa..."
 
 # game/game_script.rpy:4026
 translate spanish game_script_b4acb98c:
 
     # "We get up from the sofa and proceed to tidy things up."
-    ""
+    "Nos levantamos del sofá y guardamos todo."
 
 # game/game_script.rpy:4028
 translate spanish game_script_0f979283:
 
     # mc "Hey, do you want me to set up the room so that it should be more comfortable whilst you get ready?"
-    mc ""
+    mc "Oye, Natsuki, ¿quieres que te vaya preparando el cuarto mientras te arreglas?"
 
 # game/game_script.rpy:4030
 translate spanish game_script_50d2a5d6:
 
     # n "Nah, I think I’ve got it from here."
-    n ""
+    n "Qué va, creo que puedo encargarme de hacerlo."
 
 # game/game_script.rpy:4032
 translate spanish game_script_3cc67ec5:
 
     # n "Plus, you’re probably bound to mess something up."
-    n ""
+    n "Además, no me fío de que la líes."
 
 # game/game_script.rpy:4034
 translate spanish game_script_eb7a8b0e:
 
     # mc "{i}Hey!{/i} What happened to you being nice?"
-    mc ""
+    mc "¿¡Qué!? ¿Dónde se ha ido ese supuesto buen comportamiento?"
 
 # game/game_script.rpy:4036
 translate spanish game_script_011d96ac:
 
     # n "Dummy, I never said anything about me being nice, I apologised for being mean."
-    n ""
+    n "Nunca dije que fuese buena, dije que me disculpaba por tratarte mal. Idiota."
