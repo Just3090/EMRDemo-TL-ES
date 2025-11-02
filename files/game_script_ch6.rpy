@@ -1772,31 +1772,31 @@ translate spanish game_script_a99b8274:
 translate spanish game_script_21dd6d0b_1:
 
     # n "I’m sorry, [player]."
-    n ""
+    n "Lo siento, [player]."
 
 # game/game_script.rpy:3963
 translate spanish game_script_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/game_script.rpy:3965
 translate spanish game_script_56a0f5ff:
 
     # "I'm completely lost."
-    ""
+    "Me he perdido por completo."
 
 # game/game_script.rpy:3966
 translate spanish game_script_5eb7a54f:
 
     # "Why is she apologizing?"
-    ""
+    "¿Por qué se está disculpando?"
 
 # game/game_script.rpy:3967
 translate spanish game_script_1acd4be9:
 
     # "If I had to guess, I assume it has something to do with her issues at home."
-    ""
+    "Si tuviera que adivinar algún motivo, imagino que por todo lo referente a su casa."
 
 # game/game_script.rpy:3969
 translate spanish game_script_6f0e22a8:
