@@ -524,7 +524,7 @@ translate spanish game_script_7de46e88:
 translate spanish game_script_5255e524:
 
     # "She leans up and kisses me on the cheek."
-    "Se inclina y me ds un beso en la mejilla."
+    "Se inclina y me da un beso en la mejilla."
 
 # game/game_script.rpy:3584
 translate spanish game_script_1af39105:
@@ -896,7 +896,7 @@ translate spanish game_script_eec75f50:
 translate spanish game_script_1063ad3a:
 
     # "I can’t shake this idea that something bad will happen to Natsuki...{w}or to me."
-    "Aunque no me quito de la cabeza que algo malo puede pasarle a Natauki...{w} o a mí."
+    "Aunque no me quito de la cabeza que algo malo puede pasarle a Natsuki...{w} o a mí."
 
 # game/game_script.rpy:3696
 translate spanish game_script_f25944d8:
@@ -1508,7 +1508,7 @@ translate spanish game_script_d5f0f25e:
 translate spanish game_script_326120ed:
 
     # "This gives me time to breathe a little, which I’m grateful for."
-    "Tengo algo de tiempo pars respirar, y lo agradezco."
+    "Tengo algo de tiempo para respirar, y lo agradezco."
 
 # game/game_script.rpy:3878
 translate spanish game_script_ae5f243b:
@@ -1562,7 +1562,7 @@ translate spanish game_script_a20cefa7_10:
 translate spanish game_script_5b022629:
 
     # "Finished with my recollection, I lay the volume of manga beside me, close my eyes, and unwind for the first time in days."
-    "Tras terminar de recordar, dejé el tomo al lado mía, cerré los ojos y me relajé por primera vez en días."
+    "Tras terminar de recordar, dejé el tomo a mi lado, cerré los ojos y me relajé por primera vez en días."
 
 # game/game_script.rpy:3888
 translate spanish game_script_aacd3089:
@@ -1682,7 +1682,7 @@ translate spanish game_script_8fa1b836:
 translate spanish game_script_63feb4ea:
 
     # "Without hesitation, I offer her the volume of manga."
-    "Sin quejas, le ofrezo el manga."
+    "Sin quejas, le ofrezco el manga."
 
 # game/game_script.rpy:3934
 translate spanish game_script_1bf60051:
@@ -1694,7 +1694,7 @@ translate spanish game_script_1bf60051:
 translate spanish game_script_3c8785c0:
 
     # mc "If anything, it’s the absolute {i}least{/i} I can do to repay you for getting me into this series."
-    mc "mc "En todo caso, es lo mínimo que puedo hacer para agradecerte que me hayas introducido en esta serie."
+    mc "En todo caso, es lo mínimo que puedo hacer para agradecerte que me hayas introducido en esta serie."
 
 # game/game_script.rpy:3938
 translate spanish game_script_5bdd6312:

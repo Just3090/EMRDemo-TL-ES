@@ -1006,7 +1006,7 @@ translate spanish game_script_24135849:
 translate spanish game_script_1d4989ab:
 
     # "I’m stricken with guilt, as it was my own negligence that led her to this."
-    "Me atormeta la culpa, ya que ha sido mi propia negligencia la que la ha llevado a este extremo."
+    "Me atormenta la culpa, ya que ha sido mi propia negligencia la que la ha llevado a este extremo."
 
 # game/game_script.rpy:316
 translate spanish game_script_c46788a8:
@@ -1090,7 +1090,7 @@ translate spanish game_script_dbdd01fa:
 translate spanish game_script_9041f8f1:
 
     # "I feel terrible for Sayori, the fact that she’s in such pain right now and how oblivious I was to all of it."
-    "Me siento fatal por Sayori, por el hecho de que esté sufiendo tanto y lo ajeno que fui a ello."
+    "Me siento fatal por Sayori, por el hecho de que esté sufriendo tanto y lo ajeno que fui a ello."
 
 # game/game_script.rpy:337
 translate spanish game_script_42f823c1:

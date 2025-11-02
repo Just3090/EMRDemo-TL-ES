@@ -1808,7 +1808,7 @@ translate spanish game_script_67ce7fbc:
 translate spanish game_script_c04f8aa3:
 
     # "I wave to Monika, who seems to be staring at her desk."
-    "Me despido de Monika, la cual parece mirar fíjamente a su escritorio."
+    "Me despido de Monika, la cual parece mirar fijamente a su escritorio."
 
 # game/game_script.rpy:2746
 translate spanish game_script_eec13dbc:

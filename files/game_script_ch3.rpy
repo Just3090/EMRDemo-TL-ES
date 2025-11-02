@@ -986,7 +986,7 @@ translate spanish game_script_e04f8287:
 translate spanish game_script_90c622c3:
 
     # n "Is this something you really want to do?"
-    n "¿Es que esta la decisión que realmente quieres tomar?"
+    n "¿Es que es esta la decisión que realmente quieres tomar?"
 
 # game/game_script.rpy:1779
 translate spanish game_script_b2e8cdcc:
@@ -1340,7 +1340,7 @@ translate spanish game_script_b6a52fb2:
 translate spanish game_script_7c9b0e34:
 
     # "Natsuki slowly pulls her phone out of her pocket, and puts a finger in front of her mouth, mimicking a \"shush\"."
-    "Es de Natuki, que contesta al teléfono y hace un gesto con su dedo, poniéndolo en su boca, indicando que quiere que me calle."
+    "Es de Natsuki, que contesta al teléfono y hace un gesto con su dedo, poniéndolo en su boca, indicando que quiere que me calle."
 
 # game/game_script.rpy:1919
 translate spanish game_script_e0154157:
