@@ -1028,7 +1028,7 @@ translate spanish game_script_dc8bddd0:
 translate spanish game_script_42743d8a:
 
     # "Shit...{w}I remember seeing the torn pieces of manga littered across the floor."
-    "Mierda...,{w} recuerdo ver trocitos de manga esparcidos por el suelo."
+    "Mierda, es verdad...,{w} recuerdo ver trocitos de manga esparcidos por el suelo."
 
 # game/game_script.rpy:3737
 translate spanish game_script_deb3ce96:
@@ -1796,109 +1796,109 @@ translate spanish game_script_5eb7a54f:
 translate spanish game_script_1acd4be9:
 
     # "If I had to guess, I assume it has something to do with her issues at home."
-    "Si tuviera que adivinar algún motivo, imagino que por todo lo referente a su casa."
+    "Si tuviera que pensar en algún motivo, creo que sería por todo lo referente a sus problemas en casa."
 
 # game/game_script.rpy:3969
 translate spanish game_script_6f0e22a8:
 
     # mc "Natsuki, there’s nothing to be sorry about."
-    mc ""
+    mc "No hay nada por lo que disculparse, Natsuki."
 
 # game/game_script.rpy:3970
 translate spanish game_script_d300c528:
 
     # mc "There’s nothing else that you could’ve done to stop the...{w}well..."
-    mc ""
+    mc "No había nada que pudieses hacer para parar al...{w} eh..."
 
 # game/game_script.rpy:3972
 translate spanish game_script_b7c72162:
 
     # n "No, it’s not that I’m apologising for."
-    n ""
+    n "No, no es por eso por lo que pido disculpas."
 
 # game/game_script.rpy:3974
 translate spanish game_script_f2c2083b:
 
     # n "It’s what I said earlier...{w}about being mean to you."
-    n ""
+    n "Es acerca de lo que te comenté antes...,{w} ya sabes, lo de portarme mal contigo."
 
 # game/game_script.rpy:3975
 translate spanish game_script_3e2150aa:
 
     # n "You’re probably one of the nicest people I’ve ever met, and I’ve just treated you like crap."
-    n ""
+    n "Eres, probablemente, una de las personas más buenas que he conocido... y a la que he tratado como una mierda absoluta."
 
 # game/game_script.rpy:3977
 translate spanish game_script_8576350b:
 
     # n "And this might sound {i}incredibly{/i} stupid, but even though I’ve only known you for about a week, you’re probably one of the best friends I’ve ever had."
-    n ""
+    n "Y aunque suene increíblemente estúpido y te conozca de hace una semana, eres uno de los mejores amigos que he tenido."
 
 # game/game_script.rpy:3979
 translate spanish game_script_4f0a4ae2:
 
     # "She places the book down once more, and suddenly pulls me into an embrace, burying her face into my chest."
-    ""
+    "Deja el tomo y me abraza, poniendo su cara en mi pecho."
 
 # game/game_script.rpy:3981
 translate spanish game_script_b14a8dca:
 
     # n "So...{w}thanks, [player]."
-    n ""
+    n "Así que...,{w} gracias, [player]."
 
 # game/game_script.rpy:3984
 translate spanish game_script_821eb4e3:
 
     # "I wrap my arms around her, returning her embrace."
-    ""
+    "La envuelvo con mis brazos devolviéndole el gesto."
 
 # game/game_script.rpy:3986
 translate spanish game_script_14415342:
 
     # "Neither of us exchange a single word, as a peaceful silence fills the room."
-    ""
+    "Un silencio absoluto y pacífico inunda la habitación."
 
 # game/game_script.rpy:3987
 translate spanish game_script_66c888ba:
 
     # "Several minutes pass in an instant with Natsuki in my arms, but eventually she lets go and looks away."
-    ""
+    "El paso de los minutos se hace corto con Natsuki en mis brazos, pero me acaba soltando y mira hacia otro lado."
 
 # game/game_script.rpy:3990
 translate spanish game_script_e17daf0f:
 
     # n "S-Sorry about that."
-    n ""
+    n "P-Perdona."
 
 # game/game_script.rpy:3991
 translate spanish game_script_c1d3628b:
 
     # n "I just needed to get that off my chest, I guess."
-    n ""
+    n "Necesitaba hablarlo contigo y liberarlo de mi pecho..., creo."
 
 # game/game_script.rpy:3993
 translate spanish game_script_948b82a5:
 
     # mc "It’s fine, Natsuki."
-    mc ""
+    mc "Tranquila, Natsuki."
 
 # game/game_script.rpy:3994
 translate spanish game_script_d8290597:
 
     # mc "And, uh..."
-    mc ""
+    mc "Y..., eh..."
 
 # game/game_script.rpy:3995
 translate spanish game_script_c91272d6:
 
     # mc "I’m...{w}glad to know that I mean that much to you."
-    mc ""
+    mc "Me...{w} me alegra que signifique tanto para ti."
 
 # game/game_script.rpy:3998
 translate spanish game_script_7088a8c0:
 
     # "Her face practically glows red after I say that."
-    ""
+    "Cuando menciono eso último, la cara de Natsuki se enrojece."
 
 # game/game_script.rpy:4001
 translate spanish game_script_4b4f8f6b:
