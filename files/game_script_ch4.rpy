@@ -1160,13 +1160,13 @@ translate spanish game_script_7071e483:
 translate spanish game_script_d4487a84:
 
     # "As Sayori passes me, I feel her hand brush against mine."
-    "Cuando Sayori pasa al lado mía, siento que su mano roza la mía."
+    "Cuando Sayori pasa por mi lado, siento que su mano roza la mía."
 
 # game/game_script.rpy:2533
 translate spanish game_script_fa62530c:
 
     # "A silent {i}thank you{/i}."
-    "Puede que sea su forma de decirme 'gracias' de forma silenciosa..."
+    "Puede que sea su forma de decirme 'gracias' silenciosamente..."
 
 # game/game_script.rpy:2534
 translate spanish game_script_1e1ad925:
