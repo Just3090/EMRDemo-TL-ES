@@ -68,7 +68,7 @@ translate spanish game_script_c6ec4501:
 translate spanish game_script_a3013b85:
 
     # "{i}Shitshitsh{i}{nw}"
-    "Mierdamierdami{nw}"
+    "¡¡¡Mierdamierdami{nw}"
 
 # game/game_script.rpy:3432
 translate spanish game_script_0f300251:
@@ -110,7 +110,7 @@ translate spanish game_script_fb0d7f3d:
 translate spanish game_script_e20f53d4:
 
     # "No sense in leaving any more traces, I suppose."
-    "Así elimina todas las pruebas que queden de nuestra presencia."
+    "Imagino que así elimina todas las pruebas que queden de nuestra presencia."
 
 # game/game_script.rpy:3447
 translate spanish game_script_d127e6c4:
@@ -122,7 +122,7 @@ translate spanish game_script_d127e6c4:
 translate spanish game_script_db11ee4f:
 
     # "I pick up her bag and sprint towards the bus stop."
-    "Me cuelgo su mochila y corro hacia la parada de autobús."
+    "Cojo su maleta y corro hacia la parada de autobús."
 
 # game/game_script.rpy:3457
 translate spanish game_script_d0b575f4:

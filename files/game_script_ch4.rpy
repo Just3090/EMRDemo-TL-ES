@@ -1178,7 +1178,7 @@ translate spanish game_script_1e1ad925:
 translate spanish game_script_59cc70d4:
 
     # "Yuri walks back to her desk and sighs, opening her book again."
-    "Yuri vuelve a su escritorio, suspirando, mientras vuelve a abrir el libro que estaba leyendo."
+    "Yuri vuelve a su escritorio, suspirando, mientras abre el libro que estaba leyendo."
 
 # game/game_script.rpy:2538
 translate spanish game_script_2b144597:
@@ -1472,7 +1472,7 @@ translate spanish game_script_7e97ab4f:
 translate spanish game_script_b5cdd9b2:
 
     # "But I shake the feeling off, as Natsuki swipes the manga out of my hands, and replaces it in its box."
-    "Pero vuelvo a la realidad cuando Natauki me arrebata el tomo de las manos y lo deja en la colección de nuevo."
+    "Pero vuelvo a la realidad cuando Natsuki me arrebata el tomo de las manos y lo deja en la colección de nuevo."
 
 # game/game_script.rpy:2644
 translate spanish game_script_9f30234c:
@@ -1490,7 +1490,7 @@ translate spanish game_script_d0d2c064:
 translate spanish game_script_029de26b:
 
     # "Approaching Natsuki, I see she’s trying to stuff her Parfait Girls collection in her bag."
-    "Acercándome a Natsuki, parece que intenta meter toda su colección de Parfait Girls en su bolsa."
+    "Acercándome a Natsuki, parece que intenta meter toda su colección de Parfait Girls en su bolso."
 
 # game/game_script.rpy:2650
 translate spanish game_script_036f9b71:

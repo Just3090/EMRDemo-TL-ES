@@ -1892,7 +1892,7 @@ translate spanish game_script_6b2ed1a3:
 translate spanish game_script_376acc73:
 
     # "I put the bag on the sill, looking for the pillow."
-    "Apoyo la mochila en el alféizar buscando dónde ha caído la almohada."
+    "Apoyo la maleta en el alféizar buscando dónde ha caído la almohada."
 
 # game/game_script.rpy:3326
 translate spanish game_script_5223cdb3:
@@ -1916,7 +1916,7 @@ translate spanish game_script_0a6d6d28:
 translate spanish game_script_493fc1a7:
 
     # "I take a second to aim and...{w}drop it."
-    "Tras un rato apuntando a la almohada...{w} tiro la maleta."
+    "Tras un rato apuntando a la almohada...{w} la tiro."
 
 # game/game_script.rpy:3330
 translate spanish game_script_ccb7a8c2:
