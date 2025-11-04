@@ -650,7 +650,7 @@ translate spanish game_script_5e1f030f_3:
 translate spanish game_script_326f17d4:
 
     # "We're sa-{nw}"
-    "A sal{w}"
+    "A sal{nw}"
 
 # game/game_script.rpy:3618
 translate spanish game_script_f3b00d38:
@@ -746,7 +746,7 @@ translate spanish game_script_c3e07e06:
 translate spanish game_script_3ba9ec0d:
 
     # n "It’s been a...{w}{i}rough{/i} day."
-    n "Hoy hemos tenido un día bastante duro."
+    n "Hoy hemos tenido un día...{w} bastante duro."
 
 # game/game_script.rpy:3653
 translate spanish game_script_f7c62c6b:
@@ -932,7 +932,7 @@ translate spanish game_script_b1459aa6:
 translate spanish game_script_72fd0b8b:
 
     # mc "Natsuki, are you alright?"
-    mc "Natsuki, ¿Estás bien?"
+    mc "Natsuki, ¿estás bien?"
 
 # game/game_script.rpy:3705
 translate spanish game_script_b3d62be0:
@@ -1046,7 +1046,7 @@ translate spanish game_script_bc34d5d5:
 translate spanish game_script_f73ff358:
 
     # "What sort of person would even consider doing that to someone, let alone their own daughter?"
-    "¿Qué clase de persona consideraría hacerle eso a alguien? Y lo que es peor, ¿A su propia hija?"
+    "¿Qué clase de persona consideraría hacerle eso a alguien? Y lo que es peor, ¿a su propia hija?"
 
 # game/game_script.rpy:3740
 translate spanish game_script_ecbfd9da:
@@ -1274,7 +1274,7 @@ translate spanish game_script_6e848601:
 translate spanish game_script_106e4e78:
 
     # "An awkward silence permeates the room."
-    "Un silencio incómodo inunda el cuarto."
+    "Un silencio incómodo inunda la sala."
 
 # game/game_script.rpy:3801
 translate spanish game_script_9950bbf2:
@@ -1874,7 +1874,7 @@ translate spanish game_script_e17daf0f:
 translate spanish game_script_c1d3628b:
 
     # n "I just needed to get that off my chest, I guess."
-    n "Necesitaba hablarlo contigo y liberarlo de mi pecho..., creo."
+    n "Necesitaba hablarlo contigo y liberarlo de mis interiores..., creo."
 
 # game/game_script.rpy:3993
 translate spanish game_script_948b82a5:
