@@ -12,7 +12,7 @@ Este repositorio contiene los archivos necesarios para traducir al español el m
 Este proyecto es una traducción sin fines de lucro. Respeta los términos del mod original. No afiliado a Team Salvato.
 
 ## Estado del proyecto
-En desarrollo
+FINALIZADO
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
