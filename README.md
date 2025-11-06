@@ -16,7 +16,7 @@ FINALIZADO
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**2310 de 2406 líneas traducidas**
+**2310 de 2310 líneas traducidas**
 
-**Progreso:** 96.01%
+**Progreso:** 100.00%
 <!-- PROGRESO_TRADUCCION_END -->
